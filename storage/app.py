@@ -61,7 +61,7 @@ def save_champion_winrate(body):
     session.add(event)
     session.commit()
     session.close()
-    logger.debug(f"Stored event match_history with a trace id of {body['trace_id']}")
+    logger.debug(f"Stored event champion_winrate with a trace id of {body['trace_id']}")
     return NoContent, 201
 
 

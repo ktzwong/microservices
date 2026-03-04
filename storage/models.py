@@ -16,6 +16,7 @@ class MatchHistory(Base):
     win = mapped_column(Boolean, nullable=False)
     batch_timestamp = mapped_column(DateTime, nullable=False)
     date_created = mapped_column(DateTime, nullable=False,default=func.now())
+    trace_id = mapped_column(String(250), nullable=False)
 
 class ChampionWinRate(Base):
     __tablename__ = "champion_winrate"
@@ -28,3 +29,4 @@ class ChampionWinRate(Base):
     patch_version = mapped_column(String(50), nullable=False)
     batch_timestamp = mapped_column(DateTime, nullable=False)
     date_created = mapped_column(DateTime, nullable=False,default=func.now())
+    trace_id = mapped_column(String(250), nullable=False)
