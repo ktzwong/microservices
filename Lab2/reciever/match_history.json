@@ -1,0 +1,30 @@
+{
+  "num_match_history_batches": 42,
+  "recent_batch_data": [
+    {
+      "avg_kills": 10.0,
+      "num_matches": 1,
+      "received_timestamp": "2026-03-04 10:36:38.714099"
+    },
+    {
+      "avg_kills": 10.0,
+      "num_matches": 1,
+      "received_timestamp": "2026-03-04 10:36:38.747291"
+    },
+    {
+      "avg_kills": 10.0,
+      "num_matches": 1,
+      "received_timestamp": "2026-03-04 10:36:38.790145"
+    },
+    {
+      "avg_kills": 10.0,
+      "num_matches": 1,
+      "received_timestamp": "2026-03-04 10:36:38.855527"
+    },
+    {
+      "avg_kills": 10.0,
+      "num_matches": 1,
+      "received_timestamp": "2026-03-04 10:36:38.939450"
+    }
+  ]
+}

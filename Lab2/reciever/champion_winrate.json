@@ -1,0 +1,30 @@
+{
+  "num_champion_winrate_batches": 38,
+  "recent_batch_data": [
+    {
+      "avg_win_rate": 0.0,
+      "num_champions": 1,
+      "received_timestamp": "2026-03-04 10:36:38.733175"
+    },
+    {
+      "avg_win_rate": 0.0,
+      "num_champions": 1,
+      "received_timestamp": "2026-03-04 10:36:38.769621"
+    },
+    {
+      "avg_win_rate": 0.0,
+      "num_champions": 1,
+      "received_timestamp": "2026-03-04 10:36:38.807037"
+    },
+    {
+      "avg_win_rate": 0.0,
+      "num_champions": 1,
+      "received_timestamp": "2026-03-04 10:36:38.928156"
+    },
+    {
+      "avg_win_rate": 0.0,
+      "num_champions": 1,
+      "received_timestamp": "2026-03-04 10:36:38.954311"
+    }
+  ]
+}

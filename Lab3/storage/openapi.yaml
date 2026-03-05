@@ -1,0 +1,89 @@
+openapi: 3.0.3
+info:
+  version: 1.0.0
+  title: League Storage API
+
+paths:
+  /league/match_history:
+    post:
+      summary: Store a single match history event
+      operationId: app.save_match_history
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MatchHistoryEvent'
+      responses:
+        '201':
+          description: event stored
+        '400':
+          description: invalid input
+
+  /league/champion_winrate:
+    post:
+      summary: Store a single champion winrate event
+      operationId: app.save_champion_winrate
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ChampionWinRateEvent'
+      responses:
+        '201':
+          description: event stored
+        '400':
+          description: invalid input
+
+components:
+  schemas:
+
+    MatchHistoryEvent:
+      required:
+        - user_id
+        - match_id
+        - champion_id
+        - kills
+        - deaths
+        - win
+        - reporting_timestamp
+      properties:
+        user_id:
+          type: string
+        match_id:
+          type: string
+        champion_id:
+          type: integer
+        kills:
+          type: integer
+        deaths:
+          type: integer
+        win:
+          type: boolean
+        reporting_timestamp:
+          type: string
+          format: date-time
+      type: object
+
+    ChampionWinRateEvent:
+      required:
+        - source_id
+        - champion_id
+        - games_played
+        - win_rate
+        - patch_version
+        - reporting_timestamp
+      properties:
+        source_id:
+          type: string
+        champion_id:
+          type: integer
+        games_played:
+          type: integer
+        win_rate:
+          type: number
+        patch_version:
+          type: string
+        reporting_timestamp:
+          type: string
+          format: date-time
+      type: object
