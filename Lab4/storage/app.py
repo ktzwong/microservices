@@ -39,7 +39,7 @@ def save_match_history(body):
         kills = body['kills'],
         deaths = body['deaths'],
         win = body['win'],
-        batch_timestamp = datetime.strptime(body['batch_timestamp'], '%Y-%m-%dT%H:%M:%SZ'),
+        reporting_timestamp = datetime.strptime(body['reporting_timestamp'], '%Y-%m-%dT%H:%M:%SZ'),
         trace_id = body['trace_id']   
     )
     session.add(event)
@@ -55,7 +55,7 @@ def save_champion_winrate(body):
         games_played = body['games_played'],
         win_rate = body['win_rate'],
         patch_version = body['patch_version'],
-        batch_timestamp = datetime.strptime(body['batch_timestamp'], '%Y-%m-%dT%H:%M:%SZ'),
+        reporting_timestamp = datetime.strptime(body['reporting_timestamp'], '%Y-%m-%dT%H:%M:%SZ'),
         trace_id = body['trace_id']   
     )
     session.add(event)

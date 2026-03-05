@@ -1,0 +1,30 @@
+info:
+  name: champion wr
+  type: http
+  seq: 2
+
+http:
+  method: POST
+  url: http://localhost:8080/league/global_champion_winrates
+  body:
+    type: json
+    data: |-
+      {
+        "source_id": "source123",
+        "reporting_timestamp": "2025-01-01T00:00:00Z",
+        "patch_version": "16.1",
+        "champion_stats": [
+          {
+            "champion_id": 1,
+            "games_played": 100,
+            "win_rate": 0.55
+          }
+        ]
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

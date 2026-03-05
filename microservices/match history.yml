@@ -1,0 +1,32 @@
+info:
+  name: match history
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:8080/league/match_history
+  body:
+    type: json
+    data: |-
+      {
+        "user_id": "user123",
+        "Region": "NA",
+        "reporting_timestamp": "2025-01-01T00:00:00Z",
+        "matches": [
+          {
+            "match_id": "match001",
+            "champion_id": 1,
+            "kills": 5,
+            "deaths": 2,
+            "win": true
+          }
+        ]
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
