@@ -5,7 +5,7 @@ from sqlalchemy.orm import sessionmaker
 from datetime import datetime
 from models import MatchHistory, ChampionWinRate
 
-ENGINE = create_engine("sqlite:///league.db")
+ENGINE = create_engine("sqlite:///league.db",connect_args={"check_same_thread": False},pool_size=20,max_overflow=0)
 
 def make_session():
     return sessionmaker(bind=ENGINE)()
