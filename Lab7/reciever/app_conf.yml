@@ -1,0 +1,10 @@
+version: 1
+eventstore1:
+  url: http://localhost:8090/league/match_history
+eventstore2:
+  url: http://localhost:8090/league/champion_winrate
+
+events:
+  hostname: localhost
+  port: 9092
+  topic: events

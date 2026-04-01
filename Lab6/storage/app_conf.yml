@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  user: acit3855
+  password: password
+  hostname: localhost
+  port: 3306
+  db: events
+
+events:
+  hostname: localhost
+  port: 9092
+  topic: events
