@@ -4192,3 +4192,1163 @@
 2026-04-08 09:25:04,410 - basicLogger - INFO - Produced match_history event (trace_id: 14384e7b-4eaa-412e-ae7c-b413fa559c96)
 2026-04-08 09:25:04,507 - basicLogger - INFO - Received event match_history with a trace id of ac38adb5-14b2-4493-a414-1d94cab36c35
 2026-04-08 09:25:04,514 - basicLogger - INFO - Produced match_history event (trace_id: ac38adb5-14b2-4493-a414-1d94cab36c35)
+2026-04-08 09:25:26,003 - basicLogger - INFO - Received event match_history with a trace id of 76268506-0e25-49ee-b915-4ca63c435c4d
+2026-04-08 09:25:26,111 - basicLogger - INFO - Received event match_history with a trace id of 9116c914-9144-4a91-b736-48f6f127d92f
+2026-04-08 09:25:26,170 - basicLogger - INFO - Produced match_history event (trace_id: 76268506-0e25-49ee-b915-4ca63c435c4d)
+2026-04-08 09:25:26,204 - basicLogger - INFO - Received event match_history with a trace id of f68a3174-7100-4580-aa46-479c937d545a
+2026-04-08 09:25:26,213 - basicLogger - INFO - Produced match_history event (trace_id: f68a3174-7100-4580-aa46-479c937d545a)
+2026-04-08 09:25:26,228 - basicLogger - INFO - Produced match_history event (trace_id: 9116c914-9144-4a91-b736-48f6f127d92f)
+2026-04-08 09:25:26,313 - basicLogger - INFO - Received event match_history with a trace id of 869379b3-c6ef-4cba-981a-8b6227e84ecc
+2026-04-08 09:25:26,322 - basicLogger - INFO - Produced match_history event (trace_id: 869379b3-c6ef-4cba-981a-8b6227e84ecc)
+2026-04-08 09:25:26,402 - basicLogger - INFO - Received event match_history with a trace id of 35a220ea-0034-4f2c-9d7a-cc5902cb7907
+2026-04-08 09:25:26,410 - basicLogger - INFO - Produced match_history event (trace_id: 35a220ea-0034-4f2c-9d7a-cc5902cb7907)
+2026-04-08 09:25:26,502 - basicLogger - INFO - Received event match_history with a trace id of 9680baf0-2137-4f1a-8bee-78d00e636a49
+2026-04-08 09:25:26,511 - basicLogger - INFO - Produced match_history event (trace_id: 9680baf0-2137-4f1a-8bee-78d00e636a49)
+2026-04-08 09:25:26,602 - basicLogger - INFO - Received event match_history with a trace id of 2e35a70e-1c11-4d7a-a773-c5e0dc1cf518
+2026-04-08 09:25:26,610 - basicLogger - INFO - Produced match_history event (trace_id: 2e35a70e-1c11-4d7a-a773-c5e0dc1cf518)
+2026-04-08 09:25:26,703 - basicLogger - INFO - Received event match_history with a trace id of d9bd4c61-4de6-4a65-8b72-7429c23a5c6b
+2026-04-08 09:25:26,712 - basicLogger - INFO - Produced match_history event (trace_id: d9bd4c61-4de6-4a65-8b72-7429c23a5c6b)
+2026-04-08 09:25:26,803 - basicLogger - INFO - Received event match_history with a trace id of c2692a8a-4bb6-41e9-9ba4-26a2de580d74
+2026-04-08 09:25:26,811 - basicLogger - INFO - Produced match_history event (trace_id: c2692a8a-4bb6-41e9-9ba4-26a2de580d74)
+2026-04-08 09:25:26,903 - basicLogger - INFO - Received event match_history with a trace id of b9a24700-188c-4fb1-b271-cebb0d931cc7
+2026-04-08 09:25:26,911 - basicLogger - INFO - Produced match_history event (trace_id: b9a24700-188c-4fb1-b271-cebb0d931cc7)
+2026-04-08 09:25:31,170 - basicLogger - INFO - Received event champion_winrate with a trace id of 41445ecd-51a4-41a7-8cad-4b8e246ef517
+2026-04-08 09:25:31,179 - basicLogger - INFO - Produced champion_winrate event (trace_id: 41445ecd-51a4-41a7-8cad-4b8e246ef517)
+2026-04-08 09:25:31,213 - basicLogger - INFO - Received event champion_winrate with a trace id of 81750da4-e2b5-4df8-a3b2-90c121a689cb
+2026-04-08 09:25:31,222 - basicLogger - INFO - Produced champion_winrate event (trace_id: 81750da4-e2b5-4df8-a3b2-90c121a689cb)
+2026-04-08 09:25:31,227 - basicLogger - INFO - Received event champion_winrate with a trace id of 4eddb312-0933-4c76-9c29-8b058f84fbca
+2026-04-08 09:25:31,235 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4eddb312-0933-4c76-9c29-8b058f84fbca)
+2026-04-08 09:25:31,322 - basicLogger - INFO - Received event champion_winrate with a trace id of 7b2cae4c-a8d3-4ff5-9893-f5092a22d2f5
+2026-04-08 09:25:31,331 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7b2cae4c-a8d3-4ff5-9893-f5092a22d2f5)
+2026-04-08 09:25:31,409 - basicLogger - INFO - Received event champion_winrate with a trace id of e807be92-0309-4606-901c-016b272ed641
+2026-04-08 09:25:31,419 - basicLogger - INFO - Produced champion_winrate event (trace_id: e807be92-0309-4606-901c-016b272ed641)
+2026-04-08 09:25:31,510 - basicLogger - INFO - Received event champion_winrate with a trace id of c0e4a60c-4444-43c7-ba7e-b615c7260bb5
+2026-04-08 09:25:31,520 - basicLogger - INFO - Produced champion_winrate event (trace_id: c0e4a60c-4444-43c7-ba7e-b615c7260bb5)
+2026-04-08 09:25:31,610 - basicLogger - INFO - Received event champion_winrate with a trace id of 26235462-00a4-47c7-ac95-684a3bc88c21
+2026-04-08 09:25:31,621 - basicLogger - INFO - Produced champion_winrate event (trace_id: 26235462-00a4-47c7-ac95-684a3bc88c21)
+2026-04-08 09:25:31,711 - basicLogger - INFO - Received event champion_winrate with a trace id of 23bc44cc-a97b-4449-8801-8c96cb97060c
+2026-04-08 09:25:31,720 - basicLogger - INFO - Produced champion_winrate event (trace_id: 23bc44cc-a97b-4449-8801-8c96cb97060c)
+2026-04-08 09:25:31,812 - basicLogger - INFO - Received event champion_winrate with a trace id of 2fd9eba3-9f83-404d-a558-7e49476f466f
+2026-04-08 09:25:31,821 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2fd9eba3-9f83-404d-a558-7e49476f466f)
+2026-04-08 09:25:31,910 - basicLogger - INFO - Received event champion_winrate with a trace id of d8b15be2-3975-4f99-b261-4598928e7467
+2026-04-08 09:25:31,920 - basicLogger - INFO - Produced champion_winrate event (trace_id: d8b15be2-3975-4f99-b261-4598928e7467)
+2026-04-08 09:25:36,182 - basicLogger - INFO - Received event match_history with a trace id of 52fac014-dfa7-4457-bb68-7719800240ad
+2026-04-08 09:25:36,190 - basicLogger - INFO - Produced match_history event (trace_id: 52fac014-dfa7-4457-bb68-7719800240ad)
+2026-04-08 09:25:36,226 - basicLogger - INFO - Received event match_history with a trace id of d164e27b-8849-4b45-b055-bc7cad9dbcfe
+2026-04-08 09:25:36,234 - basicLogger - INFO - Produced match_history event (trace_id: d164e27b-8849-4b45-b055-bc7cad9dbcfe)
+2026-04-08 09:25:36,238 - basicLogger - INFO - Received event match_history with a trace id of fa267606-9d25-4fd4-a67b-b75953bec2d2
+2026-04-08 09:25:36,246 - basicLogger - INFO - Produced match_history event (trace_id: fa267606-9d25-4fd4-a67b-b75953bec2d2)
+2026-04-08 09:25:36,335 - basicLogger - INFO - Received event match_history with a trace id of 28448553-6fe5-423c-8235-e85ced9589b3
+2026-04-08 09:25:36,344 - basicLogger - INFO - Produced match_history event (trace_id: 28448553-6fe5-423c-8235-e85ced9589b3)
+2026-04-08 09:25:36,423 - basicLogger - INFO - Received event match_history with a trace id of 558f3465-de39-4d09-8e97-26951789a3c1
+2026-04-08 09:25:36,431 - basicLogger - INFO - Produced match_history event (trace_id: 558f3465-de39-4d09-8e97-26951789a3c1)
+2026-04-08 09:25:36,524 - basicLogger - INFO - Received event match_history with a trace id of 28d7d35e-4916-4b3e-b007-9d9eac465a3c
+2026-04-08 09:25:36,533 - basicLogger - INFO - Produced match_history event (trace_id: 28d7d35e-4916-4b3e-b007-9d9eac465a3c)
+2026-04-08 09:25:36,625 - basicLogger - INFO - Received event match_history with a trace id of 97876cb0-6b55-4ce3-aeee-11c110526f26
+2026-04-08 09:25:36,632 - basicLogger - INFO - Produced match_history event (trace_id: 97876cb0-6b55-4ce3-aeee-11c110526f26)
+2026-04-08 09:25:36,724 - basicLogger - INFO - Received event match_history with a trace id of a95f496d-b31c-40e3-a956-889ec4ebe448
+2026-04-08 09:25:36,732 - basicLogger - INFO - Produced match_history event (trace_id: a95f496d-b31c-40e3-a956-889ec4ebe448)
+2026-04-08 09:25:36,825 - basicLogger - INFO - Received event match_history with a trace id of 7117fb83-0685-4ed6-9763-785abb11385f
+2026-04-08 09:25:36,833 - basicLogger - INFO - Produced match_history event (trace_id: 7117fb83-0685-4ed6-9763-785abb11385f)
+2026-04-08 09:25:36,924 - basicLogger - INFO - Received event match_history with a trace id of 98b6b5a6-5e2c-4f16-be27-8899ad128bde
+2026-04-08 09:25:36,932 - basicLogger - INFO - Produced match_history event (trace_id: 98b6b5a6-5e2c-4f16-be27-8899ad128bde)
+2026-04-08 09:25:41,193 - basicLogger - INFO - Received event champion_winrate with a trace id of a47043d1-64d9-4192-a786-b752ea2826aa
+2026-04-08 09:25:41,200 - basicLogger - INFO - Produced champion_winrate event (trace_id: a47043d1-64d9-4192-a786-b752ea2826aa)
+2026-04-08 09:25:41,237 - basicLogger - INFO - Received event champion_winrate with a trace id of a9494123-20d1-4abd-805b-d94fa753681b
+2026-04-08 09:25:41,245 - basicLogger - INFO - Produced champion_winrate event (trace_id: a9494123-20d1-4abd-805b-d94fa753681b)
+2026-04-08 09:25:41,250 - basicLogger - INFO - Received event champion_winrate with a trace id of 211e7935-5aa6-4ac8-954b-ba720480e4a2
+2026-04-08 09:25:41,260 - basicLogger - INFO - Produced champion_winrate event (trace_id: 211e7935-5aa6-4ac8-954b-ba720480e4a2)
+2026-04-08 09:25:41,348 - basicLogger - INFO - Received event champion_winrate with a trace id of e674ccdd-8839-4d96-ab89-11c1c3b4622e
+2026-04-08 09:25:41,355 - basicLogger - INFO - Produced champion_winrate event (trace_id: e674ccdd-8839-4d96-ab89-11c1c3b4622e)
+2026-04-08 09:25:41,435 - basicLogger - INFO - Received event champion_winrate with a trace id of b94d4f39-c5b4-4e5a-995e-f4fa274ca589
+2026-04-08 09:25:41,442 - basicLogger - INFO - Produced champion_winrate event (trace_id: b94d4f39-c5b4-4e5a-995e-f4fa274ca589)
+2026-04-08 09:25:41,537 - basicLogger - INFO - Received event champion_winrate with a trace id of 9ff9cc79-22af-43d0-8971-cb0cea9b6bf3
+2026-04-08 09:25:41,543 - basicLogger - INFO - Produced champion_winrate event (trace_id: 9ff9cc79-22af-43d0-8971-cb0cea9b6bf3)
+2026-04-08 09:25:41,636 - basicLogger - INFO - Received event champion_winrate with a trace id of ddce25f6-2c33-471c-930e-e90e2e03452f
+2026-04-08 09:25:41,643 - basicLogger - INFO - Produced champion_winrate event (trace_id: ddce25f6-2c33-471c-930e-e90e2e03452f)
+2026-04-08 09:25:41,736 - basicLogger - INFO - Received event champion_winrate with a trace id of 0e6425fd-11e3-4c76-b733-388b994612ce
+2026-04-08 09:25:41,744 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0e6425fd-11e3-4c76-b733-388b994612ce)
+2026-04-08 09:25:41,837 - basicLogger - INFO - Received event champion_winrate with a trace id of 706babaf-2520-496a-93df-3df660b415c9
+2026-04-08 09:25:41,845 - basicLogger - INFO - Produced champion_winrate event (trace_id: 706babaf-2520-496a-93df-3df660b415c9)
+2026-04-08 09:25:41,935 - basicLogger - INFO - Received event champion_winrate with a trace id of 8c3a876e-45b0-442d-97d3-5887fc68194f
+2026-04-08 09:25:41,942 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8c3a876e-45b0-442d-97d3-5887fc68194f)
+2026-04-08 09:25:46,204 - basicLogger - INFO - Received event match_history with a trace id of d0c9f547-4ff9-442e-934b-298c8898281a
+2026-04-08 09:25:46,212 - basicLogger - INFO - Produced match_history event (trace_id: d0c9f547-4ff9-442e-934b-298c8898281a)
+2026-04-08 09:25:46,248 - basicLogger - INFO - Received event match_history with a trace id of a657c096-7966-4cd7-9cad-7d446f2ec122
+2026-04-08 09:25:46,257 - basicLogger - INFO - Produced match_history event (trace_id: a657c096-7966-4cd7-9cad-7d446f2ec122)
+2026-04-08 09:25:46,263 - basicLogger - INFO - Received event match_history with a trace id of 52793a59-b448-4ba8-8260-ec5f7966b6d9
+2026-04-08 09:25:46,273 - basicLogger - INFO - Produced match_history event (trace_id: 52793a59-b448-4ba8-8260-ec5f7966b6d9)
+2026-04-08 09:25:46,359 - basicLogger - INFO - Received event match_history with a trace id of 07fc8b7f-573d-49a7-81e0-6ed4306f260a
+2026-04-08 09:25:46,365 - basicLogger - INFO - Produced match_history event (trace_id: 07fc8b7f-573d-49a7-81e0-6ed4306f260a)
+2026-04-08 09:25:46,445 - basicLogger - INFO - Received event match_history with a trace id of 661a0f7e-954e-4de0-a8eb-e5d83a1020ed
+2026-04-08 09:25:46,453 - basicLogger - INFO - Produced match_history event (trace_id: 661a0f7e-954e-4de0-a8eb-e5d83a1020ed)
+2026-04-08 09:25:46,548 - basicLogger - INFO - Received event match_history with a trace id of fa243156-7f3c-41fb-a281-2a45e29a8629
+2026-04-08 09:25:46,556 - basicLogger - INFO - Produced match_history event (trace_id: fa243156-7f3c-41fb-a281-2a45e29a8629)
+2026-04-08 09:25:46,647 - basicLogger - INFO - Received event match_history with a trace id of e5f596db-14ed-4853-bc6e-b2f21ad801d8
+2026-04-08 09:25:46,654 - basicLogger - INFO - Produced match_history event (trace_id: e5f596db-14ed-4853-bc6e-b2f21ad801d8)
+2026-04-08 09:25:46,748 - basicLogger - INFO - Received event match_history with a trace id of faef58cc-190e-4038-9b2b-724b482c2464
+2026-04-08 09:25:46,757 - basicLogger - INFO - Produced match_history event (trace_id: faef58cc-190e-4038-9b2b-724b482c2464)
+2026-04-08 09:25:46,848 - basicLogger - INFO - Received event match_history with a trace id of b90823a0-a2c4-492f-9230-63157bc68d09
+2026-04-08 09:25:46,855 - basicLogger - INFO - Produced match_history event (trace_id: b90823a0-a2c4-492f-9230-63157bc68d09)
+2026-04-08 09:25:46,946 - basicLogger - INFO - Received event match_history with a trace id of 413caf16-186d-43a7-a081-43efcf3a609c
+2026-04-08 09:25:46,954 - basicLogger - INFO - Produced match_history event (trace_id: 413caf16-186d-43a7-a081-43efcf3a609c)
+2026-04-08 09:25:51,216 - basicLogger - INFO - Received event champion_winrate with a trace id of 70323084-7db9-465c-a220-f4bd2152dfa6
+2026-04-08 09:25:51,225 - basicLogger - INFO - Produced champion_winrate event (trace_id: 70323084-7db9-465c-a220-f4bd2152dfa6)
+2026-04-08 09:25:51,260 - basicLogger - INFO - Received event champion_winrate with a trace id of 19b51cae-c755-415c-9584-2c15c51ff3d1
+2026-04-08 09:25:51,268 - basicLogger - INFO - Produced champion_winrate event (trace_id: 19b51cae-c755-415c-9584-2c15c51ff3d1)
+2026-04-08 09:25:51,276 - basicLogger - INFO - Received event champion_winrate with a trace id of c39fab21-043a-46f8-b90d-3b4bffa57943
+2026-04-08 09:25:51,283 - basicLogger - INFO - Produced champion_winrate event (trace_id: c39fab21-043a-46f8-b90d-3b4bffa57943)
+2026-04-08 09:25:51,369 - basicLogger - INFO - Received event champion_winrate with a trace id of a24f5b0e-4b14-444a-9adf-1f9ef8f6c594
+2026-04-08 09:25:51,377 - basicLogger - INFO - Produced champion_winrate event (trace_id: a24f5b0e-4b14-444a-9adf-1f9ef8f6c594)
+2026-04-08 09:25:51,457 - basicLogger - INFO - Received event champion_winrate with a trace id of a49ad422-ede2-45c1-8094-d458a637500d
+2026-04-08 09:25:51,465 - basicLogger - INFO - Produced champion_winrate event (trace_id: a49ad422-ede2-45c1-8094-d458a637500d)
+2026-04-08 09:25:51,560 - basicLogger - INFO - Received event champion_winrate with a trace id of a706701c-fbe2-4985-9a81-37221edc4a16
+2026-04-08 09:25:51,573 - basicLogger - INFO - Produced champion_winrate event (trace_id: a706701c-fbe2-4985-9a81-37221edc4a16)
+2026-04-08 09:25:51,658 - basicLogger - INFO - Received event champion_winrate with a trace id of 7a19f6b7-ac8a-48ed-9a36-08c41643998c
+2026-04-08 09:25:51,665 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7a19f6b7-ac8a-48ed-9a36-08c41643998c)
+2026-04-08 09:25:51,761 - basicLogger - INFO - Received event champion_winrate with a trace id of 2bde0d7b-3d64-4d72-9c60-ea84c9e1cc88
+2026-04-08 09:25:51,768 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2bde0d7b-3d64-4d72-9c60-ea84c9e1cc88)
+2026-04-08 09:25:51,861 - basicLogger - INFO - Received event champion_winrate with a trace id of b74598fa-b9aa-48a8-8af4-d1a8624fff74
+2026-04-08 09:25:51,868 - basicLogger - INFO - Produced champion_winrate event (trace_id: b74598fa-b9aa-48a8-8af4-d1a8624fff74)
+2026-04-08 09:25:51,958 - basicLogger - INFO - Received event champion_winrate with a trace id of b88c715a-53b4-4379-bedf-9ef4f8432313
+2026-04-08 09:25:51,965 - basicLogger - INFO - Produced champion_winrate event (trace_id: b88c715a-53b4-4379-bedf-9ef4f8432313)
+2026-04-08 09:25:56,229 - basicLogger - INFO - Received event match_history with a trace id of 1d51ffcd-edd9-41fb-9f2a-dcba96eeff48
+2026-04-08 09:25:56,238 - basicLogger - INFO - Produced match_history event (trace_id: 1d51ffcd-edd9-41fb-9f2a-dcba96eeff48)
+2026-04-08 09:25:56,272 - basicLogger - INFO - Received event match_history with a trace id of 3bcda55a-a011-452b-b0fb-98ddd7e7bda0
+2026-04-08 09:25:56,280 - basicLogger - INFO - Produced match_history event (trace_id: 3bcda55a-a011-452b-b0fb-98ddd7e7bda0)
+2026-04-08 09:25:56,286 - basicLogger - INFO - Received event match_history with a trace id of ea5cdb32-6546-427a-b998-e4dff7ea7148
+2026-04-08 09:25:56,294 - basicLogger - INFO - Produced match_history event (trace_id: ea5cdb32-6546-427a-b998-e4dff7ea7148)
+2026-04-08 09:25:56,382 - basicLogger - INFO - Received event match_history with a trace id of 17c75c57-9938-436d-a508-c3e43a0a9e67
+2026-04-08 09:25:56,390 - basicLogger - INFO - Produced match_history event (trace_id: 17c75c57-9938-436d-a508-c3e43a0a9e67)
+2026-04-08 09:25:56,469 - basicLogger - INFO - Received event match_history with a trace id of fd4207e3-c341-40f4-b21e-1f76f54b6049
+2026-04-08 09:25:56,477 - basicLogger - INFO - Produced match_history event (trace_id: fd4207e3-c341-40f4-b21e-1f76f54b6049)
+2026-04-08 09:25:56,576 - basicLogger - INFO - Received event match_history with a trace id of d65ec838-16c7-4787-a53c-591f26ccc80b
+2026-04-08 09:25:56,583 - basicLogger - INFO - Produced match_history event (trace_id: d65ec838-16c7-4787-a53c-591f26ccc80b)
+2026-04-08 09:25:56,669 - basicLogger - INFO - Received event match_history with a trace id of 72691b1f-ae26-4cc0-a299-7d9da671c608
+2026-04-08 09:25:56,675 - basicLogger - INFO - Produced match_history event (trace_id: 72691b1f-ae26-4cc0-a299-7d9da671c608)
+2026-04-08 09:25:56,772 - basicLogger - INFO - Received event match_history with a trace id of 394947d8-8c9b-47ea-a954-f70b4cad3360
+2026-04-08 09:25:56,778 - basicLogger - INFO - Produced match_history event (trace_id: 394947d8-8c9b-47ea-a954-f70b4cad3360)
+2026-04-08 09:25:56,872 - basicLogger - INFO - Received event match_history with a trace id of e1dbb41f-f03b-4c4f-a138-4cf1bef1629c
+2026-04-08 09:25:56,879 - basicLogger - INFO - Produced match_history event (trace_id: e1dbb41f-f03b-4c4f-a138-4cf1bef1629c)
+2026-04-08 09:25:56,972 - basicLogger - INFO - Received event match_history with a trace id of 15d2c272-e302-4d31-95ba-b3496a9182ec
+2026-04-08 09:25:56,980 - basicLogger - INFO - Produced match_history event (trace_id: 15d2c272-e302-4d31-95ba-b3496a9182ec)
+2026-04-08 09:26:01,238 - basicLogger - INFO - Received event champion_winrate with a trace id of b1dcb52f-d3cb-4fa7-8b09-80b597314ab5
+2026-04-08 09:26:01,247 - basicLogger - INFO - Produced champion_winrate event (trace_id: b1dcb52f-d3cb-4fa7-8b09-80b597314ab5)
+2026-04-08 09:26:01,279 - basicLogger - INFO - Received event champion_winrate with a trace id of fadddfbd-c7a8-496b-8d57-a8781a73f698
+2026-04-08 09:26:01,288 - basicLogger - INFO - Produced champion_winrate event (trace_id: fadddfbd-c7a8-496b-8d57-a8781a73f698)
+2026-04-08 09:26:01,292 - basicLogger - INFO - Received event champion_winrate with a trace id of 5bbace17-ca36-4e89-8abd-db16bc0e9559
+2026-04-08 09:26:01,300 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5bbace17-ca36-4e89-8abd-db16bc0e9559)
+2026-04-08 09:26:01,389 - basicLogger - INFO - Received event champion_winrate with a trace id of 6a39726a-9338-47d0-80b4-e0e9575e6211
+2026-04-08 09:26:01,398 - basicLogger - INFO - Produced champion_winrate event (trace_id: 6a39726a-9338-47d0-80b4-e0e9575e6211)
+2026-04-08 09:26:01,476 - basicLogger - INFO - Received event champion_winrate with a trace id of 7bec783d-d736-47b0-bfba-e051f663dfcc
+2026-04-08 09:26:01,483 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7bec783d-d736-47b0-bfba-e051f663dfcc)
+2026-04-08 09:26:01,581 - basicLogger - INFO - Received event champion_winrate with a trace id of 1fcd8d8c-0f92-4407-93ae-c6ad4b5dc79a
+2026-04-08 09:26:01,589 - basicLogger - INFO - Produced champion_winrate event (trace_id: 1fcd8d8c-0f92-4407-93ae-c6ad4b5dc79a)
+2026-04-08 09:26:01,674 - basicLogger - INFO - Received event champion_winrate with a trace id of 015a8e6d-128c-408d-865c-014d95351eca
+2026-04-08 09:26:01,682 - basicLogger - INFO - Produced champion_winrate event (trace_id: 015a8e6d-128c-408d-865c-014d95351eca)
+2026-04-08 09:26:01,777 - basicLogger - INFO - Received event champion_winrate with a trace id of b20dfa18-66bd-464d-8bb4-98584e6dab05
+2026-04-08 09:26:01,785 - basicLogger - INFO - Produced champion_winrate event (trace_id: b20dfa18-66bd-464d-8bb4-98584e6dab05)
+2026-04-08 09:26:01,878 - basicLogger - INFO - Received event champion_winrate with a trace id of 7ff4028a-ddfb-428d-99ac-195f48cbe5c9
+2026-04-08 09:26:01,886 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7ff4028a-ddfb-428d-99ac-195f48cbe5c9)
+2026-04-08 09:26:01,979 - basicLogger - INFO - Received event champion_winrate with a trace id of 4287adbc-2787-4c69-b8d7-e377a32e18a8
+2026-04-08 09:26:01,987 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4287adbc-2787-4c69-b8d7-e377a32e18a8)
+2026-04-08 09:26:06,250 - basicLogger - INFO - Received event match_history with a trace id of e9c11d81-1205-4997-9814-76e6b218899b
+2026-04-08 09:26:06,257 - basicLogger - INFO - Produced match_history event (trace_id: e9c11d81-1205-4997-9814-76e6b218899b)
+2026-04-08 09:26:06,291 - basicLogger - INFO - Received event match_history with a trace id of 2e2d96d3-bbbb-409f-9ba0-bd04b384d41b
+2026-04-08 09:26:06,298 - basicLogger - INFO - Produced match_history event (trace_id: 2e2d96d3-bbbb-409f-9ba0-bd04b384d41b)
+2026-04-08 09:26:06,304 - basicLogger - INFO - Received event match_history with a trace id of 1aeae81b-d2f6-4ee1-9775-baeba32656c0
+2026-04-08 09:26:06,312 - basicLogger - INFO - Produced match_history event (trace_id: 1aeae81b-d2f6-4ee1-9775-baeba32656c0)
+2026-04-08 09:26:06,401 - basicLogger - INFO - Received event match_history with a trace id of 02d17d97-e8fb-44c5-bf3c-f29dae1d024a
+2026-04-08 09:26:06,408 - basicLogger - INFO - Produced match_history event (trace_id: 02d17d97-e8fb-44c5-bf3c-f29dae1d024a)
+2026-04-08 09:26:06,486 - basicLogger - INFO - Received event match_history with a trace id of 4ae0d48e-404b-4410-a67f-3346edcf487f
+2026-04-08 09:26:06,493 - basicLogger - INFO - Produced match_history event (trace_id: 4ae0d48e-404b-4410-a67f-3346edcf487f)
+2026-04-08 09:26:06,593 - basicLogger - INFO - Received event match_history with a trace id of 085618b6-da99-4aa7-bf90-b810cab49ab4
+2026-04-08 09:26:06,602 - basicLogger - INFO - Produced match_history event (trace_id: 085618b6-da99-4aa7-bf90-b810cab49ab4)
+2026-04-08 09:26:06,686 - basicLogger - INFO - Received event match_history with a trace id of fcdb1831-cfa5-4edf-8de3-25e6de1cf6ce
+2026-04-08 09:26:06,692 - basicLogger - INFO - Produced match_history event (trace_id: fcdb1831-cfa5-4edf-8de3-25e6de1cf6ce)
+2026-04-08 09:26:06,789 - basicLogger - INFO - Received event match_history with a trace id of 17edb119-5607-4efc-9f90-5ade7127d87a
+2026-04-08 09:26:06,797 - basicLogger - INFO - Produced match_history event (trace_id: 17edb119-5607-4efc-9f90-5ade7127d87a)
+2026-04-08 09:26:06,889 - basicLogger - INFO - Received event match_history with a trace id of fb9c9868-af28-40a1-a93e-d1c5cca46217
+2026-04-08 09:26:06,897 - basicLogger - INFO - Produced match_history event (trace_id: fb9c9868-af28-40a1-a93e-d1c5cca46217)
+2026-04-08 09:26:06,991 - basicLogger - INFO - Received event match_history with a trace id of 7cb463df-f48e-41f2-87c2-9a6555a48cea
+2026-04-08 09:26:06,999 - basicLogger - INFO - Produced match_history event (trace_id: 7cb463df-f48e-41f2-87c2-9a6555a48cea)
+2026-04-08 09:26:11,261 - basicLogger - INFO - Received event champion_winrate with a trace id of e2cbab53-77e0-4b22-91a4-ed85133f48ee
+2026-04-08 09:26:11,267 - basicLogger - INFO - Produced champion_winrate event (trace_id: e2cbab53-77e0-4b22-91a4-ed85133f48ee)
+2026-04-08 09:26:11,301 - basicLogger - INFO - Received event champion_winrate with a trace id of 3654d3d3-7bbd-42d9-9d42-d846363af83d
+2026-04-08 09:26:11,308 - basicLogger - INFO - Produced champion_winrate event (trace_id: 3654d3d3-7bbd-42d9-9d42-d846363af83d)
+2026-04-08 09:26:11,315 - basicLogger - INFO - Received event champion_winrate with a trace id of 39e6ddb3-e131-4fe5-a20d-3a17f531a4a7
+2026-04-08 09:26:11,320 - basicLogger - INFO - Produced champion_winrate event (trace_id: 39e6ddb3-e131-4fe5-a20d-3a17f531a4a7)
+2026-04-08 09:26:11,412 - basicLogger - INFO - Received event champion_winrate with a trace id of 67f89097-3e19-4739-97e8-37cfc85e8546
+2026-04-08 09:26:11,419 - basicLogger - INFO - Produced champion_winrate event (trace_id: 67f89097-3e19-4739-97e8-37cfc85e8546)
+2026-04-08 09:26:11,497 - basicLogger - INFO - Received event champion_winrate with a trace id of c50c14ec-1158-4857-8c8c-8da265231bb4
+2026-04-08 09:26:11,505 - basicLogger - INFO - Produced champion_winrate event (trace_id: c50c14ec-1158-4857-8c8c-8da265231bb4)
+2026-04-08 09:26:11,606 - basicLogger - INFO - Received event champion_winrate with a trace id of 6e8f9a72-aa03-47f5-a187-0e18b3f3a9d7
+2026-04-08 09:26:11,614 - basicLogger - INFO - Produced champion_winrate event (trace_id: 6e8f9a72-aa03-47f5-a187-0e18b3f3a9d7)
+2026-04-08 09:26:11,696 - basicLogger - INFO - Received event champion_winrate with a trace id of 3539ad66-9305-470c-84a5-86c3f7872bfb
+2026-04-08 09:26:11,703 - basicLogger - INFO - Produced champion_winrate event (trace_id: 3539ad66-9305-470c-84a5-86c3f7872bfb)
+2026-04-08 09:26:11,800 - basicLogger - INFO - Received event champion_winrate with a trace id of 4f9fc47b-3d5e-4896-ae02-532f3dd48cc0
+2026-04-08 09:26:11,807 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4f9fc47b-3d5e-4896-ae02-532f3dd48cc0)
+2026-04-08 09:26:11,900 - basicLogger - INFO - Received event champion_winrate with a trace id of 1595e30d-c591-45a1-a638-6894cd3ce251
+2026-04-08 09:26:11,907 - basicLogger - INFO - Produced champion_winrate event (trace_id: 1595e30d-c591-45a1-a638-6894cd3ce251)
+2026-04-08 09:26:12,003 - basicLogger - INFO - Received event champion_winrate with a trace id of 02ed9a76-0eb8-49b2-804b-51b128ff5413
+2026-04-08 09:26:12,010 - basicLogger - INFO - Produced champion_winrate event (trace_id: 02ed9a76-0eb8-49b2-804b-51b128ff5413)
+2026-04-08 09:26:16,271 - basicLogger - INFO - Received event match_history with a trace id of faf05223-73bf-4850-b663-a6a7939bcebb
+2026-04-08 09:26:16,278 - basicLogger - INFO - Produced match_history event (trace_id: faf05223-73bf-4850-b663-a6a7939bcebb)
+2026-04-08 09:26:16,312 - basicLogger - INFO - Received event match_history with a trace id of 08b1679d-08e2-41fe-8b31-44ce4d840051
+2026-04-08 09:26:16,318 - basicLogger - INFO - Produced match_history event (trace_id: 08b1679d-08e2-41fe-8b31-44ce4d840051)
+2026-04-08 09:26:16,324 - basicLogger - INFO - Received event match_history with a trace id of 66af3184-f463-42e8-8c1b-0f391d6ed08a
+2026-04-08 09:26:16,329 - basicLogger - INFO - Produced match_history event (trace_id: 66af3184-f463-42e8-8c1b-0f391d6ed08a)
+2026-04-08 09:26:16,424 - basicLogger - INFO - Received event match_history with a trace id of 7cdde797-b032-4c07-b297-9c533b8d5146
+2026-04-08 09:26:16,431 - basicLogger - INFO - Produced match_history event (trace_id: 7cdde797-b032-4c07-b297-9c533b8d5146)
+2026-04-08 09:26:16,508 - basicLogger - INFO - Received event match_history with a trace id of 82de1e65-6e88-409b-b69e-3e80622da70a
+2026-04-08 09:26:16,514 - basicLogger - INFO - Produced match_history event (trace_id: 82de1e65-6e88-409b-b69e-3e80622da70a)
+2026-04-08 09:26:16,618 - basicLogger - INFO - Received event match_history with a trace id of 4051a508-23a8-47c9-93f7-3f871a2d83f3
+2026-04-08 09:26:16,627 - basicLogger - INFO - Produced match_history event (trace_id: 4051a508-23a8-47c9-93f7-3f871a2d83f3)
+2026-04-08 09:26:16,707 - basicLogger - INFO - Received event match_history with a trace id of 0a620b5f-4408-4cf4-ab97-05bb64e64913
+2026-04-08 09:26:16,713 - basicLogger - INFO - Produced match_history event (trace_id: 0a620b5f-4408-4cf4-ab97-05bb64e64913)
+2026-04-08 09:26:16,811 - basicLogger - INFO - Received event match_history with a trace id of 4ca449a9-3319-43f5-80df-3fa2a15e2a11
+2026-04-08 09:26:16,818 - basicLogger - INFO - Produced match_history event (trace_id: 4ca449a9-3319-43f5-80df-3fa2a15e2a11)
+2026-04-08 09:26:16,910 - basicLogger - INFO - Received event match_history with a trace id of ce996950-5297-4808-856c-b577f06060ff
+2026-04-08 09:26:16,917 - basicLogger - INFO - Produced match_history event (trace_id: ce996950-5297-4808-856c-b577f06060ff)
+2026-04-08 09:26:17,014 - basicLogger - INFO - Received event match_history with a trace id of 565fd584-849e-4659-9998-383138c313c1
+2026-04-08 09:26:17,021 - basicLogger - INFO - Produced match_history event (trace_id: 565fd584-849e-4659-9998-383138c313c1)
+2026-04-08 09:26:21,282 - basicLogger - INFO - Received event champion_winrate with a trace id of a75b6042-5117-4306-8466-4ce12ab2ce6c
+2026-04-08 09:26:21,289 - basicLogger - INFO - Produced champion_winrate event (trace_id: a75b6042-5117-4306-8466-4ce12ab2ce6c)
+2026-04-08 09:26:21,321 - basicLogger - INFO - Received event champion_winrate with a trace id of 27f2be4a-abaa-43cf-83d6-ff7931104df3
+2026-04-08 09:26:21,328 - basicLogger - INFO - Produced champion_winrate event (trace_id: 27f2be4a-abaa-43cf-83d6-ff7931104df3)
+2026-04-08 09:26:21,332 - basicLogger - INFO - Received event champion_winrate with a trace id of d757ec30-c588-4667-af0f-fbb42a90e865
+2026-04-08 09:26:21,338 - basicLogger - INFO - Produced champion_winrate event (trace_id: d757ec30-c588-4667-af0f-fbb42a90e865)
+2026-04-08 09:26:21,434 - basicLogger - INFO - Received event champion_winrate with a trace id of 4f90c945-4bd4-4f45-9878-0a7e5d4b6b41
+2026-04-08 09:26:21,442 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4f90c945-4bd4-4f45-9878-0a7e5d4b6b41)
+2026-04-08 09:26:21,518 - basicLogger - INFO - Received event champion_winrate with a trace id of 36c4bfa5-5506-4a89-877d-7f9c13420279
+2026-04-08 09:26:21,525 - basicLogger - INFO - Produced champion_winrate event (trace_id: 36c4bfa5-5506-4a89-877d-7f9c13420279)
+2026-04-08 09:26:21,631 - basicLogger - INFO - Received event champion_winrate with a trace id of 14953fc7-4f66-4fb2-9e6a-67270f0fb898
+2026-04-08 09:26:21,638 - basicLogger - INFO - Produced champion_winrate event (trace_id: 14953fc7-4f66-4fb2-9e6a-67270f0fb898)
+2026-04-08 09:26:21,716 - basicLogger - INFO - Received event champion_winrate with a trace id of 0ec49754-c5fd-4db8-b251-77f8873c46b9
+2026-04-08 09:26:21,723 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0ec49754-c5fd-4db8-b251-77f8873c46b9)
+2026-04-08 09:26:21,822 - basicLogger - INFO - Received event champion_winrate with a trace id of f1c9734b-b8e9-4c3a-8d69-2627f32dcd00
+2026-04-08 09:26:21,829 - basicLogger - INFO - Produced champion_winrate event (trace_id: f1c9734b-b8e9-4c3a-8d69-2627f32dcd00)
+2026-04-08 09:26:21,920 - basicLogger - INFO - Received event champion_winrate with a trace id of 19a312ed-cb32-43f8-86ed-0f90a70effd0
+2026-04-08 09:26:21,927 - basicLogger - INFO - Produced champion_winrate event (trace_id: 19a312ed-cb32-43f8-86ed-0f90a70effd0)
+2026-04-08 09:26:22,024 - basicLogger - INFO - Received event champion_winrate with a trace id of 7e01b7e0-8a8d-4b9d-8136-f0fce75941ec
+2026-04-08 09:26:22,032 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7e01b7e0-8a8d-4b9d-8136-f0fce75941ec)
+2026-04-08 09:26:26,294 - basicLogger - INFO - Received event match_history with a trace id of f9f7745b-6627-4887-af1a-b64862499f2b
+2026-04-08 09:26:26,300 - basicLogger - INFO - Produced match_history event (trace_id: f9f7745b-6627-4887-af1a-b64862499f2b)
+2026-04-08 09:26:26,331 - basicLogger - INFO - Received event match_history with a trace id of 9c481b43-517a-4298-8771-f78750e94f91
+2026-04-08 09:26:26,338 - basicLogger - INFO - Produced match_history event (trace_id: 9c481b43-517a-4298-8771-f78750e94f91)
+2026-04-08 09:26:26,341 - basicLogger - INFO - Received event match_history with a trace id of b01d0d26-fd96-4596-8837-771f45667dbb
+2026-04-08 09:26:26,347 - basicLogger - INFO - Produced match_history event (trace_id: b01d0d26-fd96-4596-8837-771f45667dbb)
+2026-04-08 09:26:26,445 - basicLogger - INFO - Received event match_history with a trace id of 5cdcb23e-0eed-4e11-8910-778871d45d92
+2026-04-08 09:26:26,453 - basicLogger - INFO - Produced match_history event (trace_id: 5cdcb23e-0eed-4e11-8910-778871d45d92)
+2026-04-08 09:26:26,530 - basicLogger - INFO - Received event match_history with a trace id of 1f9d6dcf-1c4f-45e1-91cb-0af8c9462833
+2026-04-08 09:26:26,537 - basicLogger - INFO - Produced match_history event (trace_id: 1f9d6dcf-1c4f-45e1-91cb-0af8c9462833)
+2026-04-08 09:26:26,647 - basicLogger - INFO - Received event match_history with a trace id of 1b6e2a67-70c3-412f-92f2-3d02b3ddb174
+2026-04-08 09:26:26,655 - basicLogger - INFO - Produced match_history event (trace_id: 1b6e2a67-70c3-412f-92f2-3d02b3ddb174)
+2026-04-08 09:26:26,727 - basicLogger - INFO - Received event match_history with a trace id of f13ce5bc-485b-452b-8889-d280cdf62dd4
+2026-04-08 09:26:26,734 - basicLogger - INFO - Produced match_history event (trace_id: f13ce5bc-485b-452b-8889-d280cdf62dd4)
+2026-04-08 09:26:26,833 - basicLogger - INFO - Received event match_history with a trace id of d2d42460-7bbe-40f5-9977-c96ed16471ca
+2026-04-08 09:26:26,841 - basicLogger - INFO - Produced match_history event (trace_id: d2d42460-7bbe-40f5-9977-c96ed16471ca)
+2026-04-08 09:26:26,931 - basicLogger - INFO - Received event match_history with a trace id of f15c2bfb-b85e-4f12-b60c-fad49d67e233
+2026-04-08 09:26:26,937 - basicLogger - INFO - Produced match_history event (trace_id: f15c2bfb-b85e-4f12-b60c-fad49d67e233)
+2026-04-08 09:26:27,036 - basicLogger - INFO - Received event match_history with a trace id of a434da6a-29a2-4740-8e0a-dc612b9d7edc
+2026-04-08 09:26:27,043 - basicLogger - INFO - Produced match_history event (trace_id: a434da6a-29a2-4740-8e0a-dc612b9d7edc)
+2026-04-08 09:26:31,297 - basicLogger - INFO - Received event champion_winrate with a trace id of d895eb79-3eb9-4ad6-b41c-323d0194f74a
+2026-04-08 09:26:31,303 - basicLogger - INFO - Produced champion_winrate event (trace_id: d895eb79-3eb9-4ad6-b41c-323d0194f74a)
+2026-04-08 09:26:31,334 - basicLogger - INFO - Received event champion_winrate with a trace id of 3413c60b-c5c6-4175-9e61-53d0d32bdf5c
+2026-04-08 09:26:31,342 - basicLogger - INFO - Produced champion_winrate event (trace_id: 3413c60b-c5c6-4175-9e61-53d0d32bdf5c)
+2026-04-08 09:26:31,344 - basicLogger - INFO - Received event champion_winrate with a trace id of ef915005-137b-4a8d-a87a-4710a23c21c5
+2026-04-08 09:26:31,351 - basicLogger - INFO - Produced champion_winrate event (trace_id: ef915005-137b-4a8d-a87a-4710a23c21c5)
+2026-04-08 09:26:31,451 - basicLogger - INFO - Received event champion_winrate with a trace id of 7df28c28-b64b-49e5-a77b-ec3c5b348bb7
+2026-04-08 09:26:31,463 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7df28c28-b64b-49e5-a77b-ec3c5b348bb7)
+2026-04-08 09:26:31,534 - basicLogger - INFO - Received event champion_winrate with a trace id of 5ac3d523-0418-4ddb-b0cb-e7aee86583b4
+2026-04-08 09:26:31,541 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5ac3d523-0418-4ddb-b0cb-e7aee86583b4)
+2026-04-08 09:26:31,652 - basicLogger - INFO - Received event champion_winrate with a trace id of 22bcd854-2126-4785-aeba-51ef387c93c2
+2026-04-08 09:26:31,661 - basicLogger - INFO - Produced champion_winrate event (trace_id: 22bcd854-2126-4785-aeba-51ef387c93c2)
+2026-04-08 09:26:31,730 - basicLogger - INFO - Received event champion_winrate with a trace id of 7f4f189b-235f-4c03-973c-870406f67cda
+2026-04-08 09:26:31,736 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7f4f189b-235f-4c03-973c-870406f67cda)
+2026-04-08 09:26:31,837 - basicLogger - INFO - Received event champion_winrate with a trace id of 4d913de5-48f4-4a54-945c-668e365557a7
+2026-04-08 09:26:31,843 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4d913de5-48f4-4a54-945c-668e365557a7)
+2026-04-08 09:26:31,933 - basicLogger - INFO - Received event champion_winrate with a trace id of 34d013e2-92f9-4310-8ccf-d0112784980b
+2026-04-08 09:26:31,940 - basicLogger - INFO - Produced champion_winrate event (trace_id: 34d013e2-92f9-4310-8ccf-d0112784980b)
+2026-04-08 09:26:32,039 - basicLogger - INFO - Received event champion_winrate with a trace id of e52ae0b9-e1a7-434d-aa8a-7c01686304c2
+2026-04-08 09:26:32,044 - basicLogger - INFO - Produced champion_winrate event (trace_id: e52ae0b9-e1a7-434d-aa8a-7c01686304c2)
+2026-04-08 09:26:36,307 - basicLogger - INFO - Received event match_history with a trace id of 4db0c7d3-d38a-43a2-a361-c42d8e9794ca
+2026-04-08 09:26:36,314 - basicLogger - INFO - Produced match_history event (trace_id: 4db0c7d3-d38a-43a2-a361-c42d8e9794ca)
+2026-04-08 09:26:36,345 - basicLogger - INFO - Received event match_history with a trace id of d5ed3a46-8349-4647-a5c1-7f5f90f0424e
+2026-04-08 09:26:36,351 - basicLogger - INFO - Produced match_history event (trace_id: d5ed3a46-8349-4647-a5c1-7f5f90f0424e)
+2026-04-08 09:26:36,354 - basicLogger - INFO - Received event match_history with a trace id of 877223e2-a949-445a-89f3-84810de302e3
+2026-04-08 09:26:36,361 - basicLogger - INFO - Produced match_history event (trace_id: 877223e2-a949-445a-89f3-84810de302e3)
+2026-04-08 09:26:36,466 - basicLogger - INFO - Received event match_history with a trace id of d81207b1-c969-411a-9205-8b27a6fde72f
+2026-04-08 09:26:36,473 - basicLogger - INFO - Produced match_history event (trace_id: d81207b1-c969-411a-9205-8b27a6fde72f)
+2026-04-08 09:26:36,543 - basicLogger - INFO - Received event match_history with a trace id of c812bbb4-47ad-4ae0-b60e-5768f73b91db
+2026-04-08 09:26:36,548 - basicLogger - INFO - Produced match_history event (trace_id: c812bbb4-47ad-4ae0-b60e-5768f73b91db)
+2026-04-08 09:26:36,664 - basicLogger - INFO - Received event match_history with a trace id of a2c14c85-e412-4ecb-b0c5-8b694737a066
+2026-04-08 09:26:36,671 - basicLogger - INFO - Produced match_history event (trace_id: a2c14c85-e412-4ecb-b0c5-8b694737a066)
+2026-04-08 09:26:36,740 - basicLogger - INFO - Received event match_history with a trace id of 6026322e-3216-4420-bfee-894f2b73b364
+2026-04-08 09:26:36,746 - basicLogger - INFO - Produced match_history event (trace_id: 6026322e-3216-4420-bfee-894f2b73b364)
+2026-04-08 09:26:36,846 - basicLogger - INFO - Received event match_history with a trace id of cb67403f-09c2-4ec1-a7ed-fde243c9a75f
+2026-04-08 09:26:36,854 - basicLogger - INFO - Produced match_history event (trace_id: cb67403f-09c2-4ec1-a7ed-fde243c9a75f)
+2026-04-08 09:26:36,944 - basicLogger - INFO - Received event match_history with a trace id of d6df4a53-c10b-45bd-adae-0cb2398ed03b
+2026-04-08 09:26:36,952 - basicLogger - INFO - Produced match_history event (trace_id: d6df4a53-c10b-45bd-adae-0cb2398ed03b)
+2026-04-08 09:26:37,048 - basicLogger - INFO - Received event match_history with a trace id of 79b7547b-3686-4192-9b6d-ec1db0f14498
+2026-04-08 09:26:37,055 - basicLogger - INFO - Produced match_history event (trace_id: 79b7547b-3686-4192-9b6d-ec1db0f14498)
+2026-04-08 09:26:41,317 - basicLogger - INFO - Received event champion_winrate with a trace id of d9ac025f-503f-42d5-9a49-226b7c12fd05
+2026-04-08 09:26:41,324 - basicLogger - INFO - Produced champion_winrate event (trace_id: d9ac025f-503f-42d5-9a49-226b7c12fd05)
+2026-04-08 09:26:41,354 - basicLogger - INFO - Received event champion_winrate with a trace id of ddfbb84b-19bf-44e9-919d-0601888634a4
+2026-04-08 09:26:41,360 - basicLogger - INFO - Produced champion_winrate event (trace_id: ddfbb84b-19bf-44e9-919d-0601888634a4)
+2026-04-08 09:26:41,364 - basicLogger - INFO - Received event champion_winrate with a trace id of 668a461b-d884-47f4-bac7-8ccf12ea085c
+2026-04-08 09:26:41,372 - basicLogger - INFO - Produced champion_winrate event (trace_id: 668a461b-d884-47f4-bac7-8ccf12ea085c)
+2026-04-08 09:26:41,477 - basicLogger - INFO - Received event champion_winrate with a trace id of 4c3d5855-ec24-4782-bdb5-2afecc2c342c
+2026-04-08 09:26:41,483 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4c3d5855-ec24-4782-bdb5-2afecc2c342c)
+2026-04-08 09:26:41,552 - basicLogger - INFO - Received event champion_winrate with a trace id of fab0e967-1ae9-4137-a82d-488636e53e7d
+2026-04-08 09:26:41,558 - basicLogger - INFO - Produced champion_winrate event (trace_id: fab0e967-1ae9-4137-a82d-488636e53e7d)
+2026-04-08 09:26:41,675 - basicLogger - INFO - Received event champion_winrate with a trace id of 8b427284-7d5e-47b6-aab6-32f52fd56858
+2026-04-08 09:26:41,683 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8b427284-7d5e-47b6-aab6-32f52fd56858)
+2026-04-08 09:26:41,750 - basicLogger - INFO - Received event champion_winrate with a trace id of 8cda68a1-ca2d-4c01-b49f-4671283af15c
+2026-04-08 09:26:41,758 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8cda68a1-ca2d-4c01-b49f-4671283af15c)
+2026-04-08 09:26:41,857 - basicLogger - INFO - Received event champion_winrate with a trace id of e7c97737-3fbe-4337-b08b-df8892bcfbf6
+2026-04-08 09:26:41,864 - basicLogger - INFO - Produced champion_winrate event (trace_id: e7c97737-3fbe-4337-b08b-df8892bcfbf6)
+2026-04-08 09:26:41,956 - basicLogger - INFO - Received event champion_winrate with a trace id of f370f1b2-1ed0-4dc3-924b-0a835fb26a38
+2026-04-08 09:26:41,962 - basicLogger - INFO - Produced champion_winrate event (trace_id: f370f1b2-1ed0-4dc3-924b-0a835fb26a38)
+2026-04-08 09:26:42,058 - basicLogger - INFO - Received event champion_winrate with a trace id of 02665d05-24d2-4b5d-ba42-22985ed1c72a
+2026-04-08 09:26:42,065 - basicLogger - INFO - Produced champion_winrate event (trace_id: 02665d05-24d2-4b5d-ba42-22985ed1c72a)
+2026-04-08 09:26:46,328 - basicLogger - INFO - Received event match_history with a trace id of 106469d1-3c57-4dd6-aea1-12e4b2081fa2
+2026-04-08 09:26:46,336 - basicLogger - INFO - Produced match_history event (trace_id: 106469d1-3c57-4dd6-aea1-12e4b2081fa2)
+2026-04-08 09:26:46,364 - basicLogger - INFO - Received event match_history with a trace id of cc0939ed-2d37-497e-985f-29f0cf4146bd
+2026-04-08 09:26:46,372 - basicLogger - INFO - Produced match_history event (trace_id: cc0939ed-2d37-497e-985f-29f0cf4146bd)
+2026-04-08 09:26:46,375 - basicLogger - INFO - Received event match_history with a trace id of 975b9757-79c3-45c4-aeb0-3160f7e14ba1
+2026-04-08 09:26:46,381 - basicLogger - INFO - Produced match_history event (trace_id: 975b9757-79c3-45c4-aeb0-3160f7e14ba1)
+2026-04-08 09:26:46,487 - basicLogger - INFO - Received event match_history with a trace id of 9b9514fe-ec2e-4f60-b738-82f4e3d4a8ed
+2026-04-08 09:26:46,494 - basicLogger - INFO - Produced match_history event (trace_id: 9b9514fe-ec2e-4f60-b738-82f4e3d4a8ed)
+2026-04-08 09:26:46,562 - basicLogger - INFO - Received event match_history with a trace id of 5c431021-2a84-4a10-8187-445b2ed7bbf5
+2026-04-08 09:26:46,569 - basicLogger - INFO - Produced match_history event (trace_id: 5c431021-2a84-4a10-8187-445b2ed7bbf5)
+2026-04-08 09:26:46,687 - basicLogger - INFO - Received event match_history with a trace id of 794dbbbb-a720-4c67-96e4-fbc0bc6618b5
+2026-04-08 09:26:46,694 - basicLogger - INFO - Produced match_history event (trace_id: 794dbbbb-a720-4c67-96e4-fbc0bc6618b5)
+2026-04-08 09:26:46,762 - basicLogger - INFO - Received event match_history with a trace id of 03f906b3-f33b-43b7-8e03-86c841550f42
+2026-04-08 09:26:46,768 - basicLogger - INFO - Produced match_history event (trace_id: 03f906b3-f33b-43b7-8e03-86c841550f42)
+2026-04-08 09:26:46,868 - basicLogger - INFO - Received event match_history with a trace id of 53f97b21-f9a9-479b-b9a4-1968743d5af0
+2026-04-08 09:26:46,875 - basicLogger - INFO - Produced match_history event (trace_id: 53f97b21-f9a9-479b-b9a4-1968743d5af0)
+2026-04-08 09:26:46,966 - basicLogger - INFO - Received event match_history with a trace id of cd2ea177-058e-4f0a-ab79-e8d3f0132ba5
+2026-04-08 09:26:46,973 - basicLogger - INFO - Produced match_history event (trace_id: cd2ea177-058e-4f0a-ab79-e8d3f0132ba5)
+2026-04-08 09:26:47,069 - basicLogger - INFO - Received event match_history with a trace id of ba2b951d-0356-4110-aba9-e9db95631f66
+2026-04-08 09:26:47,076 - basicLogger - INFO - Produced match_history event (trace_id: ba2b951d-0356-4110-aba9-e9db95631f66)
+2026-04-08 09:26:51,340 - basicLogger - INFO - Received event champion_winrate with a trace id of 5a72b4e6-46a4-4993-a91b-5cdf2ef8c3a2
+2026-04-08 09:26:51,347 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5a72b4e6-46a4-4993-a91b-5cdf2ef8c3a2)
+2026-04-08 09:26:51,375 - basicLogger - INFO - Received event champion_winrate with a trace id of 1cf5da4d-f95e-4fea-8b34-8a4715df4f4e
+2026-04-08 09:26:51,383 - basicLogger - INFO - Produced champion_winrate event (trace_id: 1cf5da4d-f95e-4fea-8b34-8a4715df4f4e)
+2026-04-08 09:26:51,385 - basicLogger - INFO - Received event champion_winrate with a trace id of d6bf112a-ef16-44be-be9c-b48614380245
+2026-04-08 09:26:51,392 - basicLogger - INFO - Produced champion_winrate event (trace_id: d6bf112a-ef16-44be-be9c-b48614380245)
+2026-04-08 09:26:51,498 - basicLogger - INFO - Received event champion_winrate with a trace id of b9191434-ff9b-417e-81f3-758024674911
+2026-04-08 09:26:51,505 - basicLogger - INFO - Produced champion_winrate event (trace_id: b9191434-ff9b-417e-81f3-758024674911)
+2026-04-08 09:26:51,572 - basicLogger - INFO - Received event champion_winrate with a trace id of 9b8f87fd-279a-40f9-abef-eb34de1fe6fc
+2026-04-08 09:26:51,577 - basicLogger - INFO - Produced champion_winrate event (trace_id: 9b8f87fd-279a-40f9-abef-eb34de1fe6fc)
+2026-04-08 09:26:51,697 - basicLogger - INFO - Received event champion_winrate with a trace id of 525fad69-f5f6-4d48-822f-78a3c3cf09c6
+2026-04-08 09:26:51,705 - basicLogger - INFO - Produced champion_winrate event (trace_id: 525fad69-f5f6-4d48-822f-78a3c3cf09c6)
+2026-04-08 09:26:51,772 - basicLogger - INFO - Received event champion_winrate with a trace id of d72b3221-82e5-44ff-a2a5-2b87f45dfdba
+2026-04-08 09:26:51,779 - basicLogger - INFO - Produced champion_winrate event (trace_id: d72b3221-82e5-44ff-a2a5-2b87f45dfdba)
+2026-04-08 09:26:51,878 - basicLogger - INFO - Received event champion_winrate with a trace id of a49311c1-d459-4198-bb3f-27c9bc6cfe7a
+2026-04-08 09:26:51,886 - basicLogger - INFO - Produced champion_winrate event (trace_id: a49311c1-d459-4198-bb3f-27c9bc6cfe7a)
+2026-04-08 09:26:51,977 - basicLogger - INFO - Received event champion_winrate with a trace id of 7f24d83d-3397-4d43-92a2-3bb0fd1706e0
+2026-04-08 09:26:51,984 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7f24d83d-3397-4d43-92a2-3bb0fd1706e0)
+2026-04-08 09:26:52,079 - basicLogger - INFO - Received event champion_winrate with a trace id of 7375bc5f-32e8-4c5a-a26e-eab2a8c459b9
+2026-04-08 09:26:52,085 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7375bc5f-32e8-4c5a-a26e-eab2a8c459b9)
+2026-04-08 09:26:56,349 - basicLogger - INFO - Received event match_history with a trace id of 3105d137-2c89-471d-9453-357b61fbbf31
+2026-04-08 09:26:56,356 - basicLogger - INFO - Produced match_history event (trace_id: 3105d137-2c89-471d-9453-357b61fbbf31)
+2026-04-08 09:26:56,384 - basicLogger - INFO - Received event match_history with a trace id of 0e3322c1-b283-4292-b744-f629f26f5365
+2026-04-08 09:26:56,389 - basicLogger - INFO - Produced match_history event (trace_id: 0e3322c1-b283-4292-b744-f629f26f5365)
+2026-04-08 09:26:56,394 - basicLogger - INFO - Received event match_history with a trace id of ca9755cc-cd46-407d-9592-ca15bac0b2f8
+2026-04-08 09:26:56,400 - basicLogger - INFO - Produced match_history event (trace_id: ca9755cc-cd46-407d-9592-ca15bac0b2f8)
+2026-04-08 09:26:56,507 - basicLogger - INFO - Received event match_history with a trace id of 66da331b-0221-4c6c-a80c-fb4ee98aec1e
+2026-04-08 09:26:56,513 - basicLogger - INFO - Produced match_history event (trace_id: 66da331b-0221-4c6c-a80c-fb4ee98aec1e)
+2026-04-08 09:26:56,579 - basicLogger - INFO - Received event match_history with a trace id of f46d8df8-1a9d-4f35-b131-db3615afb8d9
+2026-04-08 09:26:56,586 - basicLogger - INFO - Produced match_history event (trace_id: f46d8df8-1a9d-4f35-b131-db3615afb8d9)
+2026-04-08 09:26:56,707 - basicLogger - INFO - Received event match_history with a trace id of ae77c9ce-8a78-48cb-9e17-cd34171f9a83
+2026-04-08 09:26:56,714 - basicLogger - INFO - Produced match_history event (trace_id: ae77c9ce-8a78-48cb-9e17-cd34171f9a83)
+2026-04-08 09:26:56,780 - basicLogger - INFO - Received event match_history with a trace id of 07912df9-9491-4fb3-9ffd-bdf6a6a45ab1
+2026-04-08 09:26:56,787 - basicLogger - INFO - Produced match_history event (trace_id: 07912df9-9491-4fb3-9ffd-bdf6a6a45ab1)
+2026-04-08 09:26:56,888 - basicLogger - INFO - Received event match_history with a trace id of 9197cf0b-8608-4cae-96d2-07fb58b7a66d
+2026-04-08 09:26:56,895 - basicLogger - INFO - Produced match_history event (trace_id: 9197cf0b-8608-4cae-96d2-07fb58b7a66d)
+2026-04-08 09:26:56,985 - basicLogger - INFO - Received event match_history with a trace id of 69959c8c-ab02-418f-a7ec-e043fb1dadc7
+2026-04-08 09:26:56,990 - basicLogger - INFO - Produced match_history event (trace_id: 69959c8c-ab02-418f-a7ec-e043fb1dadc7)
+2026-04-08 09:26:57,087 - basicLogger - INFO - Received event match_history with a trace id of 8449710c-0554-410f-b5f7-e3135f5d4d8e
+2026-04-08 09:26:57,094 - basicLogger - INFO - Produced match_history event (trace_id: 8449710c-0554-410f-b5f7-e3135f5d4d8e)
+2026-04-08 09:27:01,355 - basicLogger - INFO - Received event champion_winrate with a trace id of 91a75e76-192f-4d12-8b45-4df94242fcf2
+2026-04-08 09:27:01,363 - basicLogger - INFO - Produced champion_winrate event (trace_id: 91a75e76-192f-4d12-8b45-4df94242fcf2)
+2026-04-08 09:27:01,387 - basicLogger - INFO - Received event champion_winrate with a trace id of fafba3ac-3949-4faf-bb1e-625db750c0d6
+2026-04-08 09:27:01,394 - basicLogger - INFO - Produced champion_winrate event (trace_id: fafba3ac-3949-4faf-bb1e-625db750c0d6)
+2026-04-08 09:27:01,397 - basicLogger - INFO - Received event champion_winrate with a trace id of 8ec2757f-fca2-4a66-8b8d-629ba50e759f
+2026-04-08 09:27:01,404 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8ec2757f-fca2-4a66-8b8d-629ba50e759f)
+2026-04-08 09:27:01,511 - basicLogger - INFO - Received event champion_winrate with a trace id of 96b06bc8-5e8c-4a38-a1df-d4970cdbc3c0
+2026-04-08 09:27:01,517 - basicLogger - INFO - Produced champion_winrate event (trace_id: 96b06bc8-5e8c-4a38-a1df-d4970cdbc3c0)
+2026-04-08 09:27:01,585 - basicLogger - INFO - Received event champion_winrate with a trace id of 9f3c77a1-bd1d-4f9a-9e3e-e0600f3d43de
+2026-04-08 09:27:01,593 - basicLogger - INFO - Produced champion_winrate event (trace_id: 9f3c77a1-bd1d-4f9a-9e3e-e0600f3d43de)
+2026-04-08 09:27:01,712 - basicLogger - INFO - Received event champion_winrate with a trace id of 8c84fa41-7148-455f-b0cc-abd9a891c0d0
+2026-04-08 09:27:01,719 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8c84fa41-7148-455f-b0cc-abd9a891c0d0)
+2026-04-08 09:27:01,785 - basicLogger - INFO - Received event champion_winrate with a trace id of c933486a-1c99-46f3-a394-ffd7730bda19
+2026-04-08 09:27:01,792 - basicLogger - INFO - Produced champion_winrate event (trace_id: c933486a-1c99-46f3-a394-ffd7730bda19)
+2026-04-08 09:27:01,893 - basicLogger - INFO - Received event champion_winrate with a trace id of b04a35e2-d451-4923-86d7-22f646be738d
+2026-04-08 09:27:01,899 - basicLogger - INFO - Produced champion_winrate event (trace_id: b04a35e2-d451-4923-86d7-22f646be738d)
+2026-04-08 09:27:01,988 - basicLogger - INFO - Received event champion_winrate with a trace id of 2409df21-ffef-476b-8f55-0670c75b2cf9
+2026-04-08 09:27:01,995 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2409df21-ffef-476b-8f55-0670c75b2cf9)
+2026-04-08 09:27:02,092 - basicLogger - INFO - Received event champion_winrate with a trace id of d96710cf-ff1c-4b03-b014-1f9f0f433c87
+2026-04-08 09:27:02,099 - basicLogger - INFO - Produced champion_winrate event (trace_id: d96710cf-ff1c-4b03-b014-1f9f0f433c87)
+2026-04-08 09:27:06,366 - basicLogger - INFO - Received event match_history with a trace id of 9f7d9796-4c63-48bb-8e97-21df3d369b2f
+2026-04-08 09:27:06,373 - basicLogger - INFO - Produced match_history event (trace_id: 9f7d9796-4c63-48bb-8e97-21df3d369b2f)
+2026-04-08 09:27:06,397 - basicLogger - INFO - Received event match_history with a trace id of 75eb907b-d2ff-4148-bac0-3f78f2cb4abf
+2026-04-08 09:27:06,402 - basicLogger - INFO - Produced match_history event (trace_id: 75eb907b-d2ff-4148-bac0-3f78f2cb4abf)
+2026-04-08 09:27:06,407 - basicLogger - INFO - Received event match_history with a trace id of 0e1787e5-06fd-44d4-8c9c-5edb53bc54c4
+2026-04-08 09:27:06,413 - basicLogger - INFO - Produced match_history event (trace_id: 0e1787e5-06fd-44d4-8c9c-5edb53bc54c4)
+2026-04-08 09:27:06,521 - basicLogger - INFO - Received event match_history with a trace id of a81f7981-6f91-4f9b-ad2d-af7f426aca46
+2026-04-08 09:27:06,527 - basicLogger - INFO - Produced match_history event (trace_id: a81f7981-6f91-4f9b-ad2d-af7f426aca46)
+2026-04-08 09:27:06,596 - basicLogger - INFO - Received event match_history with a trace id of 6905119e-f68a-4ede-9e95-9b15d466b589
+2026-04-08 09:27:06,602 - basicLogger - INFO - Produced match_history event (trace_id: 6905119e-f68a-4ede-9e95-9b15d466b589)
+2026-04-08 09:27:06,723 - basicLogger - INFO - Received event match_history with a trace id of 9058be35-fc8f-435e-818c-a0d84d2eebb6
+2026-04-08 09:27:06,729 - basicLogger - INFO - Produced match_history event (trace_id: 9058be35-fc8f-435e-818c-a0d84d2eebb6)
+2026-04-08 09:27:06,795 - basicLogger - INFO - Received event match_history with a trace id of 46d9e6b3-4102-40be-bc00-8808c3efad14
+2026-04-08 09:27:06,801 - basicLogger - INFO - Produced match_history event (trace_id: 46d9e6b3-4102-40be-bc00-8808c3efad14)
+2026-04-08 09:27:06,902 - basicLogger - INFO - Received event match_history with a trace id of cc058383-f1f1-4920-8b27-c07c0acb233d
+2026-04-08 09:27:06,910 - basicLogger - INFO - Produced match_history event (trace_id: cc058383-f1f1-4920-8b27-c07c0acb233d)
+2026-04-08 09:27:06,998 - basicLogger - INFO - Received event match_history with a trace id of cf35c64a-c634-42d5-be0d-56391bdec555
+2026-04-08 09:27:07,005 - basicLogger - INFO - Produced match_history event (trace_id: cf35c64a-c634-42d5-be0d-56391bdec555)
+2026-04-08 09:27:07,102 - basicLogger - INFO - Received event match_history with a trace id of 9bd2cdcf-c049-4ea0-860f-33baaa1a7486
+2026-04-08 09:27:07,108 - basicLogger - INFO - Produced match_history event (trace_id: 9bd2cdcf-c049-4ea0-860f-33baaa1a7486)
+2026-04-08 09:27:11,376 - basicLogger - INFO - Received event champion_winrate with a trace id of 28a90384-f5cd-4f9b-95c7-3ecf5377c96f
+2026-04-08 09:27:11,383 - basicLogger - INFO - Produced champion_winrate event (trace_id: 28a90384-f5cd-4f9b-95c7-3ecf5377c96f)
+2026-04-08 09:27:11,405 - basicLogger - INFO - Received event champion_winrate with a trace id of 4fae7bfd-5f41-4a26-812b-720cf47118a1
+2026-04-08 09:27:11,412 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4fae7bfd-5f41-4a26-812b-720cf47118a1)
+2026-04-08 09:27:11,415 - basicLogger - INFO - Received event champion_winrate with a trace id of cf80abbe-0484-44b0-af31-3b6d952d7f6c
+2026-04-08 09:27:11,420 - basicLogger - INFO - Produced champion_winrate event (trace_id: cf80abbe-0484-44b0-af31-3b6d952d7f6c)
+2026-04-08 09:27:11,531 - basicLogger - INFO - Received event champion_winrate with a trace id of b506ae49-6cff-44e7-a627-8f3ca31f244b
+2026-04-08 09:27:11,537 - basicLogger - INFO - Produced champion_winrate event (trace_id: b506ae49-6cff-44e7-a627-8f3ca31f244b)
+2026-04-08 09:27:11,605 - basicLogger - INFO - Received event champion_winrate with a trace id of 094e71f6-650f-4fd6-bf1a-6e92c6465fa2
+2026-04-08 09:27:11,612 - basicLogger - INFO - Produced champion_winrate event (trace_id: 094e71f6-650f-4fd6-bf1a-6e92c6465fa2)
+2026-04-08 09:27:11,733 - basicLogger - INFO - Received event champion_winrate with a trace id of c7f2bed7-0270-466d-a103-8e9da2a5b548
+2026-04-08 09:27:11,739 - basicLogger - INFO - Produced champion_winrate event (trace_id: c7f2bed7-0270-466d-a103-8e9da2a5b548)
+2026-04-08 09:27:11,804 - basicLogger - INFO - Received event champion_winrate with a trace id of f849974e-eb90-47c6-9fba-5be74c527913
+2026-04-08 09:27:11,810 - basicLogger - INFO - Produced champion_winrate event (trace_id: f849974e-eb90-47c6-9fba-5be74c527913)
+2026-04-08 09:27:11,913 - basicLogger - INFO - Received event champion_winrate with a trace id of 6e9133b6-f35e-4eb1-981c-d2d7dd3866a1
+2026-04-08 09:27:11,920 - basicLogger - INFO - Produced champion_winrate event (trace_id: 6e9133b6-f35e-4eb1-981c-d2d7dd3866a1)
+2026-04-08 09:27:12,008 - basicLogger - INFO - Received event champion_winrate with a trace id of dcae7809-ee43-4838-a24b-735b596581a3
+2026-04-08 09:27:12,015 - basicLogger - INFO - Produced champion_winrate event (trace_id: dcae7809-ee43-4838-a24b-735b596581a3)
+2026-04-08 09:27:12,112 - basicLogger - INFO - Received event champion_winrate with a trace id of e10fd935-ffae-469e-8a4c-fd6be9042124
+2026-04-08 09:27:12,120 - basicLogger - INFO - Produced champion_winrate event (trace_id: e10fd935-ffae-469e-8a4c-fd6be9042124)
+2026-04-08 09:27:16,387 - basicLogger - INFO - Received event match_history with a trace id of 614ebbb4-475e-4867-87f5-240cfeb9e145
+2026-04-08 09:27:16,395 - basicLogger - INFO - Produced match_history event (trace_id: 614ebbb4-475e-4867-87f5-240cfeb9e145)
+2026-04-08 09:27:16,415 - basicLogger - INFO - Received event match_history with a trace id of 58e3bc4c-524c-4733-9db6-479dd6e6ef9c
+2026-04-08 09:27:16,422 - basicLogger - INFO - Produced match_history event (trace_id: 58e3bc4c-524c-4733-9db6-479dd6e6ef9c)
+2026-04-08 09:27:16,424 - basicLogger - INFO - Received event match_history with a trace id of f98422f9-3638-491d-a38e-ef565b27393e
+2026-04-08 09:27:16,430 - basicLogger - INFO - Produced match_history event (trace_id: f98422f9-3638-491d-a38e-ef565b27393e)
+2026-04-08 09:27:16,540 - basicLogger - INFO - Received event match_history with a trace id of 8e5e7fb5-6287-4faf-86c0-33e4a314fa3e
+2026-04-08 09:27:16,548 - basicLogger - INFO - Produced match_history event (trace_id: 8e5e7fb5-6287-4faf-86c0-33e4a314fa3e)
+2026-04-08 09:27:16,616 - basicLogger - INFO - Received event match_history with a trace id of 0d576bc2-5fa9-4d3d-af4f-42d7a1a8ce1a
+2026-04-08 09:27:16,624 - basicLogger - INFO - Produced match_history event (trace_id: 0d576bc2-5fa9-4d3d-af4f-42d7a1a8ce1a)
+2026-04-08 09:27:16,744 - basicLogger - INFO - Received event match_history with a trace id of 8a254046-f1b0-405b-b480-328777dd96f8
+2026-04-08 09:27:16,750 - basicLogger - INFO - Produced match_history event (trace_id: 8a254046-f1b0-405b-b480-328777dd96f8)
+2026-04-08 09:27:16,815 - basicLogger - INFO - Received event match_history with a trace id of e64162a9-1c14-478c-b764-746e24ee4880
+2026-04-08 09:27:16,822 - basicLogger - INFO - Produced match_history event (trace_id: e64162a9-1c14-478c-b764-746e24ee4880)
+2026-04-08 09:27:16,924 - basicLogger - INFO - Received event match_history with a trace id of 1cfe1fe1-be2e-48da-b427-32d4962cbbd5
+2026-04-08 09:27:16,931 - basicLogger - INFO - Produced match_history event (trace_id: 1cfe1fe1-be2e-48da-b427-32d4962cbbd5)
+2026-04-08 09:27:17,019 - basicLogger - INFO - Received event match_history with a trace id of 753d678f-1823-4745-a750-972a635951a7
+2026-04-08 09:27:17,025 - basicLogger - INFO - Produced match_history event (trace_id: 753d678f-1823-4745-a750-972a635951a7)
+2026-04-08 09:27:17,123 - basicLogger - INFO - Received event match_history with a trace id of 77944d3e-29cf-472e-b8d3-336a29121247
+2026-04-08 09:27:17,130 - basicLogger - INFO - Produced match_history event (trace_id: 77944d3e-29cf-472e-b8d3-336a29121247)
+2026-04-08 09:27:21,398 - basicLogger - INFO - Received event champion_winrate with a trace id of 63d8c568-94f8-4571-bb76-8a81a982a348
+2026-04-08 09:27:21,404 - basicLogger - INFO - Produced champion_winrate event (trace_id: 63d8c568-94f8-4571-bb76-8a81a982a348)
+2026-04-08 09:27:21,425 - basicLogger - INFO - Received event champion_winrate with a trace id of 388536e5-76dd-47d1-80bf-a822a2ef20d3
+2026-04-08 09:27:21,434 - basicLogger - INFO - Received event champion_winrate with a trace id of 13bd06bc-d5bd-4c9d-b3d3-a95d2f49e449
+2026-04-08 09:27:21,434 - basicLogger - INFO - Produced champion_winrate event (trace_id: 388536e5-76dd-47d1-80bf-a822a2ef20d3)
+2026-04-08 09:27:21,439 - basicLogger - INFO - Produced champion_winrate event (trace_id: 13bd06bc-d5bd-4c9d-b3d3-a95d2f49e449)
+2026-04-08 09:27:21,551 - basicLogger - INFO - Received event champion_winrate with a trace id of 67f89146-d074-43e4-aa43-e0dcf969b631
+2026-04-08 09:27:21,557 - basicLogger - INFO - Produced champion_winrate event (trace_id: 67f89146-d074-43e4-aa43-e0dcf969b631)
+2026-04-08 09:27:21,627 - basicLogger - INFO - Received event champion_winrate with a trace id of 2049856c-7be1-4822-afea-0b4ae2830d73
+2026-04-08 09:27:21,634 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2049856c-7be1-4822-afea-0b4ae2830d73)
+2026-04-08 09:27:21,753 - basicLogger - INFO - Received event champion_winrate with a trace id of cae40d4c-054a-4ddf-abb3-820d6f816510
+2026-04-08 09:27:21,760 - basicLogger - INFO - Produced champion_winrate event (trace_id: cae40d4c-054a-4ddf-abb3-820d6f816510)
+2026-04-08 09:27:21,826 - basicLogger - INFO - Received event champion_winrate with a trace id of 5c61f64e-4fd0-4716-b9ab-d5825f3e1407
+2026-04-08 09:27:21,832 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5c61f64e-4fd0-4716-b9ab-d5825f3e1407)
+2026-04-08 09:27:21,936 - basicLogger - INFO - Received event champion_winrate with a trace id of f09f5572-abf9-45b4-a49d-6777d412609f
+2026-04-08 09:27:21,943 - basicLogger - INFO - Produced champion_winrate event (trace_id: f09f5572-abf9-45b4-a49d-6777d412609f)
+2026-04-08 09:27:22,029 - basicLogger - INFO - Received event champion_winrate with a trace id of 603a70bf-f2ab-44c8-bf51-c7b3c350b849
+2026-04-08 09:27:22,038 - basicLogger - INFO - Produced champion_winrate event (trace_id: 603a70bf-f2ab-44c8-bf51-c7b3c350b849)
+2026-04-08 09:27:22,134 - basicLogger - INFO - Received event champion_winrate with a trace id of fa600f91-f00a-4459-a869-ae80c2b251dc
+2026-04-08 09:27:22,140 - basicLogger - INFO - Produced champion_winrate event (trace_id: fa600f91-f00a-4459-a869-ae80c2b251dc)
+2026-04-08 09:27:26,408 - basicLogger - INFO - Received event match_history with a trace id of a3037a27-082b-4886-a7b8-038533996148
+2026-04-08 09:27:26,415 - basicLogger - INFO - Produced match_history event (trace_id: a3037a27-082b-4886-a7b8-038533996148)
+2026-04-08 09:27:26,438 - basicLogger - INFO - Received event match_history with a trace id of 82ed477f-19ab-4705-87d8-42331c900375
+2026-04-08 09:27:26,443 - basicLogger - INFO - Received event match_history with a trace id of f582ec4b-470e-44c8-96ed-53c0462ae847
+2026-04-08 09:27:26,447 - basicLogger - INFO - Produced match_history event (trace_id: 82ed477f-19ab-4705-87d8-42331c900375)
+2026-04-08 09:27:26,451 - basicLogger - INFO - Produced match_history event (trace_id: f582ec4b-470e-44c8-96ed-53c0462ae847)
+2026-04-08 09:27:26,561 - basicLogger - INFO - Received event match_history with a trace id of 0b66b021-529f-4d45-bbe3-6803ab214cd2
+2026-04-08 09:27:26,568 - basicLogger - INFO - Produced match_history event (trace_id: 0b66b021-529f-4d45-bbe3-6803ab214cd2)
+2026-04-08 09:27:26,638 - basicLogger - INFO - Received event match_history with a trace id of 0ee900d5-9c31-4b54-ab32-723622f07ee0
+2026-04-08 09:27:26,644 - basicLogger - INFO - Produced match_history event (trace_id: 0ee900d5-9c31-4b54-ab32-723622f07ee0)
+2026-04-08 09:27:26,763 - basicLogger - INFO - Received event match_history with a trace id of edb047a4-47b7-47bb-b9dc-e9c9c9f4383c
+2026-04-08 09:27:26,769 - basicLogger - INFO - Produced match_history event (trace_id: edb047a4-47b7-47bb-b9dc-e9c9c9f4383c)
+2026-04-08 09:27:26,836 - basicLogger - INFO - Received event match_history with a trace id of 5c9208aa-e520-475c-820d-aac2e7f37def
+2026-04-08 09:27:26,842 - basicLogger - INFO - Produced match_history event (trace_id: 5c9208aa-e520-475c-820d-aac2e7f37def)
+2026-04-08 09:27:26,947 - basicLogger - INFO - Received event match_history with a trace id of 12c06083-fee3-428f-808d-287dcadd9a12
+2026-04-08 09:27:26,953 - basicLogger - INFO - Produced match_history event (trace_id: 12c06083-fee3-428f-808d-287dcadd9a12)
+2026-04-08 09:27:27,042 - basicLogger - INFO - Received event match_history with a trace id of 61214b04-4f31-4a9b-ac97-35566a1de6c5
+2026-04-08 09:27:27,049 - basicLogger - INFO - Produced match_history event (trace_id: 61214b04-4f31-4a9b-ac97-35566a1de6c5)
+2026-04-08 09:27:27,143 - basicLogger - INFO - Received event match_history with a trace id of 3ad18958-359e-4bfb-a1a1-e1a72a31e35b
+2026-04-08 09:27:27,148 - basicLogger - INFO - Produced match_history event (trace_id: 3ad18958-359e-4bfb-a1a1-e1a72a31e35b)
+2026-04-08 09:27:31,411 - basicLogger - INFO - Received event champion_winrate with a trace id of 6ad3c4b1-86e5-4629-8e5d-007cd5bc0394
+2026-04-08 09:27:31,417 - basicLogger - INFO - Produced champion_winrate event (trace_id: 6ad3c4b1-86e5-4629-8e5d-007cd5bc0394)
+2026-04-08 09:27:31,443 - basicLogger - INFO - Received event champion_winrate with a trace id of de1719e1-c912-49a8-b19e-d24f37ba782d
+2026-04-08 09:27:31,447 - basicLogger - INFO - Received event champion_winrate with a trace id of af9eecd1-2eb9-482f-adec-19e50d688f37
+2026-04-08 09:27:31,451 - basicLogger - INFO - Produced champion_winrate event (trace_id: de1719e1-c912-49a8-b19e-d24f37ba782d)
+2026-04-08 09:27:31,454 - basicLogger - INFO - Produced champion_winrate event (trace_id: af9eecd1-2eb9-482f-adec-19e50d688f37)
+2026-04-08 09:27:31,563 - basicLogger - INFO - Received event champion_winrate with a trace id of 681c7ec9-c818-4a49-8392-f62ce4b41658
+2026-04-08 09:27:31,568 - basicLogger - INFO - Produced champion_winrate event (trace_id: 681c7ec9-c818-4a49-8392-f62ce4b41658)
+2026-04-08 09:27:31,641 - basicLogger - INFO - Received event champion_winrate with a trace id of 2a15bb57-03c2-4b41-a7f6-bfa509e702c1
+2026-04-08 09:27:31,649 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2a15bb57-03c2-4b41-a7f6-bfa509e702c1)
+2026-04-08 09:27:31,766 - basicLogger - INFO - Received event champion_winrate with a trace id of c0e29d6d-8788-401a-b074-24d8eb44bae3
+2026-04-08 09:27:31,774 - basicLogger - INFO - Produced champion_winrate event (trace_id: c0e29d6d-8788-401a-b074-24d8eb44bae3)
+2026-04-08 09:27:31,838 - basicLogger - INFO - Received event champion_winrate with a trace id of eb12e77a-ce26-4f65-9ebc-7d6eabb6f4ea
+2026-04-08 09:27:31,845 - basicLogger - INFO - Produced champion_winrate event (trace_id: eb12e77a-ce26-4f65-9ebc-7d6eabb6f4ea)
+2026-04-08 09:27:31,948 - basicLogger - INFO - Received event champion_winrate with a trace id of 302418b2-72ad-4475-9048-bfb975d6cc11
+2026-04-08 09:27:31,956 - basicLogger - INFO - Produced champion_winrate event (trace_id: 302418b2-72ad-4475-9048-bfb975d6cc11)
+2026-04-08 09:27:32,045 - basicLogger - INFO - Received event champion_winrate with a trace id of 65f46f7a-24c1-4418-84e9-7c985b711885
+2026-04-08 09:27:32,053 - basicLogger - INFO - Produced champion_winrate event (trace_id: 65f46f7a-24c1-4418-84e9-7c985b711885)
+2026-04-08 09:27:32,144 - basicLogger - INFO - Received event champion_winrate with a trace id of b4d2a248-7e4a-4a03-a8a1-34226bc9fc6b
+2026-04-08 09:27:32,150 - basicLogger - INFO - Produced champion_winrate event (trace_id: b4d2a248-7e4a-4a03-a8a1-34226bc9fc6b)
+2026-04-08 09:27:36,421 - basicLogger - INFO - Received event match_history with a trace id of b9724fcb-1feb-4cb3-8100-f90366b5af40
+2026-04-08 09:27:36,428 - basicLogger - INFO - Produced match_history event (trace_id: b9724fcb-1feb-4cb3-8100-f90366b5af40)
+2026-04-08 09:27:36,455 - basicLogger - INFO - Received event match_history with a trace id of 0f4a25e7-8e7f-4e27-b218-e410161d586b
+2026-04-08 09:27:36,458 - basicLogger - INFO - Received event match_history with a trace id of 4c8c655b-0794-49f0-ba8e-474ce6e0ba5f
+2026-04-08 09:27:36,478 - basicLogger - INFO - Produced match_history event (trace_id: 0f4a25e7-8e7f-4e27-b218-e410161d586b)
+2026-04-08 09:27:36,481 - basicLogger - INFO - Produced match_history event (trace_id: 4c8c655b-0794-49f0-ba8e-474ce6e0ba5f)
+2026-04-08 09:27:36,584 - basicLogger - INFO - Received event match_history with a trace id of 710e5838-fdab-42ca-8765-a337e47f7663
+2026-04-08 09:27:36,592 - basicLogger - INFO - Produced match_history event (trace_id: 710e5838-fdab-42ca-8765-a337e47f7663)
+2026-04-08 09:27:36,654 - basicLogger - INFO - Received event match_history with a trace id of 6534adca-6f84-46ab-9ad1-58bef2b126ab
+2026-04-08 09:27:36,661 - basicLogger - INFO - Produced match_history event (trace_id: 6534adca-6f84-46ab-9ad1-58bef2b126ab)
+2026-04-08 09:27:36,778 - basicLogger - INFO - Received event match_history with a trace id of 89ba5cfb-a618-4417-8e0d-4425fc3df06d
+2026-04-08 09:27:36,785 - basicLogger - INFO - Produced match_history event (trace_id: 89ba5cfb-a618-4417-8e0d-4425fc3df06d)
+2026-04-08 09:27:36,850 - basicLogger - INFO - Received event match_history with a trace id of a763312c-d26d-4579-b3d3-4b111c55b370
+2026-04-08 09:27:36,857 - basicLogger - INFO - Produced match_history event (trace_id: a763312c-d26d-4579-b3d3-4b111c55b370)
+2026-04-08 09:27:36,960 - basicLogger - INFO - Received event match_history with a trace id of 2c8fc568-20da-43e1-bfe2-036144442429
+2026-04-08 09:27:36,967 - basicLogger - INFO - Produced match_history event (trace_id: 2c8fc568-20da-43e1-bfe2-036144442429)
+2026-04-08 09:27:37,057 - basicLogger - INFO - Received event match_history with a trace id of 84b62e05-9a6e-4949-b821-d39ba8e0283d
+2026-04-08 09:27:37,063 - basicLogger - INFO - Produced match_history event (trace_id: 84b62e05-9a6e-4949-b821-d39ba8e0283d)
+2026-04-08 09:27:37,153 - basicLogger - INFO - Received event match_history with a trace id of 66bd6051-df69-416c-8c03-56712b39f232
+2026-04-08 09:27:37,158 - basicLogger - INFO - Produced match_history event (trace_id: 66bd6051-df69-416c-8c03-56712b39f232)
+2026-04-08 09:27:41,431 - basicLogger - INFO - Received event champion_winrate with a trace id of 6e1190b9-ec0b-47f5-91fe-4bce8fde61d5
+2026-04-08 09:27:41,438 - basicLogger - INFO - Produced champion_winrate event (trace_id: 6e1190b9-ec0b-47f5-91fe-4bce8fde61d5)
+2026-04-08 09:27:41,482 - basicLogger - INFO - Received event champion_winrate with a trace id of 8f314344-1b05-4b20-a7cf-d73d5afb40b2
+2026-04-08 09:27:41,485 - basicLogger - INFO - Received event champion_winrate with a trace id of 198ca066-fafa-4c17-b704-008f0e5f3152
+2026-04-08 09:27:41,491 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8f314344-1b05-4b20-a7cf-d73d5afb40b2)
+2026-04-08 09:27:41,492 - basicLogger - INFO - Produced champion_winrate event (trace_id: 198ca066-fafa-4c17-b704-008f0e5f3152)
+2026-04-08 09:27:41,595 - basicLogger - INFO - Received event champion_winrate with a trace id of 31089b70-48f3-4ee9-915b-df20842f16b8
+2026-04-08 09:27:41,602 - basicLogger - INFO - Produced champion_winrate event (trace_id: 31089b70-48f3-4ee9-915b-df20842f16b8)
+2026-04-08 09:27:41,665 - basicLogger - INFO - Received event champion_winrate with a trace id of ce0b8de4-949d-4bda-9321-7acd916db6f2
+2026-04-08 09:27:41,672 - basicLogger - INFO - Produced champion_winrate event (trace_id: ce0b8de4-949d-4bda-9321-7acd916db6f2)
+2026-04-08 09:27:41,788 - basicLogger - INFO - Received event champion_winrate with a trace id of 33d93c75-e02c-4306-a5cf-a28f5f79a878
+2026-04-08 09:27:41,796 - basicLogger - INFO - Produced champion_winrate event (trace_id: 33d93c75-e02c-4306-a5cf-a28f5f79a878)
+2026-04-08 09:27:41,860 - basicLogger - INFO - Received event champion_winrate with a trace id of e0ba0470-af9a-49ff-b998-bb631a673482
+2026-04-08 09:27:41,867 - basicLogger - INFO - Produced champion_winrate event (trace_id: e0ba0470-af9a-49ff-b998-bb631a673482)
+2026-04-08 09:27:41,970 - basicLogger - INFO - Received event champion_winrate with a trace id of 62588b37-6cdf-4bda-ba78-23ce018b6605
+2026-04-08 09:27:41,976 - basicLogger - INFO - Produced champion_winrate event (trace_id: 62588b37-6cdf-4bda-ba78-23ce018b6605)
+2026-04-08 09:27:42,067 - basicLogger - INFO - Received event champion_winrate with a trace id of 717c57db-57ff-4e52-a6e2-78b3a1f4cad3
+2026-04-08 09:27:42,073 - basicLogger - INFO - Produced champion_winrate event (trace_id: 717c57db-57ff-4e52-a6e2-78b3a1f4cad3)
+2026-04-08 09:27:42,162 - basicLogger - INFO - Received event champion_winrate with a trace id of 9e7941db-f39f-40c8-ad29-cbd735736d90
+2026-04-08 09:27:42,169 - basicLogger - INFO - Produced champion_winrate event (trace_id: 9e7941db-f39f-40c8-ad29-cbd735736d90)
+2026-04-08 09:27:46,441 - basicLogger - INFO - Received event match_history with a trace id of e1f64ab8-dc3b-470b-8f99-370bd2d90de6
+2026-04-08 09:27:46,448 - basicLogger - INFO - Produced match_history event (trace_id: e1f64ab8-dc3b-470b-8f99-370bd2d90de6)
+2026-04-08 09:27:46,495 - basicLogger - INFO - Received event match_history with a trace id of b37fb31a-44ca-4e87-aa40-b54e594f56bc
+2026-04-08 09:27:46,496 - basicLogger - INFO - Received event match_history with a trace id of 05b0cea0-e6ae-49eb-9fec-0cd9c4e95056
+2026-04-08 09:27:46,507 - basicLogger - INFO - Produced match_history event (trace_id: b37fb31a-44ca-4e87-aa40-b54e594f56bc)
+2026-04-08 09:27:46,508 - basicLogger - INFO - Produced match_history event (trace_id: 05b0cea0-e6ae-49eb-9fec-0cd9c4e95056)
+2026-04-08 09:27:46,606 - basicLogger - INFO - Received event match_history with a trace id of b467dcb4-faa7-4ccf-8331-60601f13024e
+2026-04-08 09:27:46,612 - basicLogger - INFO - Produced match_history event (trace_id: b467dcb4-faa7-4ccf-8331-60601f13024e)
+2026-04-08 09:27:46,675 - basicLogger - INFO - Received event match_history with a trace id of 0382c749-6ff9-4a27-8258-3455247844ad
+2026-04-08 09:27:46,683 - basicLogger - INFO - Produced match_history event (trace_id: 0382c749-6ff9-4a27-8258-3455247844ad)
+2026-04-08 09:27:46,799 - basicLogger - INFO - Received event match_history with a trace id of 2ae38219-a726-4729-bcb9-450b6a90668e
+2026-04-08 09:27:46,805 - basicLogger - INFO - Produced match_history event (trace_id: 2ae38219-a726-4729-bcb9-450b6a90668e)
+2026-04-08 09:27:46,870 - basicLogger - INFO - Received event match_history with a trace id of cf532afa-7b30-4b19-bb27-26745be5dea9
+2026-04-08 09:27:46,877 - basicLogger - INFO - Produced match_history event (trace_id: cf532afa-7b30-4b19-bb27-26745be5dea9)
+2026-04-08 09:27:46,980 - basicLogger - INFO - Received event match_history with a trace id of 065e9281-533c-4f33-8c4a-14bcc88468cd
+2026-04-08 09:27:46,987 - basicLogger - INFO - Produced match_history event (trace_id: 065e9281-533c-4f33-8c4a-14bcc88468cd)
+2026-04-08 09:27:47,077 - basicLogger - INFO - Received event match_history with a trace id of 8a866168-be60-46ef-8dd9-005dfe1594e0
+2026-04-08 09:27:47,083 - basicLogger - INFO - Produced match_history event (trace_id: 8a866168-be60-46ef-8dd9-005dfe1594e0)
+2026-04-08 09:27:47,172 - basicLogger - INFO - Received event match_history with a trace id of 0170d661-7670-415d-b2b4-dcae60300a70
+2026-04-08 09:27:47,179 - basicLogger - INFO - Produced match_history event (trace_id: 0170d661-7670-415d-b2b4-dcae60300a70)
+2026-04-08 09:27:51,452 - basicLogger - INFO - Received event champion_winrate with a trace id of 894ff2d8-8ac1-4992-ac10-5c4495b1ca3b
+2026-04-08 09:27:51,458 - basicLogger - INFO - Produced champion_winrate event (trace_id: 894ff2d8-8ac1-4992-ac10-5c4495b1ca3b)
+2026-04-08 09:27:51,512 - basicLogger - INFO - Received event champion_winrate with a trace id of 222cb03d-75c1-4aac-843d-e49189c5e100
+2026-04-08 09:27:51,513 - basicLogger - INFO - Received event champion_winrate with a trace id of 42dd83d1-f7dc-47f6-9ddc-0b18228a1650
+2026-04-08 09:27:51,523 - basicLogger - INFO - Produced champion_winrate event (trace_id: 222cb03d-75c1-4aac-843d-e49189c5e100)
+2026-04-08 09:27:51,523 - basicLogger - INFO - Produced champion_winrate event (trace_id: 42dd83d1-f7dc-47f6-9ddc-0b18228a1650)
+2026-04-08 09:27:51,616 - basicLogger - INFO - Received event champion_winrate with a trace id of 0d2114d9-3b28-4010-8943-f38e009234fd
+2026-04-08 09:27:51,622 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0d2114d9-3b28-4010-8943-f38e009234fd)
+2026-04-08 09:27:51,686 - basicLogger - INFO - Received event champion_winrate with a trace id of 8459c5e1-732f-40ef-9c7b-443ee3c48ca4
+2026-04-08 09:27:51,692 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8459c5e1-732f-40ef-9c7b-443ee3c48ca4)
+2026-04-08 09:27:51,808 - basicLogger - INFO - Received event champion_winrate with a trace id of 32a62ae5-db81-44f7-953c-a0def168b179
+2026-04-08 09:27:51,815 - basicLogger - INFO - Produced champion_winrate event (trace_id: 32a62ae5-db81-44f7-953c-a0def168b179)
+2026-04-08 09:27:51,880 - basicLogger - INFO - Received event champion_winrate with a trace id of 829480ed-10e3-45f8-b83c-c3a501259911
+2026-04-08 09:27:51,885 - basicLogger - INFO - Produced champion_winrate event (trace_id: 829480ed-10e3-45f8-b83c-c3a501259911)
+2026-04-08 09:27:51,991 - basicLogger - INFO - Received event champion_winrate with a trace id of 3f569657-3ff2-4e46-9d65-4ad0e13f6bf5
+2026-04-08 09:27:51,997 - basicLogger - INFO - Produced champion_winrate event (trace_id: 3f569657-3ff2-4e46-9d65-4ad0e13f6bf5)
+2026-04-08 09:27:52,086 - basicLogger - INFO - Received event champion_winrate with a trace id of 3e8e0cee-99c7-476a-9d61-838844f73aa4
+2026-04-08 09:27:52,093 - basicLogger - INFO - Produced champion_winrate event (trace_id: 3e8e0cee-99c7-476a-9d61-838844f73aa4)
+2026-04-08 09:27:52,183 - basicLogger - INFO - Received event champion_winrate with a trace id of 5df1c631-ad10-4935-82d9-00f7e28b5723
+2026-04-08 09:27:52,189 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5df1c631-ad10-4935-82d9-00f7e28b5723)
+2026-04-08 09:27:56,464 - basicLogger - INFO - Received event match_history with a trace id of f356bc1b-51b6-4fab-afe4-9ab2f66a160c
+2026-04-08 09:27:56,471 - basicLogger - INFO - Produced match_history event (trace_id: f356bc1b-51b6-4fab-afe4-9ab2f66a160c)
+2026-04-08 09:27:56,528 - basicLogger - INFO - Received event match_history with a trace id of 08f06872-ea2b-48a6-933a-214c13aeca57
+2026-04-08 09:27:56,529 - basicLogger - INFO - Received event match_history with a trace id of 4ed55ab5-91ad-490c-bc38-513bd3056cc9
+2026-04-08 09:27:56,538 - basicLogger - INFO - Produced match_history event (trace_id: 4ed55ab5-91ad-490c-bc38-513bd3056cc9)
+2026-04-08 09:27:56,538 - basicLogger - INFO - Produced match_history event (trace_id: 08f06872-ea2b-48a6-933a-214c13aeca57)
+2026-04-08 09:27:56,628 - basicLogger - INFO - Received event match_history with a trace id of 53cec449-ec9c-4137-b6f0-1ff68b0a1ed6
+2026-04-08 09:27:56,636 - basicLogger - INFO - Produced match_history event (trace_id: 53cec449-ec9c-4137-b6f0-1ff68b0a1ed6)
+2026-04-08 09:27:56,696 - basicLogger - INFO - Received event match_history with a trace id of f846decd-6c06-4b28-abe1-f68b7d7bf04f
+2026-04-08 09:27:56,703 - basicLogger - INFO - Produced match_history event (trace_id: f846decd-6c06-4b28-abe1-f68b7d7bf04f)
+2026-04-08 09:27:56,820 - basicLogger - INFO - Received event match_history with a trace id of b0e30397-5b16-4cf3-8a3c-d9f79568680d
+2026-04-08 09:27:56,826 - basicLogger - INFO - Produced match_history event (trace_id: b0e30397-5b16-4cf3-8a3c-d9f79568680d)
+2026-04-08 09:27:56,890 - basicLogger - INFO - Received event match_history with a trace id of 88ccfbd5-5ffb-42ad-9797-3d6438ea0401
+2026-04-08 09:27:56,896 - basicLogger - INFO - Produced match_history event (trace_id: 88ccfbd5-5ffb-42ad-9797-3d6438ea0401)
+2026-04-08 09:27:57,002 - basicLogger - INFO - Received event match_history with a trace id of c422926e-0b3b-48fb-a137-001bac560465
+2026-04-08 09:27:57,009 - basicLogger - INFO - Produced match_history event (trace_id: c422926e-0b3b-48fb-a137-001bac560465)
+2026-04-08 09:27:57,097 - basicLogger - INFO - Received event match_history with a trace id of bf7c91d3-574b-4fe1-a589-d998dd17bfda
+2026-04-08 09:27:57,103 - basicLogger - INFO - Produced match_history event (trace_id: bf7c91d3-574b-4fe1-a589-d998dd17bfda)
+2026-04-08 09:27:57,192 - basicLogger - INFO - Received event match_history with a trace id of f4702380-794f-474b-8e54-62566909505d
+2026-04-08 09:27:57,197 - basicLogger - INFO - Produced match_history event (trace_id: f4702380-794f-474b-8e54-62566909505d)
+2026-04-08 09:28:01,471 - basicLogger - INFO - Received event champion_winrate with a trace id of bcaed27b-7cf8-4f81-a254-8a909a712dc8
+2026-04-08 09:28:01,477 - basicLogger - INFO - Produced champion_winrate event (trace_id: bcaed27b-7cf8-4f81-a254-8a909a712dc8)
+2026-04-08 09:28:01,538 - basicLogger - INFO - Received event champion_winrate with a trace id of d24416d7-e385-46d1-a259-87f2d60cecbd
+2026-04-08 09:28:01,538 - basicLogger - INFO - Received event champion_winrate with a trace id of e8f34fa1-b9ba-45d2-a7d3-3e74761d1538
+2026-04-08 09:28:01,548 - basicLogger - INFO - Produced champion_winrate event (trace_id: d24416d7-e385-46d1-a259-87f2d60cecbd)
+2026-04-08 09:28:01,549 - basicLogger - INFO - Produced champion_winrate event (trace_id: e8f34fa1-b9ba-45d2-a7d3-3e74761d1538)
+2026-04-08 09:28:01,635 - basicLogger - INFO - Received event champion_winrate with a trace id of b4c5e712-4726-4cb8-9ef2-cc1ff5d3a628
+2026-04-08 09:28:01,641 - basicLogger - INFO - Produced champion_winrate event (trace_id: b4c5e712-4726-4cb8-9ef2-cc1ff5d3a628)
+2026-04-08 09:28:01,703 - basicLogger - INFO - Received event champion_winrate with a trace id of f45d78d3-e6e7-4d36-8e98-ba1a17b43f84
+2026-04-08 09:28:01,710 - basicLogger - INFO - Produced champion_winrate event (trace_id: f45d78d3-e6e7-4d36-8e98-ba1a17b43f84)
+2026-04-08 09:28:01,826 - basicLogger - INFO - Received event champion_winrate with a trace id of d5938d7e-fce3-47b8-a4bc-eba44c3b0ecd
+2026-04-08 09:28:01,832 - basicLogger - INFO - Produced champion_winrate event (trace_id: d5938d7e-fce3-47b8-a4bc-eba44c3b0ecd)
+2026-04-08 09:28:01,896 - basicLogger - INFO - Received event champion_winrate with a trace id of 2676a22d-d256-4135-98aa-379a5ef30e6d
+2026-04-08 09:28:01,903 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2676a22d-d256-4135-98aa-379a5ef30e6d)
+2026-04-08 09:28:02,009 - basicLogger - INFO - Received event champion_winrate with a trace id of ad73265d-e057-41bc-a9bb-a48b0e176757
+2026-04-08 09:28:02,015 - basicLogger - INFO - Produced champion_winrate event (trace_id: ad73265d-e057-41bc-a9bb-a48b0e176757)
+2026-04-08 09:28:02,104 - basicLogger - INFO - Received event champion_winrate with a trace id of fc842c5a-a321-4a7a-9ab2-02a9fdb811c6
+2026-04-08 09:28:02,112 - basicLogger - INFO - Produced champion_winrate event (trace_id: fc842c5a-a321-4a7a-9ab2-02a9fdb811c6)
+2026-04-08 09:28:02,197 - basicLogger - INFO - Received event champion_winrate with a trace id of befa460c-19e9-487c-97da-3327bb95cfdf
+2026-04-08 09:28:02,204 - basicLogger - INFO - Produced champion_winrate event (trace_id: befa460c-19e9-487c-97da-3327bb95cfdf)
+2026-04-08 09:28:06,481 - basicLogger - INFO - Received event match_history with a trace id of 3cd830cb-41a8-41c2-8bd4-0f64ccab00d4
+2026-04-08 09:28:06,488 - basicLogger - INFO - Produced match_history event (trace_id: 3cd830cb-41a8-41c2-8bd4-0f64ccab00d4)
+2026-04-08 09:28:06,553 - basicLogger - INFO - Received event match_history with a trace id of 950572ff-0ae8-45e2-bc6d-2cb23941254a
+2026-04-08 09:28:06,553 - basicLogger - INFO - Received event match_history with a trace id of cf1db29d-26ba-4871-8b31-a5a514930520
+2026-04-08 09:28:06,561 - basicLogger - INFO - Produced match_history event (trace_id: 950572ff-0ae8-45e2-bc6d-2cb23941254a)
+2026-04-08 09:28:06,562 - basicLogger - INFO - Produced match_history event (trace_id: cf1db29d-26ba-4871-8b31-a5a514930520)
+2026-04-08 09:28:06,644 - basicLogger - INFO - Received event match_history with a trace id of f666237e-89d5-4fc4-a64f-37feb9043ca0
+2026-04-08 09:28:06,651 - basicLogger - INFO - Produced match_history event (trace_id: f666237e-89d5-4fc4-a64f-37feb9043ca0)
+2026-04-08 09:28:06,714 - basicLogger - INFO - Received event match_history with a trace id of c2718e5b-1f4b-40d6-8684-327f64430f4a
+2026-04-08 09:28:06,720 - basicLogger - INFO - Produced match_history event (trace_id: c2718e5b-1f4b-40d6-8684-327f64430f4a)
+2026-04-08 09:28:06,835 - basicLogger - INFO - Received event match_history with a trace id of 4cc44fff-d338-4b0a-960a-c5d813189709
+2026-04-08 09:28:06,842 - basicLogger - INFO - Produced match_history event (trace_id: 4cc44fff-d338-4b0a-960a-c5d813189709)
+2026-04-08 09:28:06,906 - basicLogger - INFO - Received event match_history with a trace id of 0d35eb29-07ee-4702-b847-65ce195c45bd
+2026-04-08 09:28:06,913 - basicLogger - INFO - Produced match_history event (trace_id: 0d35eb29-07ee-4702-b847-65ce195c45bd)
+2026-04-08 09:28:07,018 - basicLogger - INFO - Received event match_history with a trace id of 508238d4-d789-42e5-afb7-77f73df42281
+2026-04-08 09:28:07,025 - basicLogger - INFO - Produced match_history event (trace_id: 508238d4-d789-42e5-afb7-77f73df42281)
+2026-04-08 09:28:07,115 - basicLogger - INFO - Received event match_history with a trace id of 10941649-9356-425c-b2bc-04dba5b3ad01
+2026-04-08 09:28:07,121 - basicLogger - INFO - Produced match_history event (trace_id: 10941649-9356-425c-b2bc-04dba5b3ad01)
+2026-04-08 09:28:07,207 - basicLogger - INFO - Received event match_history with a trace id of 6009d906-73f2-453d-a8ec-3f9e399f1feb
+2026-04-08 09:28:07,213 - basicLogger - INFO - Produced match_history event (trace_id: 6009d906-73f2-453d-a8ec-3f9e399f1feb)
+2026-04-08 09:28:11,492 - basicLogger - INFO - Received event champion_winrate with a trace id of e16ae943-3222-4a0e-ba9c-d79b6aadac6e
+2026-04-08 09:28:11,498 - basicLogger - INFO - Produced champion_winrate event (trace_id: e16ae943-3222-4a0e-ba9c-d79b6aadac6e)
+2026-04-08 09:28:11,566 - basicLogger - INFO - Received event champion_winrate with a trace id of 4fa03cc1-dc8f-4edd-a92f-f2f9ba183e2f
+2026-04-08 09:28:11,566 - basicLogger - INFO - Received event champion_winrate with a trace id of d5e79329-3dcb-4d92-a137-364a704e611a
+2026-04-08 09:28:11,575 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4fa03cc1-dc8f-4edd-a92f-f2f9ba183e2f)
+2026-04-08 09:28:11,576 - basicLogger - INFO - Produced champion_winrate event (trace_id: d5e79329-3dcb-4d92-a137-364a704e611a)
+2026-04-08 09:28:11,654 - basicLogger - INFO - Received event champion_winrate with a trace id of 248eb32b-949d-4fc4-916e-265a8931ad2f
+2026-04-08 09:28:11,659 - basicLogger - INFO - Produced champion_winrate event (trace_id: 248eb32b-949d-4fc4-916e-265a8931ad2f)
+2026-04-08 09:28:11,723 - basicLogger - INFO - Received event champion_winrate with a trace id of 70abb657-173c-4682-a9f5-87a175708731
+2026-04-08 09:28:11,730 - basicLogger - INFO - Produced champion_winrate event (trace_id: 70abb657-173c-4682-a9f5-87a175708731)
+2026-04-08 09:28:11,845 - basicLogger - INFO - Received event champion_winrate with a trace id of d211bfe9-effd-42d3-9ac8-ff9df0777f18
+2026-04-08 09:28:11,852 - basicLogger - INFO - Produced champion_winrate event (trace_id: d211bfe9-effd-42d3-9ac8-ff9df0777f18)
+2026-04-08 09:28:11,916 - basicLogger - INFO - Received event champion_winrate with a trace id of e08e034d-d025-4c9e-9ce9-88dd74d616b9
+2026-04-08 09:28:11,922 - basicLogger - INFO - Produced champion_winrate event (trace_id: e08e034d-d025-4c9e-9ce9-88dd74d616b9)
+2026-04-08 09:28:12,028 - basicLogger - INFO - Received event champion_winrate with a trace id of ec7987b9-a657-4373-98f5-5f408b8112f1
+2026-04-08 09:28:12,036 - basicLogger - INFO - Produced champion_winrate event (trace_id: ec7987b9-a657-4373-98f5-5f408b8112f1)
+2026-04-08 09:28:12,124 - basicLogger - INFO - Received event champion_winrate with a trace id of cd9478df-b8e4-4f9a-a43d-78b5b789a1a0
+2026-04-08 09:28:12,131 - basicLogger - INFO - Produced champion_winrate event (trace_id: cd9478df-b8e4-4f9a-a43d-78b5b789a1a0)
+2026-04-08 09:28:12,216 - basicLogger - INFO - Received event champion_winrate with a trace id of dda64d21-0daa-4636-b9e2-c4081dba4d87
+2026-04-08 09:28:12,223 - basicLogger - INFO - Produced champion_winrate event (trace_id: dda64d21-0daa-4636-b9e2-c4081dba4d87)
+2026-04-08 09:28:16,502 - basicLogger - INFO - Received event match_history with a trace id of 0a140f7b-a2e5-48d6-84ab-d49cf7211913
+2026-04-08 09:28:16,508 - basicLogger - INFO - Produced match_history event (trace_id: 0a140f7b-a2e5-48d6-84ab-d49cf7211913)
+2026-04-08 09:28:16,579 - basicLogger - INFO - Received event match_history with a trace id of 659bd278-0280-4eaa-84b2-b2b76cf6a0c1
+2026-04-08 09:28:16,579 - basicLogger - INFO - Received event match_history with a trace id of b79cfa24-baeb-4258-9eee-34bd2168d90e
+2026-04-08 09:28:16,587 - basicLogger - INFO - Produced match_history event (trace_id: 659bd278-0280-4eaa-84b2-b2b76cf6a0c1)
+2026-04-08 09:28:16,588 - basicLogger - INFO - Produced match_history event (trace_id: b79cfa24-baeb-4258-9eee-34bd2168d90e)
+2026-04-08 09:28:16,663 - basicLogger - INFO - Received event match_history with a trace id of 1dc2dff2-376e-4dd3-9cd5-2ce1548b50a5
+2026-04-08 09:28:16,671 - basicLogger - INFO - Produced match_history event (trace_id: 1dc2dff2-376e-4dd3-9cd5-2ce1548b50a5)
+2026-04-08 09:28:16,734 - basicLogger - INFO - Received event match_history with a trace id of a220365a-5a14-4101-9b57-a32f753c3d21
+2026-04-08 09:28:16,741 - basicLogger - INFO - Produced match_history event (trace_id: a220365a-5a14-4101-9b57-a32f753c3d21)
+2026-04-08 09:28:16,856 - basicLogger - INFO - Received event match_history with a trace id of fa057e48-0c18-428a-b6ed-4c3e8fa77d5f
+2026-04-08 09:28:16,862 - basicLogger - INFO - Produced match_history event (trace_id: fa057e48-0c18-428a-b6ed-4c3e8fa77d5f)
+2026-04-08 09:28:16,925 - basicLogger - INFO - Received event match_history with a trace id of e464236c-6a2e-4f9c-bc7f-edf04789003b
+2026-04-08 09:28:16,932 - basicLogger - INFO - Produced match_history event (trace_id: e464236c-6a2e-4f9c-bc7f-edf04789003b)
+2026-04-08 09:28:17,039 - basicLogger - INFO - Received event match_history with a trace id of 29af5260-e50a-4622-8e5b-521205d00a0a
+2026-04-08 09:28:17,046 - basicLogger - INFO - Produced match_history event (trace_id: 29af5260-e50a-4622-8e5b-521205d00a0a)
+2026-04-08 09:28:17,134 - basicLogger - INFO - Received event match_history with a trace id of 95500dce-b4d3-4961-83f6-e368c543baee
+2026-04-08 09:28:17,139 - basicLogger - INFO - Produced match_history event (trace_id: 95500dce-b4d3-4961-83f6-e368c543baee)
+2026-04-08 09:28:17,227 - basicLogger - INFO - Received event match_history with a trace id of 41478d88-c3b3-47b0-ae81-5dae17edc766
+2026-04-08 09:28:17,235 - basicLogger - INFO - Produced match_history event (trace_id: 41478d88-c3b3-47b0-ae81-5dae17edc766)
+2026-04-08 09:28:21,511 - basicLogger - INFO - Received event champion_winrate with a trace id of bddb8cf8-a238-4049-abe8-f2b4a9b45c0d
+2026-04-08 09:28:21,518 - basicLogger - INFO - Produced champion_winrate event (trace_id: bddb8cf8-a238-4049-abe8-f2b4a9b45c0d)
+2026-04-08 09:28:21,592 - basicLogger - INFO - Received event champion_winrate with a trace id of 343d4e92-9b6d-4441-aaa2-a92febaa1bc8
+2026-04-08 09:28:21,592 - basicLogger - INFO - Received event champion_winrate with a trace id of 0e0326de-5f41-429d-a2a9-66c384c6e376
+2026-04-08 09:28:21,602 - basicLogger - INFO - Produced champion_winrate event (trace_id: 343d4e92-9b6d-4441-aaa2-a92febaa1bc8)
+2026-04-08 09:28:21,603 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0e0326de-5f41-429d-a2a9-66c384c6e376)
+2026-04-08 09:28:21,675 - basicLogger - INFO - Received event champion_winrate with a trace id of e8728ce3-b0d3-4c2f-a689-028c1ecf0824
+2026-04-08 09:28:21,681 - basicLogger - INFO - Produced champion_winrate event (trace_id: e8728ce3-b0d3-4c2f-a689-028c1ecf0824)
+2026-04-08 09:28:21,745 - basicLogger - INFO - Received event champion_winrate with a trace id of 03e8a2d6-9761-4f6f-aec9-ea69282c8796
+2026-04-08 09:28:21,753 - basicLogger - INFO - Produced champion_winrate event (trace_id: 03e8a2d6-9761-4f6f-aec9-ea69282c8796)
+2026-04-08 09:28:21,866 - basicLogger - INFO - Received event champion_winrate with a trace id of 5c499588-5212-4802-8ff2-9ab6e7df4a4f
+2026-04-08 09:28:21,874 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5c499588-5212-4802-8ff2-9ab6e7df4a4f)
+2026-04-08 09:28:21,935 - basicLogger - INFO - Received event champion_winrate with a trace id of cef8fa88-3f44-4ca7-acf6-c60266404440
+2026-04-08 09:28:21,942 - basicLogger - INFO - Produced champion_winrate event (trace_id: cef8fa88-3f44-4ca7-acf6-c60266404440)
+2026-04-08 09:28:22,050 - basicLogger - INFO - Received event champion_winrate with a trace id of b9667625-98ab-4cba-975e-6fc94aac80ba
+2026-04-08 09:28:22,057 - basicLogger - INFO - Produced champion_winrate event (trace_id: b9667625-98ab-4cba-975e-6fc94aac80ba)
+2026-04-08 09:28:22,143 - basicLogger - INFO - Received event champion_winrate with a trace id of 5db24cdb-b421-4b9d-9e5d-d2543d9ef4a1
+2026-04-08 09:28:22,149 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5db24cdb-b421-4b9d-9e5d-d2543d9ef4a1)
+2026-04-08 09:28:22,238 - basicLogger - INFO - Received event champion_winrate with a trace id of fe72b4d1-136c-4b8e-8887-84a871870c86
+2026-04-08 09:28:22,245 - basicLogger - INFO - Produced champion_winrate event (trace_id: fe72b4d1-136c-4b8e-8887-84a871870c86)
+2026-04-08 09:28:26,522 - basicLogger - INFO - Received event match_history with a trace id of 5eb4c290-cb46-4730-9e7a-169e9340a22e
+2026-04-08 09:28:26,529 - basicLogger - INFO - Produced match_history event (trace_id: 5eb4c290-cb46-4730-9e7a-169e9340a22e)
+2026-04-08 09:28:26,607 - basicLogger - INFO - Received event match_history with a trace id of 7a229a40-ecf7-4bc4-8cd2-1330c374d091
+2026-04-08 09:28:26,608 - basicLogger - INFO - Received event match_history with a trace id of 60e36309-ccd0-4d19-a721-210c4b112f03
+2026-04-08 09:28:26,618 - basicLogger - INFO - Produced match_history event (trace_id: 7a229a40-ecf7-4bc4-8cd2-1330c374d091)
+2026-04-08 09:28:26,618 - basicLogger - INFO - Produced match_history event (trace_id: 60e36309-ccd0-4d19-a721-210c4b112f03)
+2026-04-08 09:28:26,684 - basicLogger - INFO - Received event match_history with a trace id of 814759c3-2d65-4e65-8cff-f8e4302e9a5b
+2026-04-08 09:28:26,692 - basicLogger - INFO - Produced match_history event (trace_id: 814759c3-2d65-4e65-8cff-f8e4302e9a5b)
+2026-04-08 09:28:26,756 - basicLogger - INFO - Received event match_history with a trace id of af769c07-a392-4eb8-acbd-c0edea717b0f
+2026-04-08 09:28:26,763 - basicLogger - INFO - Produced match_history event (trace_id: af769c07-a392-4eb8-acbd-c0edea717b0f)
+2026-04-08 09:28:26,877 - basicLogger - INFO - Received event match_history with a trace id of 91ac2c71-5753-4ce5-9c88-aea5fa8d705a
+2026-04-08 09:28:26,883 - basicLogger - INFO - Produced match_history event (trace_id: 91ac2c71-5753-4ce5-9c88-aea5fa8d705a)
+2026-04-08 09:28:26,946 - basicLogger - INFO - Received event match_history with a trace id of c211ade3-0ca6-4a74-a740-91c577d45673
+2026-04-08 09:28:26,951 - basicLogger - INFO - Produced match_history event (trace_id: c211ade3-0ca6-4a74-a740-91c577d45673)
+2026-04-08 09:28:27,062 - basicLogger - INFO - Received event match_history with a trace id of af117dc3-6ba4-45b7-b5f1-5dc50288c735
+2026-04-08 09:28:27,070 - basicLogger - INFO - Produced match_history event (trace_id: af117dc3-6ba4-45b7-b5f1-5dc50288c735)
+2026-04-08 09:28:27,152 - basicLogger - INFO - Received event match_history with a trace id of d8622832-4a8d-4fd0-a2f9-ea3fd9ca0ab4
+2026-04-08 09:28:27,159 - basicLogger - INFO - Produced match_history event (trace_id: d8622832-4a8d-4fd0-a2f9-ea3fd9ca0ab4)
+2026-04-08 09:28:27,262 - basicLogger - INFO - Received event match_history with a trace id of 055a6566-11c4-484d-9607-94dc90430e69
+2026-04-08 09:28:27,269 - basicLogger - INFO - Produced match_history event (trace_id: 055a6566-11c4-484d-9607-94dc90430e69)
+2026-04-08 09:28:31,529 - basicLogger - INFO - Received event champion_winrate with a trace id of 22e5ea4b-e643-42c3-a62e-cff86585439f
+2026-04-08 09:28:31,536 - basicLogger - INFO - Produced champion_winrate event (trace_id: 22e5ea4b-e643-42c3-a62e-cff86585439f)
+2026-04-08 09:28:31,619 - basicLogger - INFO - Received event champion_winrate with a trace id of 37c5895f-5a57-40ea-b873-dda819c91a89
+2026-04-08 09:28:31,619 - basicLogger - INFO - Received event champion_winrate with a trace id of 7360e30c-b129-485d-87dd-44e547f9461d
+2026-04-08 09:28:31,629 - basicLogger - INFO - Produced champion_winrate event (trace_id: 37c5895f-5a57-40ea-b873-dda819c91a89)
+2026-04-08 09:28:31,630 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7360e30c-b129-485d-87dd-44e547f9461d)
+2026-04-08 09:28:31,691 - basicLogger - INFO - Received event champion_winrate with a trace id of d5e0c07e-faad-40e9-8bc7-1b9c915389b9
+2026-04-08 09:28:31,696 - basicLogger - INFO - Produced champion_winrate event (trace_id: d5e0c07e-faad-40e9-8bc7-1b9c915389b9)
+2026-04-08 09:28:31,762 - basicLogger - INFO - Received event champion_winrate with a trace id of 9d36f689-35ce-43e8-a254-ca9cc5964dfc
+2026-04-08 09:28:31,768 - basicLogger - INFO - Produced champion_winrate event (trace_id: 9d36f689-35ce-43e8-a254-ca9cc5964dfc)
+2026-04-08 09:28:31,882 - basicLogger - INFO - Received event champion_winrate with a trace id of ad9b0cae-6271-489e-9b5b-3b19c40f6010
+2026-04-08 09:28:31,889 - basicLogger - INFO - Produced champion_winrate event (trace_id: ad9b0cae-6271-489e-9b5b-3b19c40f6010)
+2026-04-08 09:28:31,951 - basicLogger - INFO - Received event champion_winrate with a trace id of 2ff71613-86d3-4c7b-8645-4b9cd375bc58
+2026-04-08 09:28:31,957 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2ff71613-86d3-4c7b-8645-4b9cd375bc58)
+2026-04-08 09:28:32,069 - basicLogger - INFO - Received event champion_winrate with a trace id of a9d6c988-bc39-42b9-89ac-fe527936f6c3
+2026-04-08 09:28:32,077 - basicLogger - INFO - Produced champion_winrate event (trace_id: a9d6c988-bc39-42b9-89ac-fe527936f6c3)
+2026-04-08 09:28:32,159 - basicLogger - INFO - Received event champion_winrate with a trace id of d4442963-1a5f-4bef-b421-280f4f28d31e
+2026-04-08 09:28:32,165 - basicLogger - INFO - Produced champion_winrate event (trace_id: d4442963-1a5f-4bef-b421-280f4f28d31e)
+2026-04-08 09:28:32,268 - basicLogger - INFO - Received event champion_winrate with a trace id of 94b05e95-3e16-4ff9-aa5f-32e30201daee
+2026-04-08 09:28:32,274 - basicLogger - INFO - Produced champion_winrate event (trace_id: 94b05e95-3e16-4ff9-aa5f-32e30201daee)
+2026-04-08 09:32:03,472 - basicLogger - INFO - Received event match_history with a trace id of be869927-3428-42ca-94dd-f1cb4be48f34
+2026-04-08 09:32:03,481 - basicLogger - INFO - Produced match_history event (trace_id: be869927-3428-42ca-94dd-f1cb4be48f34)
+2026-04-08 09:32:03,570 - basicLogger - INFO - Received event match_history with a trace id of b65b6840-4c18-4379-a38b-897a658685ee
+2026-04-08 09:32:03,578 - basicLogger - INFO - Produced match_history event (trace_id: b65b6840-4c18-4379-a38b-897a658685ee)
+2026-04-08 09:32:03,670 - basicLogger - INFO - Received event match_history with a trace id of 74541cec-ceb8-40b0-b69c-25df3b497eb0
+2026-04-08 09:32:03,678 - basicLogger - INFO - Produced match_history event (trace_id: 74541cec-ceb8-40b0-b69c-25df3b497eb0)
+2026-04-08 09:32:03,772 - basicLogger - INFO - Received event match_history with a trace id of 443cc4bf-520f-47ff-9804-3f73f656d19e
+2026-04-08 09:32:03,781 - basicLogger - INFO - Produced match_history event (trace_id: 443cc4bf-520f-47ff-9804-3f73f656d19e)
+2026-04-08 09:32:03,871 - basicLogger - INFO - Received event match_history with a trace id of 28ef3559-8882-4114-85fe-d51a7b5201f9
+2026-04-08 09:32:03,880 - basicLogger - INFO - Produced match_history event (trace_id: 28ef3559-8882-4114-85fe-d51a7b5201f9)
+2026-04-08 09:32:03,970 - basicLogger - INFO - Received event match_history with a trace id of d47d347d-0ac2-4193-8395-e930206317b2
+2026-04-08 09:32:03,977 - basicLogger - INFO - Produced match_history event (trace_id: d47d347d-0ac2-4193-8395-e930206317b2)
+2026-04-08 09:32:04,069 - basicLogger - INFO - Received event match_history with a trace id of 30600145-e83a-4767-b327-e61b00b5b43c
+2026-04-08 09:32:04,077 - basicLogger - INFO - Produced match_history event (trace_id: 30600145-e83a-4767-b327-e61b00b5b43c)
+2026-04-08 09:32:04,170 - basicLogger - INFO - Received event match_history with a trace id of fa33fac4-3fcb-41b7-914a-cc47e872ae2d
+2026-04-08 09:32:04,177 - basicLogger - INFO - Produced match_history event (trace_id: fa33fac4-3fcb-41b7-914a-cc47e872ae2d)
+2026-04-08 09:32:04,270 - basicLogger - INFO - Received event match_history with a trace id of 6e2bfe85-a93a-4a11-83c7-e9216e1107d1
+2026-04-08 09:32:04,277 - basicLogger - INFO - Produced match_history event (trace_id: 6e2bfe85-a93a-4a11-83c7-e9216e1107d1)
+2026-04-08 09:32:04,370 - basicLogger - INFO - Received event match_history with a trace id of d83147f7-7e80-43ef-b203-8db0eaa0f7c2
+2026-04-08 09:32:04,378 - basicLogger - INFO - Produced match_history event (trace_id: d83147f7-7e80-43ef-b203-8db0eaa0f7c2)
+2026-04-08 09:32:08,486 - basicLogger - INFO - Received event champion_winrate with a trace id of b6ee2c69-f520-4ebb-9a04-4a9a18f60709
+2026-04-08 09:32:08,493 - basicLogger - INFO - Produced champion_winrate event (trace_id: b6ee2c69-f520-4ebb-9a04-4a9a18f60709)
+2026-04-08 09:32:08,582 - basicLogger - INFO - Received event champion_winrate with a trace id of cbef24f6-921f-4d9b-aa46-00400e414f98
+2026-04-08 09:32:08,589 - basicLogger - INFO - Produced champion_winrate event (trace_id: cbef24f6-921f-4d9b-aa46-00400e414f98)
+2026-04-08 09:32:08,682 - basicLogger - INFO - Received event champion_winrate with a trace id of 419d6811-5a3a-4fab-aa2b-77cce2e85ccb
+2026-04-08 09:32:08,689 - basicLogger - INFO - Produced champion_winrate event (trace_id: 419d6811-5a3a-4fab-aa2b-77cce2e85ccb)
+2026-04-08 09:32:08,784 - basicLogger - INFO - Received event champion_winrate with a trace id of 2455156f-d13a-427c-b947-a6d33d0e30c0
+2026-04-08 09:32:08,791 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2455156f-d13a-427c-b947-a6d33d0e30c0)
+2026-04-08 09:32:08,885 - basicLogger - INFO - Received event champion_winrate with a trace id of c59bd31d-0827-4024-9657-f531110505e6
+2026-04-08 09:32:08,893 - basicLogger - INFO - Produced champion_winrate event (trace_id: c59bd31d-0827-4024-9657-f531110505e6)
+2026-04-08 09:32:08,982 - basicLogger - INFO - Received event champion_winrate with a trace id of da73d69e-d6e2-4b52-85af-d38758ba3a78
+2026-04-08 09:32:08,989 - basicLogger - INFO - Produced champion_winrate event (trace_id: da73d69e-d6e2-4b52-85af-d38758ba3a78)
+2026-04-08 09:32:09,080 - basicLogger - INFO - Received event champion_winrate with a trace id of e43dc65e-4116-424e-8306-0057a5c67f0e
+2026-04-08 09:32:09,087 - basicLogger - INFO - Produced champion_winrate event (trace_id: e43dc65e-4116-424e-8306-0057a5c67f0e)
+2026-04-08 09:32:09,181 - basicLogger - INFO - Received event champion_winrate with a trace id of 7b0bbbd4-29e2-4859-90ec-af2a9f04a7e9
+2026-04-08 09:32:09,188 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7b0bbbd4-29e2-4859-90ec-af2a9f04a7e9)
+2026-04-08 09:32:09,281 - basicLogger - INFO - Received event champion_winrate with a trace id of 4639801c-cc5a-4fcd-a53e-8033399b1502
+2026-04-08 09:32:09,287 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4639801c-cc5a-4fcd-a53e-8033399b1502)
+2026-04-08 09:32:09,382 - basicLogger - INFO - Received event champion_winrate with a trace id of e2e3431b-0f8e-4999-aab9-e27e90e910c6
+2026-04-08 09:32:09,389 - basicLogger - INFO - Produced champion_winrate event (trace_id: e2e3431b-0f8e-4999-aab9-e27e90e910c6)
+2026-04-08 09:32:13,496 - basicLogger - INFO - Received event match_history with a trace id of 916faffb-70c3-481d-86e3-bba482dab6aa
+2026-04-08 09:32:13,502 - basicLogger - INFO - Produced match_history event (trace_id: 916faffb-70c3-481d-86e3-bba482dab6aa)
+2026-04-08 09:32:13,593 - basicLogger - INFO - Received event match_history with a trace id of 7981a3bd-e35e-4112-b577-2911e0236c69
+2026-04-08 09:32:13,599 - basicLogger - INFO - Produced match_history event (trace_id: 7981a3bd-e35e-4112-b577-2911e0236c69)
+2026-04-08 09:32:13,694 - basicLogger - INFO - Received event match_history with a trace id of 21c19390-b8f7-4e58-b82a-1c572a36a5ca
+2026-04-08 09:32:13,701 - basicLogger - INFO - Produced match_history event (trace_id: 21c19390-b8f7-4e58-b82a-1c572a36a5ca)
+2026-04-08 09:32:13,794 - basicLogger - INFO - Received event match_history with a trace id of f16fbb9b-3f38-41a6-89b4-2d4a4f13fa7c
+2026-04-08 09:32:13,799 - basicLogger - INFO - Produced match_history event (trace_id: f16fbb9b-3f38-41a6-89b4-2d4a4f13fa7c)
+2026-04-08 09:32:13,896 - basicLogger - INFO - Received event match_history with a trace id of afaf4c34-99cd-4c94-be30-c6295c665eec
+2026-04-08 09:32:13,903 - basicLogger - INFO - Produced match_history event (trace_id: afaf4c34-99cd-4c94-be30-c6295c665eec)
+2026-04-08 09:32:13,993 - basicLogger - INFO - Received event match_history with a trace id of 25ae7ab0-3dcd-486e-8c09-ce9d972b2e6c
+2026-04-08 09:32:14,000 - basicLogger - INFO - Produced match_history event (trace_id: 25ae7ab0-3dcd-486e-8c09-ce9d972b2e6c)
+2026-04-08 09:32:14,091 - basicLogger - INFO - Received event match_history with a trace id of 4cddc7f3-eb08-4d53-aebf-24e55d8163f2
+2026-04-08 09:32:14,098 - basicLogger - INFO - Produced match_history event (trace_id: 4cddc7f3-eb08-4d53-aebf-24e55d8163f2)
+2026-04-08 09:32:14,192 - basicLogger - INFO - Received event match_history with a trace id of 9d5b4249-5d85-457e-9d49-a39e21687884
+2026-04-08 09:32:14,198 - basicLogger - INFO - Produced match_history event (trace_id: 9d5b4249-5d85-457e-9d49-a39e21687884)
+2026-04-08 09:32:14,292 - basicLogger - INFO - Received event match_history with a trace id of a38a9d75-7e4e-46ec-9c04-5dcf9d44f8b9
+2026-04-08 09:32:14,298 - basicLogger - INFO - Produced match_history event (trace_id: a38a9d75-7e4e-46ec-9c04-5dcf9d44f8b9)
+2026-04-08 09:32:14,393 - basicLogger - INFO - Received event match_history with a trace id of 8a1f483b-9453-4b39-aa05-d237ba54e2c5
+2026-04-08 09:32:14,399 - basicLogger - INFO - Produced match_history event (trace_id: 8a1f483b-9453-4b39-aa05-d237ba54e2c5)
+2026-04-08 09:32:18,505 - basicLogger - INFO - Received event champion_winrate with a trace id of 0c57a13d-4e51-4f65-b850-37182f314dac
+2026-04-08 09:32:18,511 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0c57a13d-4e51-4f65-b850-37182f314dac)
+2026-04-08 09:32:18,603 - basicLogger - INFO - Received event champion_winrate with a trace id of aad6a3d2-1503-404d-8117-66e1a3cd5436
+2026-04-08 09:32:18,608 - basicLogger - INFO - Produced champion_winrate event (trace_id: aad6a3d2-1503-404d-8117-66e1a3cd5436)
+2026-04-08 09:32:18,705 - basicLogger - INFO - Received event champion_winrate with a trace id of ed08bc0f-5e39-4cc6-ae06-8545a5c52c7d
+2026-04-08 09:32:18,713 - basicLogger - INFO - Produced champion_winrate event (trace_id: ed08bc0f-5e39-4cc6-ae06-8545a5c52c7d)
+2026-04-08 09:32:18,803 - basicLogger - INFO - Received event champion_winrate with a trace id of 2ca04b00-5ff9-4cfc-94fc-8e0f1e180078
+2026-04-08 09:32:18,810 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2ca04b00-5ff9-4cfc-94fc-8e0f1e180078)
+2026-04-08 09:32:18,906 - basicLogger - INFO - Received event champion_winrate with a trace id of 0996e205-991e-4a65-9d2e-cbcd92ddcfb7
+2026-04-08 09:32:18,913 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0996e205-991e-4a65-9d2e-cbcd92ddcfb7)
+2026-04-08 09:32:19,003 - basicLogger - INFO - Received event champion_winrate with a trace id of 5cc5d147-4143-4dd2-8791-70f1a8272b35
+2026-04-08 09:32:19,009 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5cc5d147-4143-4dd2-8791-70f1a8272b35)
+2026-04-08 09:32:19,101 - basicLogger - INFO - Received event champion_winrate with a trace id of be75a9e1-7915-46cb-a673-6c4ee7e4803d
+2026-04-08 09:32:19,107 - basicLogger - INFO - Produced champion_winrate event (trace_id: be75a9e1-7915-46cb-a673-6c4ee7e4803d)
+2026-04-08 09:32:19,202 - basicLogger - INFO - Received event champion_winrate with a trace id of 42fc697c-d972-445c-94f0-a67de53f1306
+2026-04-08 09:32:19,208 - basicLogger - INFO - Produced champion_winrate event (trace_id: 42fc697c-d972-445c-94f0-a67de53f1306)
+2026-04-08 09:32:19,302 - basicLogger - INFO - Received event champion_winrate with a trace id of 74974686-dec7-4cb4-8344-d27d3158a231
+2026-04-08 09:32:19,308 - basicLogger - INFO - Produced champion_winrate event (trace_id: 74974686-dec7-4cb4-8344-d27d3158a231)
+2026-04-08 09:32:19,403 - basicLogger - INFO - Received event champion_winrate with a trace id of 61793f34-56df-455c-894f-462f86fe4fa8
+2026-04-08 09:32:19,408 - basicLogger - INFO - Produced champion_winrate event (trace_id: 61793f34-56df-455c-894f-462f86fe4fa8)
+2026-04-08 09:32:23,516 - basicLogger - INFO - Received event match_history with a trace id of 52898a6b-339a-4970-9851-6b49650fddf6
+2026-04-08 09:32:23,523 - basicLogger - INFO - Produced match_history event (trace_id: 52898a6b-339a-4970-9851-6b49650fddf6)
+2026-04-08 09:32:23,612 - basicLogger - INFO - Received event match_history with a trace id of fa7d181e-1f3f-4fc4-9900-b6f2f45d2cdf
+2026-04-08 09:32:23,618 - basicLogger - INFO - Produced match_history event (trace_id: fa7d181e-1f3f-4fc4-9900-b6f2f45d2cdf)
+2026-04-08 09:32:23,716 - basicLogger - INFO - Received event match_history with a trace id of eceb3f11-49b3-4f0d-bc6b-8dd14014b362
+2026-04-08 09:32:23,723 - basicLogger - INFO - Produced match_history event (trace_id: eceb3f11-49b3-4f0d-bc6b-8dd14014b362)
+2026-04-08 09:32:23,814 - basicLogger - INFO - Received event match_history with a trace id of 46065ff9-3459-40d2-8393-213f918b077e
+2026-04-08 09:32:23,820 - basicLogger - INFO - Produced match_history event (trace_id: 46065ff9-3459-40d2-8393-213f918b077e)
+2026-04-08 09:32:23,916 - basicLogger - INFO - Received event match_history with a trace id of 142f7bcc-bf53-40df-96c0-aa000ec4c32d
+2026-04-08 09:32:23,922 - basicLogger - INFO - Produced match_history event (trace_id: 142f7bcc-bf53-40df-96c0-aa000ec4c32d)
+2026-04-08 09:32:24,013 - basicLogger - INFO - Received event match_history with a trace id of 7dd249e6-3aea-4aaa-b6c5-7adf8878a15e
+2026-04-08 09:32:24,020 - basicLogger - INFO - Produced match_history event (trace_id: 7dd249e6-3aea-4aaa-b6c5-7adf8878a15e)
+2026-04-08 09:32:24,110 - basicLogger - INFO - Received event match_history with a trace id of 055bf9ae-f2dc-4638-9309-3fbe00d3686e
+2026-04-08 09:32:24,118 - basicLogger - INFO - Produced match_history event (trace_id: 055bf9ae-f2dc-4638-9309-3fbe00d3686e)
+2026-04-08 09:32:24,212 - basicLogger - INFO - Received event match_history with a trace id of 3b02df63-0885-47cc-96e8-ada864519847
+2026-04-08 09:32:24,219 - basicLogger - INFO - Produced match_history event (trace_id: 3b02df63-0885-47cc-96e8-ada864519847)
+2026-04-08 09:32:24,312 - basicLogger - INFO - Received event match_history with a trace id of 2ea4a82c-59f5-4d23-b7cb-a9f254d8cf07
+2026-04-08 09:32:24,319 - basicLogger - INFO - Produced match_history event (trace_id: 2ea4a82c-59f5-4d23-b7cb-a9f254d8cf07)
+2026-04-08 09:32:24,412 - basicLogger - INFO - Received event match_history with a trace id of 5a51ca02-0c4e-4bc7-a082-441434e1aa03
+2026-04-08 09:32:24,418 - basicLogger - INFO - Produced match_history event (trace_id: 5a51ca02-0c4e-4bc7-a082-441434e1aa03)
+2026-04-08 09:32:28,526 - basicLogger - INFO - Received event champion_winrate with a trace id of 63153309-9487-4751-a608-16608b0dea58
+2026-04-08 09:32:28,533 - basicLogger - INFO - Produced champion_winrate event (trace_id: 63153309-9487-4751-a608-16608b0dea58)
+2026-04-08 09:32:28,621 - basicLogger - INFO - Received event champion_winrate with a trace id of 361ce324-1733-4f2c-b268-3a5d395860fa
+2026-04-08 09:32:28,627 - basicLogger - INFO - Produced champion_winrate event (trace_id: 361ce324-1733-4f2c-b268-3a5d395860fa)
+2026-04-08 09:32:28,727 - basicLogger - INFO - Received event champion_winrate with a trace id of 8c9fd57d-2e6c-4f1b-987c-e5c8092d0a63
+2026-04-08 09:32:28,733 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8c9fd57d-2e6c-4f1b-987c-e5c8092d0a63)
+2026-04-08 09:32:28,823 - basicLogger - INFO - Received event champion_winrate with a trace id of ca1c8269-4ab7-47eb-abef-e244089fd825
+2026-04-08 09:32:28,830 - basicLogger - INFO - Produced champion_winrate event (trace_id: ca1c8269-4ab7-47eb-abef-e244089fd825)
+2026-04-08 09:32:28,926 - basicLogger - INFO - Received event champion_winrate with a trace id of 59a9328c-bf80-4f73-8924-9fd128c264af
+2026-04-08 09:32:28,933 - basicLogger - INFO - Produced champion_winrate event (trace_id: 59a9328c-bf80-4f73-8924-9fd128c264af)
+2026-04-08 09:32:29,023 - basicLogger - INFO - Received event champion_winrate with a trace id of 9c60237f-d658-4fcd-95ff-a6de8c66570c
+2026-04-08 09:32:29,029 - basicLogger - INFO - Produced champion_winrate event (trace_id: 9c60237f-d658-4fcd-95ff-a6de8c66570c)
+2026-04-08 09:32:29,121 - basicLogger - INFO - Received event champion_winrate with a trace id of 7e027b4b-12f2-43ac-9481-9d94fa41674f
+2026-04-08 09:32:29,127 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7e027b4b-12f2-43ac-9481-9d94fa41674f)
+2026-04-08 09:32:29,222 - basicLogger - INFO - Received event champion_winrate with a trace id of 0c2aea38-8a84-4422-9300-5e9b77f846bc
+2026-04-08 09:32:29,228 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0c2aea38-8a84-4422-9300-5e9b77f846bc)
+2026-04-08 09:32:29,322 - basicLogger - INFO - Received event champion_winrate with a trace id of 1fa49b6a-192e-4733-8f66-3586d01be7f8
+2026-04-08 09:32:29,328 - basicLogger - INFO - Produced champion_winrate event (trace_id: 1fa49b6a-192e-4733-8f66-3586d01be7f8)
+2026-04-08 09:32:29,422 - basicLogger - INFO - Received event champion_winrate with a trace id of bf0c3f6e-8927-4530-95a3-5a7acbeddd53
+2026-04-08 09:32:29,428 - basicLogger - INFO - Produced champion_winrate event (trace_id: bf0c3f6e-8927-4530-95a3-5a7acbeddd53)
+2026-04-08 09:32:33,533 - basicLogger - INFO - Received event match_history with a trace id of 0546f60c-1321-449d-b365-dd90a7db561f
+2026-04-08 09:32:33,539 - basicLogger - INFO - Produced match_history event (trace_id: 0546f60c-1321-449d-b365-dd90a7db561f)
+2026-04-08 09:32:33,627 - basicLogger - INFO - Received event match_history with a trace id of 8e331b1a-3b83-433f-b707-4349c2a21e5c
+2026-04-08 09:32:33,634 - basicLogger - INFO - Produced match_history event (trace_id: 8e331b1a-3b83-433f-b707-4349c2a21e5c)
+2026-04-08 09:32:33,733 - basicLogger - INFO - Received event match_history with a trace id of 6e154101-9fb0-4329-9c26-539604b226ca
+2026-04-08 09:32:33,741 - basicLogger - INFO - Produced match_history event (trace_id: 6e154101-9fb0-4329-9c26-539604b226ca)
+2026-04-08 09:32:33,830 - basicLogger - INFO - Received event match_history with a trace id of 24f5ccef-ae34-4f45-b80e-36482e26caca
+2026-04-08 09:32:33,835 - basicLogger - INFO - Produced match_history event (trace_id: 24f5ccef-ae34-4f45-b80e-36482e26caca)
+2026-04-08 09:32:33,932 - basicLogger - INFO - Received event match_history with a trace id of 93a1b951-7432-4813-a3f6-ca03123e0c7c
+2026-04-08 09:32:33,938 - basicLogger - INFO - Produced match_history event (trace_id: 93a1b951-7432-4813-a3f6-ca03123e0c7c)
+2026-04-08 09:32:34,028 - basicLogger - INFO - Received event match_history with a trace id of d716c781-8f7b-4843-be59-11e896fde6ea
+2026-04-08 09:32:34,035 - basicLogger - INFO - Produced match_history event (trace_id: d716c781-8f7b-4843-be59-11e896fde6ea)
+2026-04-08 09:32:34,127 - basicLogger - INFO - Received event match_history with a trace id of 793e7de9-0bd2-45ed-a696-131ee4b52c0e
+2026-04-08 09:32:34,132 - basicLogger - INFO - Produced match_history event (trace_id: 793e7de9-0bd2-45ed-a696-131ee4b52c0e)
+2026-04-08 09:32:34,228 - basicLogger - INFO - Received event match_history with a trace id of 86e6c96a-8a7c-460c-8927-6438b92cccb2
+2026-04-08 09:32:34,233 - basicLogger - INFO - Produced match_history event (trace_id: 86e6c96a-8a7c-460c-8927-6438b92cccb2)
+2026-04-08 09:32:34,328 - basicLogger - INFO - Received event match_history with a trace id of 7f5636fb-b1a6-429e-b499-d52ada3b297e
+2026-04-08 09:32:34,333 - basicLogger - INFO - Produced match_history event (trace_id: 7f5636fb-b1a6-429e-b499-d52ada3b297e)
+2026-04-08 09:32:34,427 - basicLogger - INFO - Received event match_history with a trace id of 75549070-14a8-4ba6-b8c3-328a4b0bd27a
+2026-04-08 09:32:34,434 - basicLogger - INFO - Produced match_history event (trace_id: 75549070-14a8-4ba6-b8c3-328a4b0bd27a)
+2026-04-08 09:32:38,542 - basicLogger - INFO - Received event champion_winrate with a trace id of 7aa0209f-556c-4ecd-b95d-168a6e56c43c
+2026-04-08 09:32:38,549 - basicLogger - INFO - Produced champion_winrate event (trace_id: 7aa0209f-556c-4ecd-b95d-168a6e56c43c)
+2026-04-08 09:32:38,638 - basicLogger - INFO - Received event champion_winrate with a trace id of 28de489d-77db-469c-896d-e7d6f14b826f
+2026-04-08 09:32:38,647 - basicLogger - INFO - Produced champion_winrate event (trace_id: 28de489d-77db-469c-896d-e7d6f14b826f)
+2026-04-08 09:32:38,745 - basicLogger - INFO - Received event champion_winrate with a trace id of 73a63299-2d48-4b96-ab6f-47ca09d9babf
+2026-04-08 09:32:38,751 - basicLogger - INFO - Produced champion_winrate event (trace_id: 73a63299-2d48-4b96-ab6f-47ca09d9babf)
+2026-04-08 09:32:38,839 - basicLogger - INFO - Received event champion_winrate with a trace id of c49ae6e1-7cf6-46b4-a91d-10d4dea4bbdb
+2026-04-08 09:32:38,847 - basicLogger - INFO - Produced champion_winrate event (trace_id: c49ae6e1-7cf6-46b4-a91d-10d4dea4bbdb)
+2026-04-08 09:32:38,942 - basicLogger - INFO - Received event champion_winrate with a trace id of 4cc6f47d-3796-4fed-bfca-e9dfc66239e7
+2026-04-08 09:32:38,947 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4cc6f47d-3796-4fed-bfca-e9dfc66239e7)
+2026-04-08 09:32:39,039 - basicLogger - INFO - Received event champion_winrate with a trace id of aa388df6-c01c-432d-80f0-b0d164741651
+2026-04-08 09:32:39,046 - basicLogger - INFO - Produced champion_winrate event (trace_id: aa388df6-c01c-432d-80f0-b0d164741651)
+2026-04-08 09:32:39,135 - basicLogger - INFO - Received event champion_winrate with a trace id of 2836e56e-4900-4d5a-8ad2-cd40604da78c
+2026-04-08 09:32:39,143 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2836e56e-4900-4d5a-8ad2-cd40604da78c)
+2026-04-08 09:32:39,237 - basicLogger - INFO - Received event champion_winrate with a trace id of 8cbdef0a-8bab-422a-9feb-2fb3d866fb7f
+2026-04-08 09:32:39,244 - basicLogger - INFO - Produced champion_winrate event (trace_id: 8cbdef0a-8bab-422a-9feb-2fb3d866fb7f)
+2026-04-08 09:32:39,337 - basicLogger - INFO - Received event champion_winrate with a trace id of cad40e2e-374e-423b-8f28-4678712cc589
+2026-04-08 09:32:39,344 - basicLogger - INFO - Produced champion_winrate event (trace_id: cad40e2e-374e-423b-8f28-4678712cc589)
+2026-04-08 09:32:39,437 - basicLogger - INFO - Received event champion_winrate with a trace id of d0c8ca0f-d16f-4569-97c2-73dd8ad7dc2a
+2026-04-08 09:32:39,443 - basicLogger - INFO - Produced champion_winrate event (trace_id: d0c8ca0f-d16f-4569-97c2-73dd8ad7dc2a)
+2026-04-08 09:32:43,553 - basicLogger - INFO - Received event match_history with a trace id of 4e97a4fa-95f9-4742-946a-e41cfac778b5
+2026-04-08 09:32:43,558 - basicLogger - INFO - Produced match_history event (trace_id: 4e97a4fa-95f9-4742-946a-e41cfac778b5)
+2026-04-08 09:32:43,651 - basicLogger - INFO - Received event match_history with a trace id of df7f8e05-bf44-4cc9-8217-adbb7017bafd
+2026-04-08 09:32:43,657 - basicLogger - INFO - Produced match_history event (trace_id: df7f8e05-bf44-4cc9-8217-adbb7017bafd)
+2026-04-08 09:32:43,764 - basicLogger - INFO - Received event match_history with a trace id of 78387b34-4b0a-4b92-951d-57f7a683a393
+2026-04-08 09:32:43,771 - basicLogger - INFO - Produced match_history event (trace_id: 78387b34-4b0a-4b92-951d-57f7a683a393)
+2026-04-08 09:32:43,850 - basicLogger - INFO - Received event match_history with a trace id of 0aa7ff08-3614-4911-88ff-971d68510bac
+2026-04-08 09:32:43,857 - basicLogger - INFO - Produced match_history event (trace_id: 0aa7ff08-3614-4911-88ff-971d68510bac)
+2026-04-08 09:32:43,951 - basicLogger - INFO - Received event match_history with a trace id of 54bd4c40-48a7-4384-bbf5-c5fe29b0e2aa
+2026-04-08 09:32:43,958 - basicLogger - INFO - Produced match_history event (trace_id: 54bd4c40-48a7-4384-bbf5-c5fe29b0e2aa)
+2026-04-08 09:32:44,050 - basicLogger - INFO - Received event match_history with a trace id of 55ac0c96-658f-4c75-9bf1-498cb125103b
+2026-04-08 09:32:44,056 - basicLogger - INFO - Produced match_history event (trace_id: 55ac0c96-658f-4c75-9bf1-498cb125103b)
+2026-04-08 09:32:44,147 - basicLogger - INFO - Received event match_history with a trace id of 410ac2b6-0f1b-465f-9970-0545a741432e
+2026-04-08 09:32:44,153 - basicLogger - INFO - Produced match_history event (trace_id: 410ac2b6-0f1b-465f-9970-0545a741432e)
+2026-04-08 09:32:44,248 - basicLogger - INFO - Received event match_history with a trace id of f3905e5d-3656-43ca-bc34-cab6fb1dfa41
+2026-04-08 09:32:44,254 - basicLogger - INFO - Produced match_history event (trace_id: f3905e5d-3656-43ca-bc34-cab6fb1dfa41)
+2026-04-08 09:32:44,347 - basicLogger - INFO - Received event match_history with a trace id of 356d9303-c54f-4ba5-aa50-e374f0b3f362
+2026-04-08 09:32:44,353 - basicLogger - INFO - Produced match_history event (trace_id: 356d9303-c54f-4ba5-aa50-e374f0b3f362)
+2026-04-08 09:32:44,447 - basicLogger - INFO - Received event match_history with a trace id of 2fa346f6-cd44-4cb9-bc56-9f6f78630145
+2026-04-08 09:32:44,454 - basicLogger - INFO - Produced match_history event (trace_id: 2fa346f6-cd44-4cb9-bc56-9f6f78630145)
+2026-04-08 09:32:48,562 - basicLogger - INFO - Received event champion_winrate with a trace id of aed3a0aa-b055-4c7b-9873-bc03257a0276
+2026-04-08 09:32:48,569 - basicLogger - INFO - Produced champion_winrate event (trace_id: aed3a0aa-b055-4c7b-9873-bc03257a0276)
+2026-04-08 09:32:48,660 - basicLogger - INFO - Received event champion_winrate with a trace id of 0e553e2c-bf94-4836-9d09-2fd075c0e73e
+2026-04-08 09:32:48,666 - basicLogger - INFO - Produced champion_winrate event (trace_id: 0e553e2c-bf94-4836-9d09-2fd075c0e73e)
+2026-04-08 09:32:48,775 - basicLogger - INFO - Received event champion_winrate with a trace id of 2f38edb6-5c57-48e5-92bc-de8c75a446a0
+2026-04-08 09:32:48,781 - basicLogger - INFO - Produced champion_winrate event (trace_id: 2f38edb6-5c57-48e5-92bc-de8c75a446a0)
+2026-04-08 09:32:48,861 - basicLogger - INFO - Received event champion_winrate with a trace id of 11cc0f17-6be3-4f6e-a2d3-298398b92ab8
+2026-04-08 09:32:48,868 - basicLogger - INFO - Produced champion_winrate event (trace_id: 11cc0f17-6be3-4f6e-a2d3-298398b92ab8)
+2026-04-08 09:32:48,961 - basicLogger - INFO - Received event champion_winrate with a trace id of 33fe7ebb-fcc0-4ff9-ab08-070c5642661f
+2026-04-08 09:32:48,967 - basicLogger - INFO - Produced champion_winrate event (trace_id: 33fe7ebb-fcc0-4ff9-ab08-070c5642661f)
+2026-04-08 09:32:49,059 - basicLogger - INFO - Received event champion_winrate with a trace id of 5254a7fd-a8a8-4f95-9126-37c5ea42d7e7
+2026-04-08 09:32:49,066 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5254a7fd-a8a8-4f95-9126-37c5ea42d7e7)
+2026-04-08 09:32:49,156 - basicLogger - INFO - Received event champion_winrate with a trace id of 5ec04324-c77d-4cc0-afce-0f0da105ba82
+2026-04-08 09:32:49,162 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5ec04324-c77d-4cc0-afce-0f0da105ba82)
+2026-04-08 09:32:49,257 - basicLogger - INFO - Received event champion_winrate with a trace id of fefe0831-4293-43de-bd18-9d0a8731dade
+2026-04-08 09:32:49,265 - basicLogger - INFO - Produced champion_winrate event (trace_id: fefe0831-4293-43de-bd18-9d0a8731dade)
+2026-04-08 09:32:49,356 - basicLogger - INFO - Received event champion_winrate with a trace id of c69a8337-93d0-4ef3-a291-2369ca6fd179
+2026-04-08 09:32:49,364 - basicLogger - INFO - Produced champion_winrate event (trace_id: c69a8337-93d0-4ef3-a291-2369ca6fd179)
+2026-04-08 09:32:49,457 - basicLogger - INFO - Received event champion_winrate with a trace id of 4ae40c05-1057-4c9f-ac18-6b93a15daac9
+2026-04-08 09:32:49,463 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4ae40c05-1057-4c9f-ac18-6b93a15daac9)
+2026-04-08 09:32:53,573 - basicLogger - INFO - Received event match_history with a trace id of 5711bd82-6c36-41d3-96b0-b02b0e591cb2
+2026-04-08 09:32:53,579 - basicLogger - INFO - Produced match_history event (trace_id: 5711bd82-6c36-41d3-96b0-b02b0e591cb2)
+2026-04-08 09:32:53,669 - basicLogger - INFO - Received event match_history with a trace id of 1bef9937-afcd-483d-9731-0d16688b9429
+2026-04-08 09:32:53,676 - basicLogger - INFO - Produced match_history event (trace_id: 1bef9937-afcd-483d-9731-0d16688b9429)
+2026-04-08 09:32:53,784 - basicLogger - INFO - Received event match_history with a trace id of 71567a2f-18d1-4a01-9979-4ccc0e8f9ab5
+2026-04-08 09:32:53,790 - basicLogger - INFO - Produced match_history event (trace_id: 71567a2f-18d1-4a01-9979-4ccc0e8f9ab5)
+2026-04-08 09:32:53,871 - basicLogger - INFO - Received event match_history with a trace id of 85556fd7-1f01-4ca1-8638-3bd6df9096da
+2026-04-08 09:32:53,876 - basicLogger - INFO - Produced match_history event (trace_id: 85556fd7-1f01-4ca1-8638-3bd6df9096da)
+2026-04-08 09:32:53,971 - basicLogger - INFO - Received event match_history with a trace id of c3da5393-b5d2-4c43-a4e9-1e72058735a5
+2026-04-08 09:32:53,978 - basicLogger - INFO - Produced match_history event (trace_id: c3da5393-b5d2-4c43-a4e9-1e72058735a5)
+2026-04-08 09:32:54,070 - basicLogger - INFO - Received event match_history with a trace id of a97ade82-32cb-4a5b-a996-85334d6d0c80
+2026-04-08 09:32:54,077 - basicLogger - INFO - Produced match_history event (trace_id: a97ade82-32cb-4a5b-a996-85334d6d0c80)
+2026-04-08 09:32:54,166 - basicLogger - INFO - Received event match_history with a trace id of bea42bf0-8af4-4da0-a464-e369a40cffcf
+2026-04-08 09:32:54,173 - basicLogger - INFO - Produced match_history event (trace_id: bea42bf0-8af4-4da0-a464-e369a40cffcf)
+2026-04-08 09:32:54,268 - basicLogger - INFO - Received event match_history with a trace id of 38dca67c-e836-4ce6-9324-37dae3d4b51d
+2026-04-08 09:32:54,274 - basicLogger - INFO - Produced match_history event (trace_id: 38dca67c-e836-4ce6-9324-37dae3d4b51d)
+2026-04-08 09:32:54,368 - basicLogger - INFO - Received event match_history with a trace id of 2c5e8406-59ca-41a7-bdcd-3b7af1c69224
+2026-04-08 09:32:54,374 - basicLogger - INFO - Produced match_history event (trace_id: 2c5e8406-59ca-41a7-bdcd-3b7af1c69224)
+2026-04-08 09:32:54,467 - basicLogger - INFO - Received event match_history with a trace id of cc495da8-212c-4f01-97bd-df18a91cc6e9
+2026-04-08 09:32:54,473 - basicLogger - INFO - Produced match_history event (trace_id: cc495da8-212c-4f01-97bd-df18a91cc6e9)
+2026-04-08 09:32:58,583 - basicLogger - INFO - Received event champion_winrate with a trace id of daddb0c2-e505-4317-bf0a-5d47ec5e0314
+2026-04-08 09:32:58,588 - basicLogger - INFO - Produced champion_winrate event (trace_id: daddb0c2-e505-4317-bf0a-5d47ec5e0314)
+2026-04-08 09:32:58,679 - basicLogger - INFO - Received event champion_winrate with a trace id of e3b05cb4-2e0c-460d-9080-0fe3a59b5630
+2026-04-08 09:32:58,685 - basicLogger - INFO - Produced champion_winrate event (trace_id: e3b05cb4-2e0c-460d-9080-0fe3a59b5630)
+2026-04-08 09:32:58,794 - basicLogger - INFO - Received event champion_winrate with a trace id of 439fbda8-bede-4a2e-b0e0-8db379bfd573
+2026-04-08 09:32:58,801 - basicLogger - INFO - Produced champion_winrate event (trace_id: 439fbda8-bede-4a2e-b0e0-8db379bfd573)
+2026-04-08 09:32:58,880 - basicLogger - INFO - Received event champion_winrate with a trace id of bf0ba02f-8178-44ad-8c0b-27aad1ece1c2
+2026-04-08 09:32:58,887 - basicLogger - INFO - Produced champion_winrate event (trace_id: bf0ba02f-8178-44ad-8c0b-27aad1ece1c2)
+2026-04-08 09:32:58,981 - basicLogger - INFO - Received event champion_winrate with a trace id of 74d08cc6-3242-47fd-9567-d0aa05cdf949
+2026-04-08 09:32:58,987 - basicLogger - INFO - Produced champion_winrate event (trace_id: 74d08cc6-3242-47fd-9567-d0aa05cdf949)
+2026-04-08 09:32:59,081 - basicLogger - INFO - Received event champion_winrate with a trace id of 5c386775-7874-4ec6-9089-8799418b6a19
+2026-04-08 09:32:59,087 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5c386775-7874-4ec6-9089-8799418b6a19)
+2026-04-08 09:32:59,177 - basicLogger - INFO - Received event champion_winrate with a trace id of ffc3304d-d9f7-4c51-bf25-10ecede6563f
+2026-04-08 09:32:59,183 - basicLogger - INFO - Produced champion_winrate event (trace_id: ffc3304d-d9f7-4c51-bf25-10ecede6563f)
+2026-04-08 09:32:59,278 - basicLogger - INFO - Received event champion_winrate with a trace id of a2a9bfc6-b553-4bfe-bfdd-6350d90a7e20
+2026-04-08 09:32:59,283 - basicLogger - INFO - Produced champion_winrate event (trace_id: a2a9bfc6-b553-4bfe-bfdd-6350d90a7e20)
+2026-04-08 09:32:59,377 - basicLogger - INFO - Received event champion_winrate with a trace id of 48642c67-adc5-4fe8-baba-7082934cdc06
+2026-04-08 09:32:59,383 - basicLogger - INFO - Produced champion_winrate event (trace_id: 48642c67-adc5-4fe8-baba-7082934cdc06)
+2026-04-08 09:32:59,470 - basicLogger - INFO - Received event champion_winrate with a trace id of c7af337b-4d0d-4be1-96a3-62d3b6f892a6
+2026-04-08 09:32:59,476 - basicLogger - INFO - Produced champion_winrate event (trace_id: c7af337b-4d0d-4be1-96a3-62d3b6f892a6)
+2026-04-08 09:33:03,586 - basicLogger - INFO - Received event match_history with a trace id of a3084533-2564-40dd-9246-0f33a90be192
+2026-04-08 09:33:03,592 - basicLogger - INFO - Produced match_history event (trace_id: a3084533-2564-40dd-9246-0f33a90be192)
+2026-04-08 09:33:03,683 - basicLogger - INFO - Received event match_history with a trace id of fcbcb9f2-62e5-4083-a749-92fc1745446f
+2026-04-08 09:33:03,689 - basicLogger - INFO - Produced match_history event (trace_id: fcbcb9f2-62e5-4083-a749-92fc1745446f)
+2026-04-08 09:33:03,800 - basicLogger - INFO - Received event match_history with a trace id of e43b529b-9877-436c-bc41-9ce1b8c73b19
+2026-04-08 09:33:03,806 - basicLogger - INFO - Produced match_history event (trace_id: e43b529b-9877-436c-bc41-9ce1b8c73b19)
+2026-04-08 09:33:03,884 - basicLogger - INFO - Received event match_history with a trace id of d3e709d4-ac23-4920-8de9-0d22c33a3f2b
+2026-04-08 09:33:03,890 - basicLogger - INFO - Produced match_history event (trace_id: d3e709d4-ac23-4920-8de9-0d22c33a3f2b)
+2026-04-08 09:33:03,985 - basicLogger - INFO - Received event match_history with a trace id of 9a2199d0-ff73-48c5-abb9-8e871c3ca47d
+2026-04-08 09:33:03,991 - basicLogger - INFO - Produced match_history event (trace_id: 9a2199d0-ff73-48c5-abb9-8e871c3ca47d)
+2026-04-08 09:33:04,084 - basicLogger - INFO - Received event match_history with a trace id of 4cd5c5b5-3e94-4282-b867-ab452c3f5b69
+2026-04-08 09:33:04,091 - basicLogger - INFO - Produced match_history event (trace_id: 4cd5c5b5-3e94-4282-b867-ab452c3f5b69)
+2026-04-08 09:33:04,180 - basicLogger - INFO - Received event match_history with a trace id of f1a6d0af-2262-4026-a2b1-d817a4e501b3
+2026-04-08 09:33:04,187 - basicLogger - INFO - Produced match_history event (trace_id: f1a6d0af-2262-4026-a2b1-d817a4e501b3)
+2026-04-08 09:33:04,281 - basicLogger - INFO - Received event match_history with a trace id of 7ba0cb43-6b67-43d0-b4b8-9992a5dd5b31
+2026-04-08 09:33:04,288 - basicLogger - INFO - Produced match_history event (trace_id: 7ba0cb43-6b67-43d0-b4b8-9992a5dd5b31)
+2026-04-08 09:33:04,380 - basicLogger - INFO - Received event match_history with a trace id of 6c67c5f6-07cb-44c8-b4f3-de0a5883e5d5
+2026-04-08 09:33:04,387 - basicLogger - INFO - Produced match_history event (trace_id: 6c67c5f6-07cb-44c8-b4f3-de0a5883e5d5)
+2026-04-08 09:33:04,480 - basicLogger - INFO - Received event match_history with a trace id of 240fb277-4c03-4fc5-8958-8f91a85eadd3
+2026-04-08 09:33:04,485 - basicLogger - INFO - Produced match_history event (trace_id: 240fb277-4c03-4fc5-8958-8f91a85eadd3)
+2026-04-08 09:33:08,598 - basicLogger - INFO - Received event champion_winrate with a trace id of 88d06116-587a-44a6-8bf7-749415fd5625
+2026-04-08 09:33:08,605 - basicLogger - INFO - Produced champion_winrate event (trace_id: 88d06116-587a-44a6-8bf7-749415fd5625)
+2026-04-08 09:33:08,693 - basicLogger - INFO - Received event champion_winrate with a trace id of 5ca9a078-f530-4797-83b0-bf0f57bb8f91
+2026-04-08 09:33:08,700 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5ca9a078-f530-4797-83b0-bf0f57bb8f91)
+2026-04-08 09:33:08,831 - basicLogger - INFO - Received event champion_winrate with a trace id of 77ddad30-dc4c-4d61-9d6c-442b7a95af82
+2026-04-08 09:33:08,838 - basicLogger - INFO - Produced champion_winrate event (trace_id: 77ddad30-dc4c-4d61-9d6c-442b7a95af82)
+2026-04-08 09:33:08,895 - basicLogger - INFO - Received event champion_winrate with a trace id of 4c8a0b02-63dc-46e1-81f2-9cfde3a04325
+2026-04-08 09:33:08,903 - basicLogger - INFO - Produced champion_winrate event (trace_id: 4c8a0b02-63dc-46e1-81f2-9cfde3a04325)
+2026-04-08 09:33:08,995 - basicLogger - INFO - Received event champion_winrate with a trace id of 036ae0a8-2e5b-4dd7-8ba5-8d8a06e15227
+2026-04-08 09:33:09,000 - basicLogger - INFO - Produced champion_winrate event (trace_id: 036ae0a8-2e5b-4dd7-8ba5-8d8a06e15227)
+2026-04-08 09:33:09,095 - basicLogger - INFO - Received event champion_winrate with a trace id of fb5b0195-495e-41a8-9683-199d4f045328
+2026-04-08 09:33:09,101 - basicLogger - INFO - Produced champion_winrate event (trace_id: fb5b0195-495e-41a8-9683-199d4f045328)
+2026-04-08 09:33:09,191 - basicLogger - INFO - Received event champion_winrate with a trace id of 448cc42e-5f3a-47e8-ab60-7cb72ec5ac0b
+2026-04-08 09:33:09,197 - basicLogger - INFO - Produced champion_winrate event (trace_id: 448cc42e-5f3a-47e8-ab60-7cb72ec5ac0b)
+2026-04-08 09:33:09,292 - basicLogger - INFO - Received event champion_winrate with a trace id of a2a00e2e-ca78-4e21-87ce-a8fa6cb9167b
+2026-04-08 09:33:09,300 - basicLogger - INFO - Produced champion_winrate event (trace_id: a2a00e2e-ca78-4e21-87ce-a8fa6cb9167b)
+2026-04-08 09:33:09,390 - basicLogger - INFO - Received event champion_winrate with a trace id of d1b0985f-311a-4030-9058-52f99a3f9264
+2026-04-08 09:33:09,398 - basicLogger - INFO - Produced champion_winrate event (trace_id: d1b0985f-311a-4030-9058-52f99a3f9264)
+2026-04-08 09:33:09,489 - basicLogger - INFO - Received event champion_winrate with a trace id of c122afde-c36b-4073-ade7-de396e491956
+2026-04-08 09:33:09,496 - basicLogger - INFO - Produced champion_winrate event (trace_id: c122afde-c36b-4073-ade7-de396e491956)
+2026-04-08 09:33:13,609 - basicLogger - INFO - Received event match_history with a trace id of e1ce0a5b-a18b-41af-aa98-96be6d23ca47
+2026-04-08 09:33:13,616 - basicLogger - INFO - Produced match_history event (trace_id: e1ce0a5b-a18b-41af-aa98-96be6d23ca47)
+2026-04-08 09:33:13,703 - basicLogger - INFO - Received event match_history with a trace id of c40ed5ef-c2ac-4215-a89e-25274bb4e96c
+2026-04-08 09:33:13,709 - basicLogger - INFO - Produced match_history event (trace_id: c40ed5ef-c2ac-4215-a89e-25274bb4e96c)
+2026-04-08 09:33:13,842 - basicLogger - INFO - Received event match_history with a trace id of fca98139-c704-4efe-bbcb-92cf3c42445f
+2026-04-08 09:33:13,848 - basicLogger - INFO - Produced match_history event (trace_id: fca98139-c704-4efe-bbcb-92cf3c42445f)
+2026-04-08 09:33:13,920 - basicLogger - INFO - Received event match_history with a trace id of e72f6363-3c2f-440a-ab7c-481bfc6bfef5
+2026-04-08 09:33:13,925 - basicLogger - INFO - Produced match_history event (trace_id: e72f6363-3c2f-440a-ab7c-481bfc6bfef5)
+2026-04-08 09:33:14,004 - basicLogger - INFO - Received event match_history with a trace id of ab52fa3c-a69c-4f07-bd1e-6930fbefe84c
+2026-04-08 09:33:14,011 - basicLogger - INFO - Produced match_history event (trace_id: ab52fa3c-a69c-4f07-bd1e-6930fbefe84c)
+2026-04-08 09:33:14,104 - basicLogger - INFO - Received event match_history with a trace id of a3802dc6-2424-497d-9d88-af0bcafde166
+2026-04-08 09:33:14,110 - basicLogger - INFO - Produced match_history event (trace_id: a3802dc6-2424-497d-9d88-af0bcafde166)
+2026-04-08 09:33:14,201 - basicLogger - INFO - Received event match_history with a trace id of 405f514a-1501-43b2-bc09-1537eaa3d062
+2026-04-08 09:33:14,207 - basicLogger - INFO - Produced match_history event (trace_id: 405f514a-1501-43b2-bc09-1537eaa3d062)
+2026-04-08 09:33:14,303 - basicLogger - INFO - Received event match_history with a trace id of b22ec59d-0c8e-47ba-a8f4-2a67a28b0bac
+2026-04-08 09:33:14,309 - basicLogger - INFO - Produced match_history event (trace_id: b22ec59d-0c8e-47ba-a8f4-2a67a28b0bac)
+2026-04-08 09:33:14,402 - basicLogger - INFO - Received event match_history with a trace id of 68495a73-a661-4750-8949-edccae053ddf
+2026-04-08 09:33:14,408 - basicLogger - INFO - Produced match_history event (trace_id: 68495a73-a661-4750-8949-edccae053ddf)
+2026-04-08 09:33:14,500 - basicLogger - INFO - Received event match_history with a trace id of 114d3e5b-6c01-4077-831c-f88b6c5ae090
+2026-04-08 09:33:14,505 - basicLogger - INFO - Produced match_history event (trace_id: 114d3e5b-6c01-4077-831c-f88b6c5ae090)
+2026-04-08 09:33:18,620 - basicLogger - INFO - Received event champion_winrate with a trace id of ef65e081-4399-4788-b983-f5bf5b709e3f
+2026-04-08 09:33:18,627 - basicLogger - INFO - Produced champion_winrate event (trace_id: ef65e081-4399-4788-b983-f5bf5b709e3f)
+2026-04-08 09:33:18,712 - basicLogger - INFO - Received event champion_winrate with a trace id of 72e29c0e-3e10-4771-9fc6-4f3b3164b4ca
+2026-04-08 09:33:18,720 - basicLogger - INFO - Produced champion_winrate event (trace_id: 72e29c0e-3e10-4771-9fc6-4f3b3164b4ca)
+2026-04-08 09:33:18,852 - basicLogger - INFO - Received event champion_winrate with a trace id of 904572c5-5c41-4831-b863-3616f1f36247
+2026-04-08 09:33:18,859 - basicLogger - INFO - Produced champion_winrate event (trace_id: 904572c5-5c41-4831-b863-3616f1f36247)
+2026-04-08 09:33:18,929 - basicLogger - INFO - Received event champion_winrate with a trace id of dc874fb3-fd7f-46b3-b869-95d25c3de483
+2026-04-08 09:33:18,936 - basicLogger - INFO - Produced champion_winrate event (trace_id: dc874fb3-fd7f-46b3-b869-95d25c3de483)
+2026-04-08 09:33:19,014 - basicLogger - INFO - Received event champion_winrate with a trace id of ee22886b-b42b-4ef7-8733-7d69268d4ce1
+2026-04-08 09:33:19,021 - basicLogger - INFO - Produced champion_winrate event (trace_id: ee22886b-b42b-4ef7-8733-7d69268d4ce1)
+2026-04-08 09:33:19,113 - basicLogger - INFO - Received event champion_winrate with a trace id of 27fd615f-9c57-4eff-909b-e5f30500a2d2
+2026-04-08 09:33:19,120 - basicLogger - INFO - Produced champion_winrate event (trace_id: 27fd615f-9c57-4eff-909b-e5f30500a2d2)
+2026-04-08 09:33:19,211 - basicLogger - INFO - Received event champion_winrate with a trace id of 63f638f0-a7db-4a7c-b390-04175e6e4f5f
+2026-04-08 09:33:19,217 - basicLogger - INFO - Produced champion_winrate event (trace_id: 63f638f0-a7db-4a7c-b390-04175e6e4f5f)
+2026-04-08 09:33:19,312 - basicLogger - INFO - Received event champion_winrate with a trace id of edc3fec5-6b4a-4ea7-b156-8d1ab64c3c67
+2026-04-08 09:33:19,318 - basicLogger - INFO - Produced champion_winrate event (trace_id: edc3fec5-6b4a-4ea7-b156-8d1ab64c3c67)
+2026-04-08 09:33:19,411 - basicLogger - INFO - Received event champion_winrate with a trace id of ec2492a6-f4e7-4c1f-8be8-501025d2ad16
+2026-04-08 09:33:19,417 - basicLogger - INFO - Produced champion_winrate event (trace_id: ec2492a6-f4e7-4c1f-8be8-501025d2ad16)
+2026-04-08 09:33:19,508 - basicLogger - INFO - Received event champion_winrate with a trace id of 1fa406ce-2602-405c-816a-9bb653ea58c4
+2026-04-08 09:33:19,515 - basicLogger - INFO - Produced champion_winrate event (trace_id: 1fa406ce-2602-405c-816a-9bb653ea58c4)
+2026-04-08 09:33:23,630 - basicLogger - INFO - Received event match_history with a trace id of 59bef43b-805b-4c16-b58c-7e1d776f4fa6
+2026-04-08 09:33:23,636 - basicLogger - INFO - Produced match_history event (trace_id: 59bef43b-805b-4c16-b58c-7e1d776f4fa6)
+2026-04-08 09:33:23,723 - basicLogger - INFO - Received event match_history with a trace id of 5b6a5d49-b157-4c9a-a136-8d06a598964f
+2026-04-08 09:33:23,728 - basicLogger - INFO - Produced match_history event (trace_id: 5b6a5d49-b157-4c9a-a136-8d06a598964f)
+2026-04-08 09:33:23,865 - basicLogger - INFO - Received event match_history with a trace id of a9a4b03a-594f-47ef-a584-8cd3df673c3b
+2026-04-08 09:33:23,873 - basicLogger - INFO - Produced match_history event (trace_id: a9a4b03a-594f-47ef-a584-8cd3df673c3b)
+2026-04-08 09:33:23,940 - basicLogger - INFO - Received event match_history with a trace id of d5c5b7f2-ada1-46e6-b71b-c4c29cde8b61
+2026-04-08 09:33:23,947 - basicLogger - INFO - Produced match_history event (trace_id: d5c5b7f2-ada1-46e6-b71b-c4c29cde8b61)
+2026-04-08 09:33:24,024 - basicLogger - INFO - Received event match_history with a trace id of e7967695-d17e-4534-9884-dfaf47718bcb
+2026-04-08 09:33:24,030 - basicLogger - INFO - Produced match_history event (trace_id: e7967695-d17e-4534-9884-dfaf47718bcb)
+2026-04-08 09:33:24,123 - basicLogger - INFO - Received event match_history with a trace id of 5aec2de6-a0ad-49d2-b53e-3083dbcfedf0
+2026-04-08 09:33:24,129 - basicLogger - INFO - Produced match_history event (trace_id: 5aec2de6-a0ad-49d2-b53e-3083dbcfedf0)
+2026-04-08 09:33:24,221 - basicLogger - INFO - Received event match_history with a trace id of 62057e69-9dfc-4f4f-9754-614ea4f51a14
+2026-04-08 09:33:24,226 - basicLogger - INFO - Produced match_history event (trace_id: 62057e69-9dfc-4f4f-9754-614ea4f51a14)
+2026-04-08 09:33:24,321 - basicLogger - INFO - Received event match_history with a trace id of 0cbef180-7bcc-4441-ab54-692f14987724
+2026-04-08 09:33:24,328 - basicLogger - INFO - Produced match_history event (trace_id: 0cbef180-7bcc-4441-ab54-692f14987724)
+2026-04-08 09:33:24,421 - basicLogger - INFO - Received event match_history with a trace id of 0d3c3b65-6e9d-46ba-bf39-4f0b7dffad12
+2026-04-08 09:33:24,428 - basicLogger - INFO - Produced match_history event (trace_id: 0d3c3b65-6e9d-46ba-bf39-4f0b7dffad12)
+2026-04-08 09:33:24,518 - basicLogger - INFO - Received event match_history with a trace id of bd9e6759-4926-431f-994d-49d0f7a8d08b
+2026-04-08 09:33:24,524 - basicLogger - INFO - Produced match_history event (trace_id: bd9e6759-4926-431f-994d-49d0f7a8d08b)
+2026-04-08 09:33:28,640 - basicLogger - INFO - Received event champion_winrate with a trace id of b4e676ca-59b1-4f2d-a6d6-ab907e900db7
+2026-04-08 09:33:28,645 - basicLogger - INFO - Produced champion_winrate event (trace_id: b4e676ca-59b1-4f2d-a6d6-ab907e900db7)
+2026-04-08 09:33:28,758 - basicLogger - INFO - Received event champion_winrate with a trace id of cb223d40-fd59-4193-a4a7-87b991375a55
+2026-04-08 09:33:28,765 - basicLogger - INFO - Produced champion_winrate event (trace_id: cb223d40-fd59-4193-a4a7-87b991375a55)
+2026-04-08 09:33:28,877 - basicLogger - INFO - Received event champion_winrate with a trace id of 1e7ee957-b7e9-4b15-808e-7ac067efedfa
+2026-04-08 09:33:28,884 - basicLogger - INFO - Produced champion_winrate event (trace_id: 1e7ee957-b7e9-4b15-808e-7ac067efedfa)
+2026-04-08 09:33:28,951 - basicLogger - INFO - Received event champion_winrate with a trace id of a8b73aa3-b2b9-497d-b330-639e149e220d
+2026-04-08 09:33:28,957 - basicLogger - INFO - Produced champion_winrate event (trace_id: a8b73aa3-b2b9-497d-b330-639e149e220d)
+2026-04-08 09:33:29,034 - basicLogger - INFO - Received event champion_winrate with a trace id of 116c2c02-3130-40f0-92fc-7e34c0c57f7e
+2026-04-08 09:33:29,041 - basicLogger - INFO - Produced champion_winrate event (trace_id: 116c2c02-3130-40f0-92fc-7e34c0c57f7e)
+2026-04-08 09:33:29,132 - basicLogger - INFO - Received event champion_winrate with a trace id of 737c4327-64cb-4a16-beef-39a5f9ccf492
+2026-04-08 09:33:29,139 - basicLogger - INFO - Produced champion_winrate event (trace_id: 737c4327-64cb-4a16-beef-39a5f9ccf492)
+2026-04-08 09:33:29,230 - basicLogger - INFO - Received event champion_winrate with a trace id of 3117261c-4974-43e5-804c-621e2acc0ac7
+2026-04-08 09:33:29,236 - basicLogger - INFO - Produced champion_winrate event (trace_id: 3117261c-4974-43e5-804c-621e2acc0ac7)
+2026-04-08 09:33:29,332 - basicLogger - INFO - Received event champion_winrate with a trace id of 5db14619-6efe-4970-b7ed-308100a2d336
+2026-04-08 09:33:29,338 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5db14619-6efe-4970-b7ed-308100a2d336)
+2026-04-08 09:33:29,431 - basicLogger - INFO - Received event champion_winrate with a trace id of 5a5511d4-dfb0-4d43-856a-87a72f3ed581
+2026-04-08 09:33:29,432 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5a5511d4-dfb0-4d43-856a-87a72f3ed581)
+2026-04-08 09:33:29,521 - basicLogger - INFO - Received event champion_winrate with a trace id of d1bd3e74-0f04-4155-ad54-43074dca1391
+2026-04-08 09:33:29,528 - basicLogger - INFO - Produced champion_winrate event (trace_id: d1bd3e74-0f04-4155-ad54-43074dca1391)
+2026-04-08 09:33:33,643 - basicLogger - INFO - Received event match_history with a trace id of 6526e639-0964-4794-bb00-f1c7df782ce9
+2026-04-08 09:33:33,650 - basicLogger - INFO - Produced match_history event (trace_id: 6526e639-0964-4794-bb00-f1c7df782ce9)
+2026-04-08 09:33:33,762 - basicLogger - INFO - Received event match_history with a trace id of 17025c19-5533-4222-b0a4-cec53a65e0f6
+2026-04-08 09:33:33,767 - basicLogger - INFO - Produced match_history event (trace_id: 17025c19-5533-4222-b0a4-cec53a65e0f6)
+2026-04-08 09:33:33,883 - basicLogger - INFO - Received event match_history with a trace id of a1ee006a-f280-4d58-ae80-5cd3f4a5dcd6
+2026-04-08 09:33:33,889 - basicLogger - INFO - Produced match_history event (trace_id: a1ee006a-f280-4d58-ae80-5cd3f4a5dcd6)
+2026-04-08 09:33:33,955 - basicLogger - INFO - Received event match_history with a trace id of 9f8e23ce-b0a4-430d-8b63-16cd0e7f7d06
+2026-04-08 09:33:33,961 - basicLogger - INFO - Produced match_history event (trace_id: 9f8e23ce-b0a4-430d-8b63-16cd0e7f7d06)
+2026-04-08 09:33:34,038 - basicLogger - INFO - Received event match_history with a trace id of 9acb4fd2-ca3a-439b-89b4-12f3dcc2f764
+2026-04-08 09:33:34,045 - basicLogger - INFO - Produced match_history event (trace_id: 9acb4fd2-ca3a-439b-89b4-12f3dcc2f764)
+2026-04-08 09:33:34,136 - basicLogger - INFO - Received event match_history with a trace id of 898bc1ba-f05c-476b-9c8c-99d4583b5fea
+2026-04-08 09:33:34,142 - basicLogger - INFO - Produced match_history event (trace_id: 898bc1ba-f05c-476b-9c8c-99d4583b5fea)
+2026-04-08 09:33:34,233 - basicLogger - INFO - Received event match_history with a trace id of 017d2f61-e19d-421b-aaa7-3f176e4787a8
+2026-04-08 09:33:34,238 - basicLogger - INFO - Produced match_history event (trace_id: 017d2f61-e19d-421b-aaa7-3f176e4787a8)
+2026-04-08 09:33:34,335 - basicLogger - INFO - Received event match_history with a trace id of 84f16ee5-31c4-4b54-93a8-67e9dcb6533b
+2026-04-08 09:33:34,340 - basicLogger - INFO - Produced match_history event (trace_id: 84f16ee5-31c4-4b54-93a8-67e9dcb6533b)
+2026-04-08 09:33:34,435 - basicLogger - INFO - Received event match_history with a trace id of 6c4ae813-d223-44ab-a9fd-21488f952da2
+2026-04-08 09:33:34,442 - basicLogger - INFO - Produced match_history event (trace_id: 6c4ae813-d223-44ab-a9fd-21488f952da2)
+2026-04-08 09:33:34,531 - basicLogger - INFO - Received event match_history with a trace id of acb7b0a5-c097-4172-abcc-8ccb354775e2
+2026-04-08 09:33:34,537 - basicLogger - INFO - Produced match_history event (trace_id: acb7b0a5-c097-4172-abcc-8ccb354775e2)
+2026-04-08 09:33:38,654 - basicLogger - INFO - Received event champion_winrate with a trace id of fb4f3380-ab39-48ee-8b34-a180a117bfbd
+2026-04-08 09:33:38,660 - basicLogger - INFO - Produced champion_winrate event (trace_id: fb4f3380-ab39-48ee-8b34-a180a117bfbd)
+2026-04-08 09:33:38,771 - basicLogger - INFO - Received event champion_winrate with a trace id of 851773fb-a22c-4212-9dcb-560b77b6f0c1
+2026-04-08 09:33:38,778 - basicLogger - INFO - Produced champion_winrate event (trace_id: 851773fb-a22c-4212-9dcb-560b77b6f0c1)
+2026-04-08 09:33:38,894 - basicLogger - INFO - Received event champion_winrate with a trace id of fadbd462-f3ca-4c5b-b19a-2b5dc459b548
+2026-04-08 09:33:38,903 - basicLogger - INFO - Produced champion_winrate event (trace_id: fadbd462-f3ca-4c5b-b19a-2b5dc459b548)
+2026-04-08 09:33:38,965 - basicLogger - INFO - Received event champion_winrate with a trace id of 5d4c36d7-80b8-4ce2-b920-48c08982774b
+2026-04-08 09:33:38,972 - basicLogger - INFO - Produced champion_winrate event (trace_id: 5d4c36d7-80b8-4ce2-b920-48c08982774b)
+2026-04-08 09:33:39,049 - basicLogger - INFO - Received event champion_winrate with a trace id of b84aa293-86ca-44f1-a4e0-678f2df9c89e
+2026-04-08 09:33:39,055 - basicLogger - INFO - Produced champion_winrate event (trace_id: b84aa293-86ca-44f1-a4e0-678f2df9c89e)
+2026-04-08 09:33:39,146 - basicLogger - INFO - Received event champion_winrate with a trace id of 19dd8be9-6103-4fed-8acb-232eeb51ee13
+2026-04-08 09:33:39,153 - basicLogger - INFO - Produced champion_winrate event (trace_id: 19dd8be9-6103-4fed-8acb-232eeb51ee13)
+2026-04-08 09:33:39,242 - basicLogger - INFO - Received event champion_winrate with a trace id of c355fe36-07dd-425e-9ada-df23ec4fcf9f
+2026-04-08 09:33:39,249 - basicLogger - INFO - Produced champion_winrate event (trace_id: c355fe36-07dd-425e-9ada-df23ec4fcf9f)
+2026-04-08 09:33:39,344 - basicLogger - INFO - Received event champion_winrate with a trace id of cee8da18-76d9-459e-9856-c47e2b89859f
+2026-04-08 09:33:39,350 - basicLogger - INFO - Produced champion_winrate event (trace_id: cee8da18-76d9-459e-9856-c47e2b89859f)
+2026-04-08 09:33:39,446 - basicLogger - INFO - Received event champion_winrate with a trace id of 24863364-de9a-41bc-bdfd-d253c7522b34
+2026-04-08 09:33:39,451 - basicLogger - INFO - Produced champion_winrate event (trace_id: 24863364-de9a-41bc-bdfd-d253c7522b34)
+2026-04-08 09:33:39,541 - basicLogger - INFO - Received event champion_winrate with a trace id of d279f22b-1f13-4b25-bce8-a3c8052c599b
+2026-04-08 09:33:39,546 - basicLogger - INFO - Produced champion_winrate event (trace_id: d279f22b-1f13-4b25-bce8-a3c8052c599b)

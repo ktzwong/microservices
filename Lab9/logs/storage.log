@@ -3764,3 +3764,1391 @@
 2026-04-08 09:31:34,090 - basicLogger - INFO - Returning 0 champion_winrate events
 2026-04-08 09:31:34,959 - basicLogger - INFO - Storage: Kafka consumer started
 2026-04-08 09:31:35,002 - basicLogger - INFO - Storage: Kafka consumer started
+2026-04-08 09:31:39,075 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:31:39,084 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:31:44,075 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:31:44,084 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:31:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:31:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:31:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:31:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:31:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:31:59,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:32:03,498 - basicLogger - INFO - Stored match_history event (trace_id: be869927-3428-42ca-94dd-f1cb4be48f34)
+2026-04-08 09:32:03,501 - basicLogger - INFO - Stored match_history event (trace_id: be869927-3428-42ca-94dd-f1cb4be48f34)
+2026-04-08 09:32:03,591 - basicLogger - INFO - Stored match_history event (trace_id: b65b6840-4c18-4379-a38b-897a658685ee)
+2026-04-08 09:32:03,592 - basicLogger - INFO - Stored match_history event (trace_id: b65b6840-4c18-4379-a38b-897a658685ee)
+2026-04-08 09:32:03,686 - basicLogger - INFO - Stored match_history event (trace_id: 74541cec-ceb8-40b0-b69c-25df3b497eb0)
+2026-04-08 09:32:03,689 - basicLogger - INFO - Stored match_history event (trace_id: 74541cec-ceb8-40b0-b69c-25df3b497eb0)
+2026-04-08 09:32:03,789 - basicLogger - INFO - Stored match_history event (trace_id: 443cc4bf-520f-47ff-9804-3f73f656d19e)
+2026-04-08 09:32:03,794 - basicLogger - INFO - Stored match_history event (trace_id: 443cc4bf-520f-47ff-9804-3f73f656d19e)
+2026-04-08 09:32:03,889 - basicLogger - INFO - Stored match_history event (trace_id: 28ef3559-8882-4114-85fe-d51a7b5201f9)
+2026-04-08 09:32:03,892 - basicLogger - INFO - Stored match_history event (trace_id: 28ef3559-8882-4114-85fe-d51a7b5201f9)
+2026-04-08 09:32:03,986 - basicLogger - INFO - Stored match_history event (trace_id: d47d347d-0ac2-4193-8395-e930206317b2)
+2026-04-08 09:32:03,990 - basicLogger - INFO - Stored match_history event (trace_id: d47d347d-0ac2-4193-8395-e930206317b2)
+2026-04-08 09:32:04,071 - basicLogger - INFO - Returning 12 match_history events
+2026-04-08 09:32:04,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:32:04,085 - basicLogger - INFO - Stored match_history event (trace_id: 30600145-e83a-4767-b327-e61b00b5b43c)
+2026-04-08 09:32:04,088 - basicLogger - INFO - Stored match_history event (trace_id: 30600145-e83a-4767-b327-e61b00b5b43c)
+2026-04-08 09:32:04,186 - basicLogger - INFO - Stored match_history event (trace_id: fa33fac4-3fcb-41b7-914a-cc47e872ae2d)
+2026-04-08 09:32:04,189 - basicLogger - INFO - Stored match_history event (trace_id: fa33fac4-3fcb-41b7-914a-cc47e872ae2d)
+2026-04-08 09:32:04,285 - basicLogger - INFO - Stored match_history event (trace_id: 6e2bfe85-a93a-4a11-83c7-e9216e1107d1)
+2026-04-08 09:32:04,289 - basicLogger - INFO - Stored match_history event (trace_id: 6e2bfe85-a93a-4a11-83c7-e9216e1107d1)
+2026-04-08 09:32:04,386 - basicLogger - INFO - Stored match_history event (trace_id: d83147f7-7e80-43ef-b203-8db0eaa0f7c2)
+2026-04-08 09:32:04,389 - basicLogger - INFO - Stored match_history event (trace_id: d83147f7-7e80-43ef-b203-8db0eaa0f7c2)
+2026-04-08 09:32:08,510 - basicLogger - INFO - Stored champion_winrate event (trace_id: b6ee2c69-f520-4ebb-9a04-4a9a18f60709)
+2026-04-08 09:32:08,514 - basicLogger - INFO - Stored champion_winrate event (trace_id: b6ee2c69-f520-4ebb-9a04-4a9a18f60709)
+2026-04-08 09:32:08,597 - basicLogger - INFO - Stored champion_winrate event (trace_id: cbef24f6-921f-4d9b-aa46-00400e414f98)
+2026-04-08 09:32:08,601 - basicLogger - INFO - Stored champion_winrate event (trace_id: cbef24f6-921f-4d9b-aa46-00400e414f98)
+2026-04-08 09:32:08,697 - basicLogger - INFO - Stored champion_winrate event (trace_id: 419d6811-5a3a-4fab-aa2b-77cce2e85ccb)
+2026-04-08 09:32:08,700 - basicLogger - INFO - Stored champion_winrate event (trace_id: 419d6811-5a3a-4fab-aa2b-77cce2e85ccb)
+2026-04-08 09:32:08,799 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2455156f-d13a-427c-b947-a6d33d0e30c0)
+2026-04-08 09:32:08,803 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2455156f-d13a-427c-b947-a6d33d0e30c0)
+2026-04-08 09:32:08,900 - basicLogger - INFO - Stored champion_winrate event (trace_id: c59bd31d-0827-4024-9657-f531110505e6)
+2026-04-08 09:32:08,904 - basicLogger - INFO - Stored champion_winrate event (trace_id: c59bd31d-0827-4024-9657-f531110505e6)
+2026-04-08 09:32:08,998 - basicLogger - INFO - Stored champion_winrate event (trace_id: da73d69e-d6e2-4b52-85af-d38758ba3a78)
+2026-04-08 09:32:09,001 - basicLogger - INFO - Stored champion_winrate event (trace_id: da73d69e-d6e2-4b52-85af-d38758ba3a78)
+2026-04-08 09:32:09,071 - basicLogger - INFO - Returning 8 match_history events
+2026-04-08 09:32:09,080 - basicLogger - INFO - Returning 12 champion_winrate events
+2026-04-08 09:32:09,095 - basicLogger - INFO - Stored champion_winrate event (trace_id: e43dc65e-4116-424e-8306-0057a5c67f0e)
+2026-04-08 09:32:09,099 - basicLogger - INFO - Stored champion_winrate event (trace_id: e43dc65e-4116-424e-8306-0057a5c67f0e)
+2026-04-08 09:32:09,196 - basicLogger - INFO - Stored champion_winrate event (trace_id: 7b0bbbd4-29e2-4859-90ec-af2a9f04a7e9)
+2026-04-08 09:32:09,199 - basicLogger - INFO - Stored champion_winrate event (trace_id: 7b0bbbd4-29e2-4859-90ec-af2a9f04a7e9)
+2026-04-08 09:32:09,296 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4639801c-cc5a-4fcd-a53e-8033399b1502)
+2026-04-08 09:32:09,299 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4639801c-cc5a-4fcd-a53e-8033399b1502)
+2026-04-08 09:32:09,397 - basicLogger - INFO - Stored champion_winrate event (trace_id: e2e3431b-0f8e-4999-aab9-e27e90e910c6)
+2026-04-08 09:32:09,401 - basicLogger - INFO - Stored champion_winrate event (trace_id: e2e3431b-0f8e-4999-aab9-e27e90e910c6)
+2026-04-08 09:32:13,520 - basicLogger - INFO - Stored match_history event (trace_id: 916faffb-70c3-481d-86e3-bba482dab6aa)
+2026-04-08 09:32:13,524 - basicLogger - INFO - Stored match_history event (trace_id: 916faffb-70c3-481d-86e3-bba482dab6aa)
+2026-04-08 09:32:13,607 - basicLogger - INFO - Stored match_history event (trace_id: 7981a3bd-e35e-4112-b577-2911e0236c69)
+2026-04-08 09:32:13,610 - basicLogger - INFO - Stored match_history event (trace_id: 7981a3bd-e35e-4112-b577-2911e0236c69)
+2026-04-08 09:32:13,709 - basicLogger - INFO - Stored match_history event (trace_id: 21c19390-b8f7-4e58-b82a-1c572a36a5ca)
+2026-04-08 09:32:13,713 - basicLogger - INFO - Stored match_history event (trace_id: 21c19390-b8f7-4e58-b82a-1c572a36a5ca)
+2026-04-08 09:32:13,808 - basicLogger - INFO - Stored match_history event (trace_id: f16fbb9b-3f38-41a6-89b4-2d4a4f13fa7c)
+2026-04-08 09:32:13,811 - basicLogger - INFO - Stored match_history event (trace_id: f16fbb9b-3f38-41a6-89b4-2d4a4f13fa7c)
+2026-04-08 09:32:13,911 - basicLogger - INFO - Stored match_history event (trace_id: afaf4c34-99cd-4c94-be30-c6295c665eec)
+2026-04-08 09:32:13,914 - basicLogger - INFO - Stored match_history event (trace_id: afaf4c34-99cd-4c94-be30-c6295c665eec)
+2026-04-08 09:32:14,008 - basicLogger - INFO - Stored match_history event (trace_id: 25ae7ab0-3dcd-486e-8c09-ce9d972b2e6c)
+2026-04-08 09:32:14,012 - basicLogger - INFO - Stored match_history event (trace_id: 25ae7ab0-3dcd-486e-8c09-ce9d972b2e6c)
+2026-04-08 09:32:14,072 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:14,082 - basicLogger - INFO - Returning 8 champion_winrate events
+2026-04-08 09:32:14,110 - basicLogger - INFO - Stored match_history event (trace_id: 4cddc7f3-eb08-4d53-aebf-24e55d8163f2)
+2026-04-08 09:32:14,113 - basicLogger - INFO - Stored match_history event (trace_id: 4cddc7f3-eb08-4d53-aebf-24e55d8163f2)
+2026-04-08 09:32:14,212 - basicLogger - INFO - Stored match_history event (trace_id: 9d5b4249-5d85-457e-9d49-a39e21687884)
+2026-04-08 09:32:14,215 - basicLogger - INFO - Stored match_history event (trace_id: 9d5b4249-5d85-457e-9d49-a39e21687884)
+2026-04-08 09:32:14,306 - basicLogger - INFO - Stored match_history event (trace_id: a38a9d75-7e4e-46ec-9c04-5dcf9d44f8b9)
+2026-04-08 09:32:14,310 - basicLogger - INFO - Stored match_history event (trace_id: a38a9d75-7e4e-46ec-9c04-5dcf9d44f8b9)
+2026-04-08 09:32:14,412 - basicLogger - INFO - Stored match_history event (trace_id: 8a1f483b-9453-4b39-aa05-d237ba54e2c5)
+2026-04-08 09:32:14,413 - basicLogger - INFO - Stored match_history event (trace_id: 8a1f483b-9453-4b39-aa05-d237ba54e2c5)
+2026-04-08 09:32:18,527 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0c57a13d-4e51-4f65-b850-37182f314dac)
+2026-04-08 09:32:18,531 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0c57a13d-4e51-4f65-b850-37182f314dac)
+2026-04-08 09:32:18,616 - basicLogger - INFO - Stored champion_winrate event (trace_id: aad6a3d2-1503-404d-8117-66e1a3cd5436)
+2026-04-08 09:32:18,622 - basicLogger - INFO - Stored champion_winrate event (trace_id: aad6a3d2-1503-404d-8117-66e1a3cd5436)
+2026-04-08 09:32:18,721 - basicLogger - INFO - Stored champion_winrate event (trace_id: ed08bc0f-5e39-4cc6-ae06-8545a5c52c7d)
+2026-04-08 09:32:18,724 - basicLogger - INFO - Stored champion_winrate event (trace_id: ed08bc0f-5e39-4cc6-ae06-8545a5c52c7d)
+2026-04-08 09:32:18,819 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2ca04b00-5ff9-4cfc-94fc-8e0f1e180078)
+2026-04-08 09:32:18,823 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2ca04b00-5ff9-4cfc-94fc-8e0f1e180078)
+2026-04-08 09:32:18,922 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0996e205-991e-4a65-9d2e-cbcd92ddcfb7)
+2026-04-08 09:32:18,925 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0996e205-991e-4a65-9d2e-cbcd92ddcfb7)
+2026-04-08 09:32:19,020 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5cc5d147-4143-4dd2-8791-70f1a8272b35)
+2026-04-08 09:32:19,025 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5cc5d147-4143-4dd2-8791-70f1a8272b35)
+2026-04-08 09:32:19,071 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:19,082 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:19,115 - basicLogger - INFO - Stored champion_winrate event (trace_id: be75a9e1-7915-46cb-a673-6c4ee7e4803d)
+2026-04-08 09:32:19,118 - basicLogger - INFO - Stored champion_winrate event (trace_id: be75a9e1-7915-46cb-a673-6c4ee7e4803d)
+2026-04-08 09:32:19,216 - basicLogger - INFO - Stored champion_winrate event (trace_id: 42fc697c-d972-445c-94f0-a67de53f1306)
+2026-04-08 09:32:19,219 - basicLogger - INFO - Stored champion_winrate event (trace_id: 42fc697c-d972-445c-94f0-a67de53f1306)
+2026-04-08 09:32:19,318 - basicLogger - INFO - Stored champion_winrate event (trace_id: 74974686-dec7-4cb4-8344-d27d3158a231)
+2026-04-08 09:32:19,321 - basicLogger - INFO - Stored champion_winrate event (trace_id: 74974686-dec7-4cb4-8344-d27d3158a231)
+2026-04-08 09:32:19,417 - basicLogger - INFO - Stored champion_winrate event (trace_id: 61793f34-56df-455c-894f-462f86fe4fa8)
+2026-04-08 09:32:19,420 - basicLogger - INFO - Stored champion_winrate event (trace_id: 61793f34-56df-455c-894f-462f86fe4fa8)
+2026-04-08 09:32:23,536 - basicLogger - INFO - Stored match_history event (trace_id: 52898a6b-339a-4970-9851-6b49650fddf6)
+2026-04-08 09:32:23,539 - basicLogger - INFO - Stored match_history event (trace_id: 52898a6b-339a-4970-9851-6b49650fddf6)
+2026-04-08 09:32:23,627 - basicLogger - INFO - Stored match_history event (trace_id: fa7d181e-1f3f-4fc4-9900-b6f2f45d2cdf)
+2026-04-08 09:32:23,631 - basicLogger - INFO - Stored match_history event (trace_id: fa7d181e-1f3f-4fc4-9900-b6f2f45d2cdf)
+2026-04-08 09:32:23,732 - basicLogger - INFO - Stored match_history event (trace_id: eceb3f11-49b3-4f0d-bc6b-8dd14014b362)
+2026-04-08 09:32:23,735 - basicLogger - INFO - Stored match_history event (trace_id: eceb3f11-49b3-4f0d-bc6b-8dd14014b362)
+2026-04-08 09:32:23,826 - basicLogger - INFO - Stored match_history event (trace_id: 46065ff9-3459-40d2-8393-213f918b077e)
+2026-04-08 09:32:23,833 - basicLogger - INFO - Stored match_history event (trace_id: 46065ff9-3459-40d2-8393-213f918b077e)
+2026-04-08 09:32:23,930 - basicLogger - INFO - Stored match_history event (trace_id: 142f7bcc-bf53-40df-96c0-aa000ec4c32d)
+2026-04-08 09:32:23,933 - basicLogger - INFO - Stored match_history event (trace_id: 142f7bcc-bf53-40df-96c0-aa000ec4c32d)
+2026-04-08 09:32:24,027 - basicLogger - INFO - Stored match_history event (trace_id: 7dd249e6-3aea-4aaa-b6c5-7adf8878a15e)
+2026-04-08 09:32:24,031 - basicLogger - INFO - Stored match_history event (trace_id: 7dd249e6-3aea-4aaa-b6c5-7adf8878a15e)
+2026-04-08 09:32:24,071 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:24,081 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:24,127 - basicLogger - INFO - Stored match_history event (trace_id: 055bf9ae-f2dc-4638-9309-3fbe00d3686e)
+2026-04-08 09:32:24,130 - basicLogger - INFO - Stored match_history event (trace_id: 055bf9ae-f2dc-4638-9309-3fbe00d3686e)
+2026-04-08 09:32:24,228 - basicLogger - INFO - Stored match_history event (trace_id: 3b02df63-0885-47cc-96e8-ada864519847)
+2026-04-08 09:32:24,231 - basicLogger - INFO - Stored match_history event (trace_id: 3b02df63-0885-47cc-96e8-ada864519847)
+2026-04-08 09:32:24,329 - basicLogger - INFO - Stored match_history event (trace_id: 2ea4a82c-59f5-4d23-b7cb-a9f254d8cf07)
+2026-04-08 09:32:24,332 - basicLogger - INFO - Stored match_history event (trace_id: 2ea4a82c-59f5-4d23-b7cb-a9f254d8cf07)
+2026-04-08 09:32:24,426 - basicLogger - INFO - Stored match_history event (trace_id: 5a51ca02-0c4e-4bc7-a082-441434e1aa03)
+2026-04-08 09:32:24,429 - basicLogger - INFO - Stored match_history event (trace_id: 5a51ca02-0c4e-4bc7-a082-441434e1aa03)
+2026-04-08 09:32:28,549 - basicLogger - INFO - Stored champion_winrate event (trace_id: 63153309-9487-4751-a608-16608b0dea58)
+2026-04-08 09:32:28,552 - basicLogger - INFO - Stored champion_winrate event (trace_id: 63153309-9487-4751-a608-16608b0dea58)
+2026-04-08 09:32:28,635 - basicLogger - INFO - Stored champion_winrate event (trace_id: 361ce324-1733-4f2c-b268-3a5d395860fa)
+2026-04-08 09:32:28,638 - basicLogger - INFO - Stored champion_winrate event (trace_id: 361ce324-1733-4f2c-b268-3a5d395860fa)
+2026-04-08 09:32:28,741 - basicLogger - INFO - Stored champion_winrate event (trace_id: 8c9fd57d-2e6c-4f1b-987c-e5c8092d0a63)
+2026-04-08 09:32:28,744 - basicLogger - INFO - Stored champion_winrate event (trace_id: 8c9fd57d-2e6c-4f1b-987c-e5c8092d0a63)
+2026-04-08 09:32:28,839 - basicLogger - INFO - Stored champion_winrate event (trace_id: ca1c8269-4ab7-47eb-abef-e244089fd825)
+2026-04-08 09:32:28,842 - basicLogger - INFO - Stored champion_winrate event (trace_id: ca1c8269-4ab7-47eb-abef-e244089fd825)
+2026-04-08 09:32:28,941 - basicLogger - INFO - Stored champion_winrate event (trace_id: 59a9328c-bf80-4f73-8924-9fd128c264af)
+2026-04-08 09:32:28,945 - basicLogger - INFO - Stored champion_winrate event (trace_id: 59a9328c-bf80-4f73-8924-9fd128c264af)
+2026-04-08 09:32:29,037 - basicLogger - INFO - Stored champion_winrate event (trace_id: 9c60237f-d658-4fcd-95ff-a6de8c66570c)
+2026-04-08 09:32:29,040 - basicLogger - INFO - Stored champion_winrate event (trace_id: 9c60237f-d658-4fcd-95ff-a6de8c66570c)
+2026-04-08 09:32:29,071 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:29,079 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:29,137 - basicLogger - INFO - Stored champion_winrate event (trace_id: 7e027b4b-12f2-43ac-9481-9d94fa41674f)
+2026-04-08 09:32:29,141 - basicLogger - INFO - Stored champion_winrate event (trace_id: 7e027b4b-12f2-43ac-9481-9d94fa41674f)
+2026-04-08 09:32:29,240 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0c2aea38-8a84-4422-9300-5e9b77f846bc)
+2026-04-08 09:32:29,243 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0c2aea38-8a84-4422-9300-5e9b77f846bc)
+2026-04-08 09:32:29,337 - basicLogger - INFO - Stored champion_winrate event (trace_id: 1fa49b6a-192e-4733-8f66-3586d01be7f8)
+2026-04-08 09:32:29,342 - basicLogger - INFO - Stored champion_winrate event (trace_id: 1fa49b6a-192e-4733-8f66-3586d01be7f8)
+2026-04-08 09:32:29,436 - basicLogger - INFO - Stored champion_winrate event (trace_id: bf0c3f6e-8927-4530-95a3-5a7acbeddd53)
+2026-04-08 09:32:29,435 - basicLogger - INFO - Stored champion_winrate event (trace_id: bf0c3f6e-8927-4530-95a3-5a7acbeddd53)
+2026-04-08 09:32:33,550 - basicLogger - INFO - Stored match_history event (trace_id: 0546f60c-1321-449d-b365-dd90a7db561f)
+2026-04-08 09:32:33,554 - basicLogger - INFO - Stored match_history event (trace_id: 0546f60c-1321-449d-b365-dd90a7db561f)
+2026-04-08 09:32:33,644 - basicLogger - INFO - Stored match_history event (trace_id: 8e331b1a-3b83-433f-b707-4349c2a21e5c)
+2026-04-08 09:32:33,648 - basicLogger - INFO - Stored match_history event (trace_id: 8e331b1a-3b83-433f-b707-4349c2a21e5c)
+2026-04-08 09:32:33,749 - basicLogger - INFO - Stored match_history event (trace_id: 6e154101-9fb0-4329-9c26-539604b226ca)
+2026-04-08 09:32:33,752 - basicLogger - INFO - Stored match_history event (trace_id: 6e154101-9fb0-4329-9c26-539604b226ca)
+2026-04-08 09:32:33,844 - basicLogger - INFO - Stored match_history event (trace_id: 24f5ccef-ae34-4f45-b80e-36482e26caca)
+2026-04-08 09:32:33,847 - basicLogger - INFO - Stored match_history event (trace_id: 24f5ccef-ae34-4f45-b80e-36482e26caca)
+2026-04-08 09:32:33,946 - basicLogger - INFO - Stored match_history event (trace_id: 93a1b951-7432-4813-a3f6-ca03123e0c7c)
+2026-04-08 09:32:33,950 - basicLogger - INFO - Stored match_history event (trace_id: 93a1b951-7432-4813-a3f6-ca03123e0c7c)
+2026-04-08 09:32:34,044 - basicLogger - INFO - Stored match_history event (trace_id: d716c781-8f7b-4843-be59-11e896fde6ea)
+2026-04-08 09:32:34,048 - basicLogger - INFO - Stored match_history event (trace_id: d716c781-8f7b-4843-be59-11e896fde6ea)
+2026-04-08 09:32:34,070 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:34,079 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:34,140 - basicLogger - INFO - Stored match_history event (trace_id: 793e7de9-0bd2-45ed-a696-131ee4b52c0e)
+2026-04-08 09:32:34,141 - basicLogger - INFO - Stored match_history event (trace_id: 793e7de9-0bd2-45ed-a696-131ee4b52c0e)
+2026-04-08 09:32:34,241 - basicLogger - INFO - Stored match_history event (trace_id: 86e6c96a-8a7c-460c-8927-6438b92cccb2)
+2026-04-08 09:32:34,244 - basicLogger - INFO - Stored match_history event (trace_id: 86e6c96a-8a7c-460c-8927-6438b92cccb2)
+2026-04-08 09:32:34,341 - basicLogger - INFO - Stored match_history event (trace_id: 7f5636fb-b1a6-429e-b499-d52ada3b297e)
+2026-04-08 09:32:34,345 - basicLogger - INFO - Stored match_history event (trace_id: 7f5636fb-b1a6-429e-b499-d52ada3b297e)
+2026-04-08 09:32:34,444 - basicLogger - INFO - Stored match_history event (trace_id: 75549070-14a8-4ba6-b8c3-328a4b0bd27a)
+2026-04-08 09:32:34,447 - basicLogger - INFO - Stored match_history event (trace_id: 75549070-14a8-4ba6-b8c3-328a4b0bd27a)
+2026-04-08 09:32:38,559 - basicLogger - INFO - Stored champion_winrate event (trace_id: 7aa0209f-556c-4ecd-b95d-168a6e56c43c)
+2026-04-08 09:32:38,562 - basicLogger - INFO - Stored champion_winrate event (trace_id: 7aa0209f-556c-4ecd-b95d-168a6e56c43c)
+2026-04-08 09:32:38,656 - basicLogger - INFO - Stored champion_winrate event (trace_id: 28de489d-77db-469c-896d-e7d6f14b826f)
+2026-04-08 09:32:38,659 - basicLogger - INFO - Stored champion_winrate event (trace_id: 28de489d-77db-469c-896d-e7d6f14b826f)
+2026-04-08 09:32:38,759 - basicLogger - INFO - Stored champion_winrate event (trace_id: 73a63299-2d48-4b96-ab6f-47ca09d9babf)
+2026-04-08 09:32:38,763 - basicLogger - INFO - Stored champion_winrate event (trace_id: 73a63299-2d48-4b96-ab6f-47ca09d9babf)
+2026-04-08 09:32:38,855 - basicLogger - INFO - Stored champion_winrate event (trace_id: c49ae6e1-7cf6-46b4-a91d-10d4dea4bbdb)
+2026-04-08 09:32:38,859 - basicLogger - INFO - Stored champion_winrate event (trace_id: c49ae6e1-7cf6-46b4-a91d-10d4dea4bbdb)
+2026-04-08 09:32:38,956 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4cc6f47d-3796-4fed-bfca-e9dfc66239e7)
+2026-04-08 09:32:38,959 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4cc6f47d-3796-4fed-bfca-e9dfc66239e7)
+2026-04-08 09:32:39,054 - basicLogger - INFO - Stored champion_winrate event (trace_id: aa388df6-c01c-432d-80f0-b0d164741651)
+2026-04-08 09:32:39,058 - basicLogger - INFO - Stored champion_winrate event (trace_id: aa388df6-c01c-432d-80f0-b0d164741651)
+2026-04-08 09:32:39,071 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:39,079 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:39,151 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2836e56e-4900-4d5a-8ad2-cd40604da78c)
+2026-04-08 09:32:39,154 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2836e56e-4900-4d5a-8ad2-cd40604da78c)
+2026-04-08 09:32:39,252 - basicLogger - INFO - Stored champion_winrate event (trace_id: 8cbdef0a-8bab-422a-9feb-2fb3d866fb7f)
+2026-04-08 09:32:39,255 - basicLogger - INFO - Stored champion_winrate event (trace_id: 8cbdef0a-8bab-422a-9feb-2fb3d866fb7f)
+2026-04-08 09:32:39,352 - basicLogger - INFO - Stored champion_winrate event (trace_id: cad40e2e-374e-423b-8f28-4678712cc589)
+2026-04-08 09:32:39,355 - basicLogger - INFO - Stored champion_winrate event (trace_id: cad40e2e-374e-423b-8f28-4678712cc589)
+2026-04-08 09:32:39,452 - basicLogger - INFO - Stored champion_winrate event (trace_id: d0c8ca0f-d16f-4569-97c2-73dd8ad7dc2a)
+2026-04-08 09:32:39,456 - basicLogger - INFO - Stored champion_winrate event (trace_id: d0c8ca0f-d16f-4569-97c2-73dd8ad7dc2a)
+2026-04-08 09:32:43,568 - basicLogger - INFO - Stored match_history event (trace_id: 4e97a4fa-95f9-4742-946a-e41cfac778b5)
+2026-04-08 09:32:43,572 - basicLogger - INFO - Stored match_history event (trace_id: 4e97a4fa-95f9-4742-946a-e41cfac778b5)
+2026-04-08 09:32:43,665 - basicLogger - INFO - Stored match_history event (trace_id: df7f8e05-bf44-4cc9-8217-adbb7017bafd)
+2026-04-08 09:32:43,669 - basicLogger - INFO - Stored match_history event (trace_id: df7f8e05-bf44-4cc9-8217-adbb7017bafd)
+2026-04-08 09:32:43,788 - basicLogger - INFO - Stored match_history event (trace_id: 78387b34-4b0a-4b92-951d-57f7a683a393)
+2026-04-08 09:32:43,791 - basicLogger - INFO - Stored match_history event (trace_id: 78387b34-4b0a-4b92-951d-57f7a683a393)
+2026-04-08 09:32:43,866 - basicLogger - INFO - Stored match_history event (trace_id: 0aa7ff08-3614-4911-88ff-971d68510bac)
+2026-04-08 09:32:43,869 - basicLogger - INFO - Stored match_history event (trace_id: 0aa7ff08-3614-4911-88ff-971d68510bac)
+2026-04-08 09:32:43,970 - basicLogger - INFO - Stored match_history event (trace_id: 54bd4c40-48a7-4384-bbf5-c5fe29b0e2aa)
+2026-04-08 09:32:43,975 - basicLogger - INFO - Stored match_history event (trace_id: 54bd4c40-48a7-4384-bbf5-c5fe29b0e2aa)
+2026-04-08 09:32:44,066 - basicLogger - INFO - Stored match_history event (trace_id: 55ac0c96-658f-4c75-9bf1-498cb125103b)
+2026-04-08 09:32:44,070 - basicLogger - INFO - Stored match_history event (trace_id: 55ac0c96-658f-4c75-9bf1-498cb125103b)
+2026-04-08 09:32:44,093 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:44,105 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:44,161 - basicLogger - INFO - Stored match_history event (trace_id: 410ac2b6-0f1b-465f-9970-0545a741432e)
+2026-04-08 09:32:44,164 - basicLogger - INFO - Stored match_history event (trace_id: 410ac2b6-0f1b-465f-9970-0545a741432e)
+2026-04-08 09:32:44,264 - basicLogger - INFO - Stored match_history event (trace_id: f3905e5d-3656-43ca-bc34-cab6fb1dfa41)
+2026-04-08 09:32:44,268 - basicLogger - INFO - Stored match_history event (trace_id: f3905e5d-3656-43ca-bc34-cab6fb1dfa41)
+2026-04-08 09:32:44,360 - basicLogger - INFO - Stored match_history event (trace_id: 356d9303-c54f-4ba5-aa50-e374f0b3f362)
+2026-04-08 09:32:44,367 - basicLogger - INFO - Stored match_history event (trace_id: 356d9303-c54f-4ba5-aa50-e374f0b3f362)
+2026-04-08 09:32:44,462 - basicLogger - INFO - Stored match_history event (trace_id: 2fa346f6-cd44-4cb9-bc56-9f6f78630145)
+2026-04-08 09:32:44,465 - basicLogger - INFO - Stored match_history event (trace_id: 2fa346f6-cd44-4cb9-bc56-9f6f78630145)
+2026-04-08 09:32:48,578 - basicLogger - INFO - Stored champion_winrate event (trace_id: aed3a0aa-b055-4c7b-9873-bc03257a0276)
+2026-04-08 09:32:48,584 - basicLogger - INFO - Stored champion_winrate event (trace_id: aed3a0aa-b055-4c7b-9873-bc03257a0276)
+2026-04-08 09:32:48,674 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0e553e2c-bf94-4836-9d09-2fd075c0e73e)
+2026-04-08 09:32:48,677 - basicLogger - INFO - Stored champion_winrate event (trace_id: 0e553e2c-bf94-4836-9d09-2fd075c0e73e)
+2026-04-08 09:32:48,795 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2f38edb6-5c57-48e5-92bc-de8c75a446a0)
+2026-04-08 09:32:48,799 - basicLogger - INFO - Stored champion_winrate event (trace_id: 2f38edb6-5c57-48e5-92bc-de8c75a446a0)
+2026-04-08 09:32:48,875 - basicLogger - INFO - Stored champion_winrate event (trace_id: 11cc0f17-6be3-4f6e-a2d3-298398b92ab8)
+2026-04-08 09:32:48,882 - basicLogger - INFO - Stored champion_winrate event (trace_id: 11cc0f17-6be3-4f6e-a2d3-298398b92ab8)
+2026-04-08 09:32:48,976 - basicLogger - INFO - Stored champion_winrate event (trace_id: 33fe7ebb-fcc0-4ff9-ab08-070c5642661f)
+2026-04-08 09:32:48,979 - basicLogger - INFO - Stored champion_winrate event (trace_id: 33fe7ebb-fcc0-4ff9-ab08-070c5642661f)
+2026-04-08 09:32:49,074 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5254a7fd-a8a8-4f95-9126-37c5ea42d7e7)
+2026-04-08 09:32:49,077 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5254a7fd-a8a8-4f95-9126-37c5ea42d7e7)
+2026-04-08 09:32:49,081 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:49,090 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:49,170 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5ec04324-c77d-4cc0-afce-0f0da105ba82)
+2026-04-08 09:32:49,174 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5ec04324-c77d-4cc0-afce-0f0da105ba82)
+2026-04-08 09:32:49,272 - basicLogger - INFO - Stored champion_winrate event (trace_id: fefe0831-4293-43de-bd18-9d0a8731dade)
+2026-04-08 09:32:49,276 - basicLogger - INFO - Stored champion_winrate event (trace_id: fefe0831-4293-43de-bd18-9d0a8731dade)
+2026-04-08 09:32:49,373 - basicLogger - INFO - Stored champion_winrate event (trace_id: c69a8337-93d0-4ef3-a291-2369ca6fd179)
+2026-04-08 09:32:49,375 - basicLogger - INFO - Stored champion_winrate event (trace_id: c69a8337-93d0-4ef3-a291-2369ca6fd179)
+2026-04-08 09:32:49,471 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4ae40c05-1057-4c9f-ac18-6b93a15daac9)
+2026-04-08 09:32:49,474 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4ae40c05-1057-4c9f-ac18-6b93a15daac9)
+2026-04-08 09:32:53,589 - basicLogger - INFO - Stored match_history event (trace_id: 5711bd82-6c36-41d3-96b0-b02b0e591cb2)
+2026-04-08 09:32:53,592 - basicLogger - INFO - Stored match_history event (trace_id: 5711bd82-6c36-41d3-96b0-b02b0e591cb2)
+2026-04-08 09:32:53,684 - basicLogger - INFO - Stored match_history event (trace_id: 1bef9937-afcd-483d-9731-0d16688b9429)
+2026-04-08 09:32:53,687 - basicLogger - INFO - Stored match_history event (trace_id: 1bef9937-afcd-483d-9731-0d16688b9429)
+2026-04-08 09:32:53,806 - basicLogger - INFO - Stored match_history event (trace_id: 71567a2f-18d1-4a01-9979-4ccc0e8f9ab5)
+2026-04-08 09:32:53,809 - basicLogger - INFO - Stored match_history event (trace_id: 71567a2f-18d1-4a01-9979-4ccc0e8f9ab5)
+2026-04-08 09:32:53,884 - basicLogger - INFO - Stored match_history event (trace_id: 85556fd7-1f01-4ca1-8638-3bd6df9096da)
+2026-04-08 09:32:53,888 - basicLogger - INFO - Stored match_history event (trace_id: 85556fd7-1f01-4ca1-8638-3bd6df9096da)
+2026-04-08 09:32:53,986 - basicLogger - INFO - Stored match_history event (trace_id: c3da5393-b5d2-4c43-a4e9-1e72058735a5)
+2026-04-08 09:32:53,990 - basicLogger - INFO - Stored match_history event (trace_id: c3da5393-b5d2-4c43-a4e9-1e72058735a5)
+2026-04-08 09:32:54,075 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:54,084 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:54,086 - basicLogger - INFO - Stored match_history event (trace_id: a97ade82-32cb-4a5b-a996-85334d6d0c80)
+2026-04-08 09:32:54,089 - basicLogger - INFO - Stored match_history event (trace_id: a97ade82-32cb-4a5b-a996-85334d6d0c80)
+2026-04-08 09:32:54,181 - basicLogger - INFO - Stored match_history event (trace_id: bea42bf0-8af4-4da0-a464-e369a40cffcf)
+2026-04-08 09:32:54,185 - basicLogger - INFO - Stored match_history event (trace_id: bea42bf0-8af4-4da0-a464-e369a40cffcf)
+2026-04-08 09:32:54,282 - basicLogger - INFO - Stored match_history event (trace_id: 38dca67c-e836-4ce6-9324-37dae3d4b51d)
+2026-04-08 09:32:54,285 - basicLogger - INFO - Stored match_history event (trace_id: 38dca67c-e836-4ce6-9324-37dae3d4b51d)
+2026-04-08 09:32:54,381 - basicLogger - INFO - Stored match_history event (trace_id: 2c5e8406-59ca-41a7-bdcd-3b7af1c69224)
+2026-04-08 09:32:54,385 - basicLogger - INFO - Stored match_history event (trace_id: 2c5e8406-59ca-41a7-bdcd-3b7af1c69224)
+2026-04-08 09:32:54,482 - basicLogger - INFO - Stored match_history event (trace_id: cc495da8-212c-4f01-97bd-df18a91cc6e9)
+2026-04-08 09:32:54,485 - basicLogger - INFO - Stored match_history event (trace_id: cc495da8-212c-4f01-97bd-df18a91cc6e9)
+2026-04-08 09:32:58,598 - basicLogger - INFO - Stored champion_winrate event (trace_id: daddb0c2-e505-4317-bf0a-5d47ec5e0314)
+2026-04-08 09:32:58,601 - basicLogger - INFO - Stored champion_winrate event (trace_id: daddb0c2-e505-4317-bf0a-5d47ec5e0314)
+2026-04-08 09:32:58,693 - basicLogger - INFO - Stored champion_winrate event (trace_id: e3b05cb4-2e0c-460d-9080-0fe3a59b5630)
+2026-04-08 09:32:58,697 - basicLogger - INFO - Stored champion_winrate event (trace_id: e3b05cb4-2e0c-460d-9080-0fe3a59b5630)
+2026-04-08 09:32:58,815 - basicLogger - INFO - Stored champion_winrate event (trace_id: 439fbda8-bede-4a2e-b0e0-8db379bfd573)
+2026-04-08 09:32:58,819 - basicLogger - INFO - Stored champion_winrate event (trace_id: 439fbda8-bede-4a2e-b0e0-8db379bfd573)
+2026-04-08 09:32:58,895 - basicLogger - INFO - Stored champion_winrate event (trace_id: bf0ba02f-8178-44ad-8c0b-27aad1ece1c2)
+2026-04-08 09:32:58,898 - basicLogger - INFO - Stored champion_winrate event (trace_id: bf0ba02f-8178-44ad-8c0b-27aad1ece1c2)
+2026-04-08 09:32:58,996 - basicLogger - INFO - Stored champion_winrate event (trace_id: 74d08cc6-3242-47fd-9567-d0aa05cdf949)
+2026-04-08 09:32:58,999 - basicLogger - INFO - Stored champion_winrate event (trace_id: 74d08cc6-3242-47fd-9567-d0aa05cdf949)
+2026-04-08 09:32:59,071 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:32:59,080 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:32:59,095 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5c386775-7874-4ec6-9089-8799418b6a19)
+2026-04-08 09:32:59,096 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5c386775-7874-4ec6-9089-8799418b6a19)
+2026-04-08 09:32:59,191 - basicLogger - INFO - Stored champion_winrate event (trace_id: ffc3304d-d9f7-4c51-bf25-10ecede6563f)
+2026-04-08 09:32:59,195 - basicLogger - INFO - Stored champion_winrate event (trace_id: ffc3304d-d9f7-4c51-bf25-10ecede6563f)
+2026-04-08 09:32:59,294 - basicLogger - INFO - Stored champion_winrate event (trace_id: a2a9bfc6-b553-4bfe-bfdd-6350d90a7e20)
+2026-04-08 09:32:59,298 - basicLogger - INFO - Stored champion_winrate event (trace_id: a2a9bfc6-b553-4bfe-bfdd-6350d90a7e20)
+2026-04-08 09:32:59,393 - basicLogger - INFO - Stored champion_winrate event (trace_id: 48642c67-adc5-4fe8-baba-7082934cdc06)
+2026-04-08 09:32:59,396 - basicLogger - INFO - Stored champion_winrate event (trace_id: 48642c67-adc5-4fe8-baba-7082934cdc06)
+2026-04-08 09:32:59,484 - basicLogger - INFO - Stored champion_winrate event (trace_id: c7af337b-4d0d-4be1-96a3-62d3b6f892a6)
+2026-04-08 09:32:59,487 - basicLogger - INFO - Stored champion_winrate event (trace_id: c7af337b-4d0d-4be1-96a3-62d3b6f892a6)
+2026-04-08 09:33:03,605 - basicLogger - INFO - Stored match_history event (trace_id: a3084533-2564-40dd-9246-0f33a90be192)
+2026-04-08 09:33:03,608 - basicLogger - INFO - Stored match_history event (trace_id: a3084533-2564-40dd-9246-0f33a90be192)
+2026-04-08 09:33:03,703 - basicLogger - INFO - Stored match_history event (trace_id: fcbcb9f2-62e5-4083-a749-92fc1745446f)
+2026-04-08 09:33:03,706 - basicLogger - INFO - Stored match_history event (trace_id: fcbcb9f2-62e5-4083-a749-92fc1745446f)
+2026-04-08 09:33:03,821 - basicLogger - INFO - Stored match_history event (trace_id: e43b529b-9877-436c-bc41-9ce1b8c73b19)
+2026-04-08 09:33:03,824 - basicLogger - INFO - Stored match_history event (trace_id: e43b529b-9877-436c-bc41-9ce1b8c73b19)
+2026-04-08 09:33:03,898 - basicLogger - INFO - Stored match_history event (trace_id: d3e709d4-ac23-4920-8de9-0d22c33a3f2b)
+2026-04-08 09:33:03,902 - basicLogger - INFO - Stored match_history event (trace_id: d3e709d4-ac23-4920-8de9-0d22c33a3f2b)
+2026-04-08 09:33:04,001 - basicLogger - INFO - Stored match_history event (trace_id: 9a2199d0-ff73-48c5-abb9-8e871c3ca47d)
+2026-04-08 09:33:04,004 - basicLogger - INFO - Stored match_history event (trace_id: 9a2199d0-ff73-48c5-abb9-8e871c3ca47d)
+2026-04-08 09:33:04,070 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:33:04,080 - basicLogger - INFO - Returning 10 champion_winrate events
+2026-04-08 09:33:04,100 - basicLogger - INFO - Stored match_history event (trace_id: 4cd5c5b5-3e94-4282-b867-ab452c3f5b69)
+2026-04-08 09:33:04,104 - basicLogger - INFO - Stored match_history event (trace_id: 4cd5c5b5-3e94-4282-b867-ab452c3f5b69)
+2026-04-08 09:33:04,196 - basicLogger - INFO - Stored match_history event (trace_id: f1a6d0af-2262-4026-a2b1-d817a4e501b3)
+2026-04-08 09:33:04,200 - basicLogger - INFO - Stored match_history event (trace_id: f1a6d0af-2262-4026-a2b1-d817a4e501b3)
+2026-04-08 09:33:04,299 - basicLogger - INFO - Stored match_history event (trace_id: 7ba0cb43-6b67-43d0-b4b8-9992a5dd5b31)
+2026-04-08 09:33:04,302 - basicLogger - INFO - Stored match_history event (trace_id: 7ba0cb43-6b67-43d0-b4b8-9992a5dd5b31)
+2026-04-08 09:33:04,395 - basicLogger - INFO - Stored match_history event (trace_id: 6c67c5f6-07cb-44c8-b4f3-de0a5883e5d5)
+2026-04-08 09:33:04,398 - basicLogger - INFO - Stored match_history event (trace_id: 6c67c5f6-07cb-44c8-b4f3-de0a5883e5d5)
+2026-04-08 09:33:04,493 - basicLogger - INFO - Stored match_history event (trace_id: 240fb277-4c03-4fc5-8958-8f91a85eadd3)
+2026-04-08 09:33:04,496 - basicLogger - INFO - Stored match_history event (trace_id: 240fb277-4c03-4fc5-8958-8f91a85eadd3)
+2026-04-08 09:33:08,616 - basicLogger - INFO - Stored champion_winrate event (trace_id: 88d06116-587a-44a6-8bf7-749415fd5625)
+2026-04-08 09:33:08,619 - basicLogger - INFO - Stored champion_winrate event (trace_id: 88d06116-587a-44a6-8bf7-749415fd5625)
+2026-04-08 09:33:08,708 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5ca9a078-f530-4797-83b0-bf0f57bb8f91)
+2026-04-08 09:33:08,711 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5ca9a078-f530-4797-83b0-bf0f57bb8f91)
+2026-04-08 09:33:08,848 - basicLogger - INFO - Stored champion_winrate event (trace_id: 77ddad30-dc4c-4d61-9d6c-442b7a95af82)
+2026-04-08 09:33:08,851 - basicLogger - INFO - Stored champion_winrate event (trace_id: 77ddad30-dc4c-4d61-9d6c-442b7a95af82)
+2026-04-08 09:33:08,911 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4c8a0b02-63dc-46e1-81f2-9cfde3a04325)
+2026-04-08 09:33:08,915 - basicLogger - INFO - Stored champion_winrate event (trace_id: 4c8a0b02-63dc-46e1-81f2-9cfde3a04325)
+2026-04-08 09:33:09,009 - basicLogger - INFO - Stored champion_winrate event (trace_id: 036ae0a8-2e5b-4dd7-8ba5-8d8a06e15227)
+2026-04-08 09:33:09,012 - basicLogger - INFO - Stored champion_winrate event (trace_id: 036ae0a8-2e5b-4dd7-8ba5-8d8a06e15227)
+2026-04-08 09:33:09,071 - basicLogger - INFO - Returning 10 match_history events
+2026-04-08 09:33:09,080 - basicLogger - INFO - Returning 8 champion_winrate events
+2026-04-08 09:33:09,108 - basicLogger - INFO - Stored champion_winrate event (trace_id: fb5b0195-495e-41a8-9683-199d4f045328)
+2026-04-08 09:33:09,112 - basicLogger - INFO - Stored champion_winrate event (trace_id: fb5b0195-495e-41a8-9683-199d4f045328)
+2026-04-08 09:33:09,205 - basicLogger - INFO - Stored champion_winrate event (trace_id: 448cc42e-5f3a-47e8-ab60-7cb72ec5ac0b)
+2026-04-08 09:33:09,208 - basicLogger - INFO - Stored champion_winrate event (trace_id: 448cc42e-5f3a-47e8-ab60-7cb72ec5ac0b)
+2026-04-08 09:33:09,312 - basicLogger - INFO - Stored champion_winrate event (trace_id: a2a00e2e-ca78-4e21-87ce-a8fa6cb9167b)
+2026-04-08 09:33:09,315 - basicLogger - INFO - Stored champion_winrate event (trace_id: a2a00e2e-ca78-4e21-87ce-a8fa6cb9167b)
+2026-04-08 09:33:09,406 - basicLogger - INFO - Stored champion_winrate event (trace_id: d1b0985f-311a-4030-9058-52f99a3f9264)
+2026-04-08 09:33:09,409 - basicLogger - INFO - Stored champion_winrate event (trace_id: d1b0985f-311a-4030-9058-52f99a3f9264)
+2026-04-08 09:33:09,505 - basicLogger - INFO - Stored champion_winrate event (trace_id: c122afde-c36b-4073-ade7-de396e491956)
+2026-04-08 09:33:09,508 - basicLogger - INFO - Stored champion_winrate event (trace_id: c122afde-c36b-4073-ade7-de396e491956)
+2026-04-08 09:33:13,625 - basicLogger - INFO - Stored match_history event (trace_id: e1ce0a5b-a18b-41af-aa98-96be6d23ca47)
+2026-04-08 09:33:13,628 - basicLogger - INFO - Stored match_history event (trace_id: e1ce0a5b-a18b-41af-aa98-96be6d23ca47)
+2026-04-08 09:33:13,717 - basicLogger - INFO - Stored match_history event (trace_id: c40ed5ef-c2ac-4215-a89e-25274bb4e96c)
+2026-04-08 09:33:13,720 - basicLogger - INFO - Stored match_history event (trace_id: c40ed5ef-c2ac-4215-a89e-25274bb4e96c)
+2026-04-08 09:33:13,858 - basicLogger - INFO - Stored match_history event (trace_id: fca98139-c704-4efe-bbcb-92cf3c42445f)
+2026-04-08 09:33:13,861 - basicLogger - INFO - Stored match_history event (trace_id: fca98139-c704-4efe-bbcb-92cf3c42445f)
+2026-04-08 09:33:13,934 - basicLogger - INFO - Stored match_history event (trace_id: e72f6363-3c2f-440a-ab7c-481bfc6bfef5)
+2026-04-08 09:33:13,937 - basicLogger - INFO - Stored match_history event (trace_id: e72f6363-3c2f-440a-ab7c-481bfc6bfef5)
+2026-04-08 09:33:14,019 - basicLogger - INFO - Stored match_history event (trace_id: ab52fa3c-a69c-4f07-bd1e-6930fbefe84c)
+2026-04-08 09:33:14,022 - basicLogger - INFO - Stored match_history event (trace_id: ab52fa3c-a69c-4f07-bd1e-6930fbefe84c)
+2026-04-08 09:33:14,071 - basicLogger - INFO - Returning 8 match_history events
+2026-04-08 09:33:14,088 - basicLogger - INFO - Returning 12 champion_winrate events
+2026-04-08 09:33:14,118 - basicLogger - INFO - Stored match_history event (trace_id: a3802dc6-2424-497d-9d88-af0bcafde166)
+2026-04-08 09:33:14,121 - basicLogger - INFO - Stored match_history event (trace_id: a3802dc6-2424-497d-9d88-af0bcafde166)
+2026-04-08 09:33:14,216 - basicLogger - INFO - Stored match_history event (trace_id: 405f514a-1501-43b2-bc09-1537eaa3d062)
+2026-04-08 09:33:14,219 - basicLogger - INFO - Stored match_history event (trace_id: 405f514a-1501-43b2-bc09-1537eaa3d062)
+2026-04-08 09:33:14,318 - basicLogger - INFO - Stored match_history event (trace_id: b22ec59d-0c8e-47ba-a8f4-2a67a28b0bac)
+2026-04-08 09:33:14,322 - basicLogger - INFO - Stored match_history event (trace_id: b22ec59d-0c8e-47ba-a8f4-2a67a28b0bac)
+2026-04-08 09:33:14,416 - basicLogger - INFO - Stored match_history event (trace_id: 68495a73-a661-4750-8949-edccae053ddf)
+2026-04-08 09:33:14,419 - basicLogger - INFO - Stored match_history event (trace_id: 68495a73-a661-4750-8949-edccae053ddf)
+2026-04-08 09:33:14,513 - basicLogger - INFO - Stored match_history event (trace_id: 114d3e5b-6c01-4077-831c-f88b6c5ae090)
+2026-04-08 09:33:14,516 - basicLogger - INFO - Stored match_history event (trace_id: 114d3e5b-6c01-4077-831c-f88b6c5ae090)
+2026-04-08 09:33:18,637 - basicLogger - INFO - Stored champion_winrate event (trace_id: ef65e081-4399-4788-b983-f5bf5b709e3f)
+2026-04-08 09:33:18,640 - basicLogger - INFO - Stored champion_winrate event (trace_id: ef65e081-4399-4788-b983-f5bf5b709e3f)
+2026-04-08 09:33:18,728 - basicLogger - INFO - Stored champion_winrate event (trace_id: 72e29c0e-3e10-4771-9fc6-4f3b3164b4ca)
+2026-04-08 09:33:18,732 - basicLogger - INFO - Stored champion_winrate event (trace_id: 72e29c0e-3e10-4771-9fc6-4f3b3164b4ca)
+2026-04-08 09:33:18,868 - basicLogger - INFO - Stored champion_winrate event (trace_id: 904572c5-5c41-4831-b863-3616f1f36247)
+2026-04-08 09:33:18,869 - basicLogger - INFO - Stored champion_winrate event (trace_id: 904572c5-5c41-4831-b863-3616f1f36247)
+2026-04-08 09:33:18,945 - basicLogger - INFO - Stored champion_winrate event (trace_id: dc874fb3-fd7f-46b3-b869-95d25c3de483)
+2026-04-08 09:33:18,948 - basicLogger - INFO - Stored champion_winrate event (trace_id: dc874fb3-fd7f-46b3-b869-95d25c3de483)
+2026-04-08 09:33:19,029 - basicLogger - INFO - Stored champion_winrate event (trace_id: ee22886b-b42b-4ef7-8733-7d69268d4ce1)
+2026-04-08 09:33:19,032 - basicLogger - INFO - Stored champion_winrate event (trace_id: ee22886b-b42b-4ef7-8733-7d69268d4ce1)
+2026-04-08 09:33:19,072 - basicLogger - INFO - Returning 12 match_history events
+2026-04-08 09:33:19,081 - basicLogger - INFO - Returning 8 champion_winrate events
+2026-04-08 09:33:19,128 - basicLogger - INFO - Stored champion_winrate event (trace_id: 27fd615f-9c57-4eff-909b-e5f30500a2d2)
+2026-04-08 09:33:19,131 - basicLogger - INFO - Stored champion_winrate event (trace_id: 27fd615f-9c57-4eff-909b-e5f30500a2d2)
+2026-04-08 09:33:19,225 - basicLogger - INFO - Stored champion_winrate event (trace_id: 63f638f0-a7db-4a7c-b390-04175e6e4f5f)
+2026-04-08 09:33:19,228 - basicLogger - INFO - Stored champion_winrate event (trace_id: 63f638f0-a7db-4a7c-b390-04175e6e4f5f)
+2026-04-08 09:33:19,326 - basicLogger - INFO - Stored champion_winrate event (trace_id: edc3fec5-6b4a-4ea7-b156-8d1ab64c3c67)
+2026-04-08 09:33:19,330 - basicLogger - INFO - Stored champion_winrate event (trace_id: edc3fec5-6b4a-4ea7-b156-8d1ab64c3c67)
+2026-04-08 09:33:19,425 - basicLogger - INFO - Stored champion_winrate event (trace_id: ec2492a6-f4e7-4c1f-8be8-501025d2ad16)
+2026-04-08 09:33:19,427 - basicLogger - INFO - Stored champion_winrate event (trace_id: ec2492a6-f4e7-4c1f-8be8-501025d2ad16)
+2026-04-08 09:33:19,521 - basicLogger - INFO - Stored champion_winrate event (trace_id: 1fa406ce-2602-405c-816a-9bb653ea58c4)
+2026-04-08 09:33:19,528 - basicLogger - INFO - Stored champion_winrate event (trace_id: 1fa406ce-2602-405c-816a-9bb653ea58c4)
+2026-04-08 09:33:23,645 - basicLogger - INFO - Stored match_history event (trace_id: 59bef43b-805b-4c16-b58c-7e1d776f4fa6)
+2026-04-08 09:33:23,648 - basicLogger - INFO - Stored match_history event (trace_id: 59bef43b-805b-4c16-b58c-7e1d776f4fa6)
+2026-04-08 09:33:23,737 - basicLogger - INFO - Stored match_history event (trace_id: 5b6a5d49-b157-4c9a-a136-8d06a598964f)
+2026-04-08 09:33:23,740 - basicLogger - INFO - Stored match_history event (trace_id: 5b6a5d49-b157-4c9a-a136-8d06a598964f)
+2026-04-08 09:33:23,883 - basicLogger - INFO - Stored match_history event (trace_id: a9a4b03a-594f-47ef-a584-8cd3df673c3b)
+2026-04-08 09:33:23,886 - basicLogger - INFO - Stored match_history event (trace_id: a9a4b03a-594f-47ef-a584-8cd3df673c3b)
+2026-04-08 09:33:23,956 - basicLogger - INFO - Stored match_history event (trace_id: d5c5b7f2-ada1-46e6-b71b-c4c29cde8b61)
+2026-04-08 09:33:23,959 - basicLogger - INFO - Stored match_history event (trace_id: d5c5b7f2-ada1-46e6-b71b-c4c29cde8b61)
+2026-04-08 09:33:24,038 - basicLogger - INFO - Stored match_history event (trace_id: e7967695-d17e-4534-9884-dfaf47718bcb)
+2026-04-08 09:33:24,041 - basicLogger - INFO - Stored match_history event (trace_id: e7967695-d17e-4534-9884-dfaf47718bcb)
+2026-04-08 09:33:24,071 - basicLogger - INFO - Returning 8 match_history events
+2026-04-08 09:33:24,079 - basicLogger - INFO - Returning 12 champion_winrate events
+2026-04-08 09:33:24,137 - basicLogger - INFO - Stored match_history event (trace_id: 5aec2de6-a0ad-49d2-b53e-3083dbcfedf0)
+2026-04-08 09:33:24,140 - basicLogger - INFO - Stored match_history event (trace_id: 5aec2de6-a0ad-49d2-b53e-3083dbcfedf0)
+2026-04-08 09:33:24,233 - basicLogger - INFO - Stored match_history event (trace_id: 62057e69-9dfc-4f4f-9754-614ea4f51a14)
+2026-04-08 09:33:24,239 - basicLogger - INFO - Stored match_history event (trace_id: 62057e69-9dfc-4f4f-9754-614ea4f51a14)
+2026-04-08 09:33:24,336 - basicLogger - INFO - Stored match_history event (trace_id: 0cbef180-7bcc-4441-ab54-692f14987724)
+2026-04-08 09:33:24,340 - basicLogger - INFO - Stored match_history event (trace_id: 0cbef180-7bcc-4441-ab54-692f14987724)
+2026-04-08 09:33:24,436 - basicLogger - INFO - Stored match_history event (trace_id: 0d3c3b65-6e9d-46ba-bf39-4f0b7dffad12)
+2026-04-08 09:33:24,439 - basicLogger - INFO - Stored match_history event (trace_id: 0d3c3b65-6e9d-46ba-bf39-4f0b7dffad12)
+2026-04-08 09:33:24,532 - basicLogger - INFO - Stored match_history event (trace_id: bd9e6759-4926-431f-994d-49d0f7a8d08b)
+2026-04-08 09:33:24,534 - basicLogger - INFO - Stored match_history event (trace_id: bd9e6759-4926-431f-994d-49d0f7a8d08b)
+2026-04-08 09:33:28,653 - basicLogger - INFO - Stored champion_winrate event (trace_id: b4e676ca-59b1-4f2d-a6d6-ab907e900db7)
+2026-04-08 09:33:28,657 - basicLogger - INFO - Stored champion_winrate event (trace_id: b4e676ca-59b1-4f2d-a6d6-ab907e900db7)
+2026-04-08 09:33:28,776 - basicLogger - INFO - Stored champion_winrate event (trace_id: cb223d40-fd59-4193-a4a7-87b991375a55)
+2026-04-08 09:33:28,779 - basicLogger - INFO - Stored champion_winrate event (trace_id: cb223d40-fd59-4193-a4a7-87b991375a55)
+2026-04-08 09:33:28,898 - basicLogger - INFO - Stored champion_winrate event (trace_id: 1e7ee957-b7e9-4b15-808e-7ac067efedfa)
+2026-04-08 09:33:28,902 - basicLogger - INFO - Stored champion_winrate event (trace_id: 1e7ee957-b7e9-4b15-808e-7ac067efedfa)
+2026-04-08 09:33:28,966 - basicLogger - INFO - Stored champion_winrate event (trace_id: a8b73aa3-b2b9-497d-b330-639e149e220d)
+2026-04-08 09:33:28,969 - basicLogger - INFO - Stored champion_winrate event (trace_id: a8b73aa3-b2b9-497d-b330-639e149e220d)
+2026-04-08 09:33:29,049 - basicLogger - INFO - Stored champion_winrate event (trace_id: 116c2c02-3130-40f0-92fc-7e34c0c57f7e)
+2026-04-08 09:33:29,053 - basicLogger - INFO - Stored champion_winrate event (trace_id: 116c2c02-3130-40f0-92fc-7e34c0c57f7e)
+2026-04-08 09:33:29,071 - basicLogger - INFO - Returning 12 match_history events
+2026-04-08 09:33:29,079 - basicLogger - INFO - Returning 8 champion_winrate events
+2026-04-08 09:33:29,147 - basicLogger - INFO - Stored champion_winrate event (trace_id: 737c4327-64cb-4a16-beef-39a5f9ccf492)
+2026-04-08 09:33:29,150 - basicLogger - INFO - Stored champion_winrate event (trace_id: 737c4327-64cb-4a16-beef-39a5f9ccf492)
+2026-04-08 09:33:29,244 - basicLogger - INFO - Stored champion_winrate event (trace_id: 3117261c-4974-43e5-804c-621e2acc0ac7)
+2026-04-08 09:33:29,247 - basicLogger - INFO - Stored champion_winrate event (trace_id: 3117261c-4974-43e5-804c-621e2acc0ac7)
+2026-04-08 09:33:29,346 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5db14619-6efe-4970-b7ed-308100a2d336)
+2026-04-08 09:33:29,350 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5db14619-6efe-4970-b7ed-308100a2d336)
+2026-04-08 09:33:29,440 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5a5511d4-dfb0-4d43-856a-87a72f3ed581)
+2026-04-08 09:33:29,443 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5a5511d4-dfb0-4d43-856a-87a72f3ed581)
+2026-04-08 09:33:29,537 - basicLogger - INFO - Stored champion_winrate event (trace_id: d1bd3e74-0f04-4155-ad54-43074dca1391)
+2026-04-08 09:33:29,539 - basicLogger - INFO - Stored champion_winrate event (trace_id: d1bd3e74-0f04-4155-ad54-43074dca1391)
+2026-04-08 09:33:33,658 - basicLogger - INFO - Stored match_history event (trace_id: 6526e639-0964-4794-bb00-f1c7df782ce9)
+2026-04-08 09:33:33,661 - basicLogger - INFO - Stored match_history event (trace_id: 6526e639-0964-4794-bb00-f1c7df782ce9)
+2026-04-08 09:33:33,782 - basicLogger - INFO - Stored match_history event (trace_id: 17025c19-5533-4222-b0a4-cec53a65e0f6)
+2026-04-08 09:33:33,785 - basicLogger - INFO - Stored match_history event (trace_id: 17025c19-5533-4222-b0a4-cec53a65e0f6)
+2026-04-08 09:33:33,906 - basicLogger - INFO - Stored match_history event (trace_id: a1ee006a-f280-4d58-ae80-5cd3f4a5dcd6)
+2026-04-08 09:33:33,911 - basicLogger - INFO - Stored match_history event (trace_id: a1ee006a-f280-4d58-ae80-5cd3f4a5dcd6)
+2026-04-08 09:33:33,970 - basicLogger - INFO - Stored match_history event (trace_id: 9f8e23ce-b0a4-430d-8b63-16cd0e7f7d06)
+2026-04-08 09:33:33,973 - basicLogger - INFO - Stored match_history event (trace_id: 9f8e23ce-b0a4-430d-8b63-16cd0e7f7d06)
+2026-04-08 09:33:34,053 - basicLogger - INFO - Stored match_history event (trace_id: 9acb4fd2-ca3a-439b-89b4-12f3dcc2f764)
+2026-04-08 09:33:34,056 - basicLogger - INFO - Stored match_history event (trace_id: 9acb4fd2-ca3a-439b-89b4-12f3dcc2f764)
+2026-04-08 09:33:34,071 - basicLogger - INFO - Returning 8 match_history events
+2026-04-08 09:33:34,079 - basicLogger - INFO - Returning 12 champion_winrate events
+2026-04-08 09:33:34,151 - basicLogger - INFO - Stored match_history event (trace_id: 898bc1ba-f05c-476b-9c8c-99d4583b5fea)
+2026-04-08 09:33:34,154 - basicLogger - INFO - Stored match_history event (trace_id: 898bc1ba-f05c-476b-9c8c-99d4583b5fea)
+2026-04-08 09:33:34,247 - basicLogger - INFO - Stored match_history event (trace_id: 017d2f61-e19d-421b-aaa7-3f176e4787a8)
+2026-04-08 09:33:34,252 - basicLogger - INFO - Stored match_history event (trace_id: 017d2f61-e19d-421b-aaa7-3f176e4787a8)
+2026-04-08 09:33:34,348 - basicLogger - INFO - Stored match_history event (trace_id: 84f16ee5-31c4-4b54-93a8-67e9dcb6533b)
+2026-04-08 09:33:34,351 - basicLogger - INFO - Stored match_history event (trace_id: 84f16ee5-31c4-4b54-93a8-67e9dcb6533b)
+2026-04-08 09:33:34,450 - basicLogger - INFO - Stored match_history event (trace_id: 6c4ae813-d223-44ab-a9fd-21488f952da2)
+2026-04-08 09:33:34,453 - basicLogger - INFO - Stored match_history event (trace_id: 6c4ae813-d223-44ab-a9fd-21488f952da2)
+2026-04-08 09:33:34,548 - basicLogger - INFO - Stored match_history event (trace_id: acb7b0a5-c097-4172-abcc-8ccb354775e2)
+2026-04-08 09:33:34,549 - basicLogger - INFO - Stored match_history event (trace_id: acb7b0a5-c097-4172-abcc-8ccb354775e2)
+2026-04-08 09:33:38,671 - basicLogger - INFO - Stored champion_winrate event (trace_id: fb4f3380-ab39-48ee-8b34-a180a117bfbd)
+2026-04-08 09:33:38,674 - basicLogger - INFO - Stored champion_winrate event (trace_id: fb4f3380-ab39-48ee-8b34-a180a117bfbd)
+2026-04-08 09:33:38,795 - basicLogger - INFO - Stored champion_winrate event (trace_id: 851773fb-a22c-4212-9dcb-560b77b6f0c1)
+2026-04-08 09:33:38,803 - basicLogger - INFO - Stored champion_winrate event (trace_id: 851773fb-a22c-4212-9dcb-560b77b6f0c1)
+2026-04-08 09:33:38,917 - basicLogger - INFO - Stored champion_winrate event (trace_id: fadbd462-f3ca-4c5b-b19a-2b5dc459b548)
+2026-04-08 09:33:38,924 - basicLogger - INFO - Stored champion_winrate event (trace_id: fadbd462-f3ca-4c5b-b19a-2b5dc459b548)
+2026-04-08 09:33:38,981 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5d4c36d7-80b8-4ce2-b920-48c08982774b)
+2026-04-08 09:33:38,985 - basicLogger - INFO - Stored champion_winrate event (trace_id: 5d4c36d7-80b8-4ce2-b920-48c08982774b)
+2026-04-08 09:33:39,064 - basicLogger - INFO - Stored champion_winrate event (trace_id: b84aa293-86ca-44f1-a4e0-678f2df9c89e)
+2026-04-08 09:33:39,071 - basicLogger - INFO - Stored champion_winrate event (trace_id: b84aa293-86ca-44f1-a4e0-678f2df9c89e)
+2026-04-08 09:33:39,072 - basicLogger - INFO - Returning 12 match_history events
+2026-04-08 09:33:39,095 - basicLogger - INFO - Returning 8 champion_winrate events
+2026-04-08 09:33:39,162 - basicLogger - INFO - Stored champion_winrate event (trace_id: 19dd8be9-6103-4fed-8acb-232eeb51ee13)
+2026-04-08 09:33:39,165 - basicLogger - INFO - Stored champion_winrate event (trace_id: 19dd8be9-6103-4fed-8acb-232eeb51ee13)
+2026-04-08 09:33:39,257 - basicLogger - INFO - Stored champion_winrate event (trace_id: c355fe36-07dd-425e-9ada-df23ec4fcf9f)
+2026-04-08 09:33:39,260 - basicLogger - INFO - Stored champion_winrate event (trace_id: c355fe36-07dd-425e-9ada-df23ec4fcf9f)
+2026-04-08 09:33:39,358 - basicLogger - INFO - Stored champion_winrate event (trace_id: cee8da18-76d9-459e-9856-c47e2b89859f)
+2026-04-08 09:33:39,361 - basicLogger - INFO - Stored champion_winrate event (trace_id: cee8da18-76d9-459e-9856-c47e2b89859f)
+2026-04-08 09:33:39,459 - basicLogger - INFO - Stored champion_winrate event (trace_id: 24863364-de9a-41bc-bdfd-d253c7522b34)
+2026-04-08 09:33:39,463 - basicLogger - INFO - Stored champion_winrate event (trace_id: 24863364-de9a-41bc-bdfd-d253c7522b34)
+2026-04-08 09:33:39,556 - basicLogger - INFO - Stored champion_winrate event (trace_id: d279f22b-1f13-4b25-bce8-a3c8052c599b)
+2026-04-08 09:33:39,559 - basicLogger - INFO - Stored champion_winrate event (trace_id: d279f22b-1f13-4b25-bce8-a3c8052c599b)
+2026-04-08 09:33:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:33:44,081 - basicLogger - INFO - Returning 12 champion_winrate events
+2026-04-08 09:33:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:33:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:33:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:33:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:33:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:33:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:04,077 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:04,099 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:09,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:09,083 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:24,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:29,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:44,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:44,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:54,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:34:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:34:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:19,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:44,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:35:59,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:35:59,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:09,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:19,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:34,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:39,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:49,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:49,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:54,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:36:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:36:59,094 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:04,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:14,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:19,075 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:19,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:24,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:29,077 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:29,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:34,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:39,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:39,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:49,077 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:49,097 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:37:59,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:37:59,083 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:09,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:09,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:14,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:19,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:19,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:29,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:29,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:39,076 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:39,104 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:44,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:49,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:49,083 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:54,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:38:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:38:59,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:04,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:09,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:19,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:24,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:29,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:54,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:39:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:39:59,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:04,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:04,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:19,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:24,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:24,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:34,077 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:34,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:44,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:40:59,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:40:59,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:09,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:34,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:41:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:41:59,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:19,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:24,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:34,081 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:34,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:49,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:42:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:42:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:14,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:24,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:39,096 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:44,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:49,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:43:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:43:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:04,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:29,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:44,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:54,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:44:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:44:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:19,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:19,090 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:44,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:49,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:49,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:45:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:45:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:09,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:29,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:34,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:34,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:49,076 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:49,090 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:54,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:46:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:46:59,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:24,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:44,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:49,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:47:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:47:59,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:09,076 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:09,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:14,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:29,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:39,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:39,095 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:54,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:54,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:48:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:48:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:04,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:04,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:29,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:54,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:49:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:49:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:19,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:24,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:24,084 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:34,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:44,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:50:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:50:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:09,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:24,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:34,070 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:34,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:49,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:51:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:51:59,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:24,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:49,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:54,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:52:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:52:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:04,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:04,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:14,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:14,091 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:19,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:19,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:34,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:39,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:39,096 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:53:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:53:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:04,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:29,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:54,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:54:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:54:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:19,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:44,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:55:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:55:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:09,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:14,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:19,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:24,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:29,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:34,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:34,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:56:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:56:59,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:19,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:24,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:49,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:57:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:57:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:14,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:29,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:29,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:39,094 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:58:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:58:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:04,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:04,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:09,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:29,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:44,075 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:44,083 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:49,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:49,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:54,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 09:59:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 09:59:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:19,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:29,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:34,078 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:44,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:54,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:00:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:00:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:09,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:34,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:01:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:01:59,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:14,075 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:14,085 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:24,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:49,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:54,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:02:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:02:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:14,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:24,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:29,074 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:29,083 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:39,099 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:54,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:03:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:03:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:04,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:19,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:29,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:54,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:04:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:04:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:19,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:24,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:24,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:44,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:54,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:05:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:05:59,082 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:09,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:24,077 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:24,091 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:34,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:39,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:06:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:06:59,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:09,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:14,079 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:14,088 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:24,073 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:24,089 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:49,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:07:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:07:59,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:14,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:29,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:39,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:39,096 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:54,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:54,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:08:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:08:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:04,070 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:04,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:29,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:34,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:34,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:44,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:49,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:54,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:09:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:09:59,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:14,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:19,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:29,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:34,078 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:44,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:49,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:54,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:10:59,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:10:59,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:04,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:09,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:09,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:14,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:19,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:24,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:24,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:29,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:34,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:39,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:39,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:44,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:44,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:49,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:49,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:54,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:54,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:11:59,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:11:59,090 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:04,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:04,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:09,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:09,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:14,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:14,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:19,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:19,080 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:24,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:24,087 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:29,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:29,081 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:34,071 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:34,079 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:39,075 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:39,086 - basicLogger - INFO - Returning 0 champion_winrate events
+2026-04-08 10:12:44,072 - basicLogger - INFO - Returning 0 match_history events
+2026-04-08 10:12:44,080 - basicLogger - INFO - Returning 0 champion_winrate events
