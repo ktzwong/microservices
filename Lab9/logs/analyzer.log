@@ -1,0 +1,30 @@
+2026-04-08 08:50:52,061 - basicLogger - INFO - Get request for stats
+2026-04-08 08:50:53,097 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 20}
+2026-04-08 08:50:59,190 - basicLogger - INFO - Get request for stats
+2026-04-08 08:51:00,200 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 20}
+2026-04-08 08:51:10,659 - basicLogger - INFO - Get request for stats
+2026-04-08 08:51:12,321 - basicLogger - INFO - Returning stats: {'num_match_history': 40, 'num_champion_winrate': 40}
+2026-04-08 08:53:03,741 - basicLogger - INFO - Get request for stats
+2026-04-08 08:53:04,784 - basicLogger - INFO - Returning stats: {'num_match_history': 160, 'num_champion_winrate': 140}
+2026-04-08 08:55:11,816 - basicLogger - INFO - Get request for stats
+2026-04-08 08:55:12,871 - basicLogger - INFO - Returning stats: {'num_match_history': 230, 'num_champion_winrate': 220}
+2026-04-08 09:00:11,807 - basicLogger - INFO - Get request for stats
+2026-04-08 09:00:12,840 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 10}
+2026-04-08 09:00:13,964 - basicLogger - INFO - Get request for stats
+2026-04-08 09:00:16,044 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 10}
+2026-04-08 09:02:41,721 - basicLogger - INFO - Get request for stats
+2026-04-08 09:02:43,517 - basicLogger - INFO - Returning stats: {'num_match_history': 110, 'num_champion_winrate': 110}
+2026-04-08 09:03:34,854 - basicLogger - INFO - Get request for stats
+2026-04-08 09:03:35,895 - basicLogger - INFO - Returning stats: {'num_match_history': 160, 'num_champion_winrate': 160}
+2026-04-08 09:04:08,173 - basicLogger - INFO - Get request for stats
+2026-04-08 09:04:09,221 - basicLogger - INFO - Returning stats: {'num_match_history': 200, 'num_champion_winrate': 190}
+2026-04-08 09:07:43,389 - basicLogger - INFO - Get request for stats
+2026-04-08 09:07:44,445 - basicLogger - INFO - Returning stats: {'num_match_history': 230, 'num_champion_winrate': 230}
+2026-04-08 09:13:34,553 - basicLogger - INFO - Get request for stats
+2026-04-08 09:13:35,578 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-08 09:16:49,194 - basicLogger - INFO - Get request for stats
+2026-04-08 09:16:50,238 - basicLogger - INFO - Returning stats: {'num_match_history': 50, 'num_champion_winrate': 40}
+2026-04-08 09:19:43,637 - basicLogger - INFO - Get request for stats
+2026-04-08 09:19:44,668 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-08 09:23:47,055 - basicLogger - INFO - Get request for stats
+2026-04-08 09:23:48,114 - basicLogger - INFO - Returning stats: {'num_match_history': 220, 'num_champion_winrate': 210}
