@@ -1,0 +1,12 @@
+League of Legends API System
+
+This system receives user match history as well as global champion win rates related to League of Lgends gameplay. The system is designed to replicate 3rd party analysis platforms that store and analyze large sets of data.
+
+1.Match History: Includes user_id,  matches, reporting_timestamp, Region
+	Each batch represents any number of matches from the client
+
+2.Global_champion_winrates: Includes match_id, champion_id, kills, deaths, win
+	Each batch represents the win rate at a point in time for each champion
+
+During peak volumes, it is expected to receive anywhere between 50-200 batch events per hour.
+The intended users are users who would like their match history analyzed as well analyzing global win rates of champions to find out who has the highest win rates

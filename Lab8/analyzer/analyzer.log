@@ -1,0 +1,10 @@
+2026-04-02 09:34:06,863 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-02 09:34:06,931 - basicLogger - INFO - Found match_history at index 0
+2026-04-02 09:34:07,836 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-02 09:34:07,892 - basicLogger - INFO - Found match_history at index 0
+2026-04-02 09:34:21,548 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-02 09:34:21,604 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-02 09:34:51,363 - basicLogger - INFO - Get request for stats
+2026-04-02 09:34:52,424 - basicLogger - INFO - Sending stats
+2026-04-02 09:45:36,708 - basicLogger - INFO - Get request for stats
+2026-04-02 09:45:37,768 - basicLogger - INFO - Sending stats
