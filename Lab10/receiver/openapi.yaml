@@ -1,0 +1,131 @@
+openapi: 3.0.3
+info:
+  version: 1.0.0
+  title: League API
+  description: 
+    This API recieve user match history data as well as general champion win rate data
+
+paths:
+  /league/match_history:
+    post:
+      summary: receives batch of match history from a user
+      operationId: app.report_match_history
+      description: adds a batch of a users' match history
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MatchHistoryBatch'
+      responses:
+        '201':
+          description: batch successfully received
+        '400':
+          description: 'invalid input, object invalid'
+
+  /league/global_champion_winrates:
+    post:
+      summary: Receive a batch of champion win rate statistics from a region
+      operationId: app.report_global_champion_winrates
+      description: adds a batch of champion data to determine its winrate globally
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ChampionGlobalWinRateBatch'
+      responses:
+        '201':
+          description: Champion batch successfully received
+        '400':
+          description: Invalid input
+
+components:
+  schemas:
+    MatchHistoryBatch:
+      required:
+        - user_id
+        - matches
+        - reporting_timestamp
+        - Region
+      properties:
+        user_id:
+          type: string
+          example: "d290f1ee-6c54-4b01-90e6-d701748f0851"
+        reporting_timestamp:
+          type: string
+          format: date-time
+          example: "2026-01-13T04:12:33Z"
+        Region:
+          type: string
+          example: "NA"
+        matches:
+          type: array
+          items:
+            $ref: '#/components/schemas/MatchItem'
+      type: object
+
+    MatchItem:
+      required:
+        - match_id
+        - champion_id
+        - kills
+        - deaths
+        - win
+      properties:
+        match_id:
+          type: string
+          example: "NA1_1234567890"
+        champion_id:
+          type: integer
+          example: 172
+        kills:
+          type: integer
+          example: 10
+        deaths:
+          type: integer
+          example: 2
+        win:
+          type: boolean
+          example: true
+      type: object
+
+    ChampionGlobalWinRateBatch:
+      required:
+        - source_id
+        - reporting_timestamp
+        - champion_stats
+        - patch_version
+      properties:
+        source_id:
+          type: string
+          example: "opgg-service"
+          description: web app sends the information of the batch
+        reporting_timestamp:
+          type: string
+          format: date-time
+          example: "2026-01-13T04:30:00Z"
+          description: Timestamp when the batch was sent.
+        Region:
+          type: string
+          example: "NA"
+        patch_version:
+          type: string
+          example: "16.1"
+        champion_stats:
+          type: array
+          items:
+            $ref: '#/components/schemas/ChampionGlobalWinRateItem'
+      type: object
+
+    ChampionGlobalWinRateItem:
+      required:
+        - champion_id
+        - games_played
+        - win_rate
+      properties:
+        champion_id:
+          type: integer
+        games_played:
+          type: integer
+        win_rate:
+          type: number
+      type: object

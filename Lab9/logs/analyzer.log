@@ -32,3 +32,9 @@
 2026-04-08 09:27:25,155 - basicLogger - INFO - Returning stats: {'num_match_history': 120, 'num_champion_winrate': 120}
 2026-04-08 09:32:15,928 - basicLogger - INFO - Get request for stats
 2026-04-08 09:32:16,979 - basicLogger - INFO - Returning stats: {'num_match_history': 210, 'num_champion_winrate': 200}
+2026-04-08 17:26:34,023 - basicLogger - INFO - Get request for stats
+2026-04-08 17:26:34,029 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-08 17:26:34,034 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-08 17:26:35,138 - basicLogger - INFO - No match_history event at index 0
+2026-04-08 17:26:35,139 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-08 17:26:35,141 - basicLogger - INFO - No champion_winrate event at index 0
