@@ -992,3 +992,1789 @@
 2026-04-08 17:09:58,569 - basicLogger - INFO - Found match_history at index 0
 2026-04-08 17:09:58,572 - basicLogger - INFO - Found champion_winrate at index 0
 2026-04-08 17:09:59,595 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:11:19,090 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:19,094 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:19,094 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:20,111 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 17:11:20,113 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 17:11:20,113 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 17:11:23,094 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:23,096 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:23,096 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:24,115 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 17:11:24,115 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 17:11:24,116 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 17:11:28,536 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:28,538 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:28,538 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:29,555 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 17:11:29,556 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 17:11:29,556 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 17:11:32,648 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:32,650 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:32,650 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:33,661 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 17:11:33,662 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 17:11:33,663 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 17:11:36,515 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:36,520 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:36,523 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:36,559 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:11:38,244 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 17:11:38,244 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 0}
+2026-04-15 17:11:40,347 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:40,349 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:40,349 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:40,362 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:11:41,363 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 0}
+2026-04-15 17:11:41,364 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 17:11:44,019 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:44,021 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:44,021 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:44,034 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:11:44,038 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:11:45,038 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 10}
+2026-04-15 17:11:47,798 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:47,799 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:47,800 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:47,816 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:11:47,820 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:11:48,821 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 10}
+2026-04-15 17:11:51,522 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:51,523 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:51,523 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:51,538 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:11:51,542 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:11:53,271 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 20}
+2026-04-15 17:11:55,346 - basicLogger - INFO - Get request for stats
+2026-04-15 17:11:55,348 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:11:55,348 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:11:55,363 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:11:55,366 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:11:57,327 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 20}
+2026-04-15 17:12:00,049 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:00,049 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:00,049 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:00,063 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:00,066 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:01,071 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 20}
+2026-04-15 17:12:03,755 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:03,757 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:03,757 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:03,771 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:03,776 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:04,780 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 30}
+2026-04-15 17:12:07,665 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:07,667 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:07,667 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:07,682 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:07,686 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:09,254 - basicLogger - INFO - Returning stats: {'num_match_history': 40, 'num_champion_winrate': 30}
+2026-04-15 17:12:11,554 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:11,556 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:11,556 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:11,570 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:11,574 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:14,267 - basicLogger - INFO - Returning stats: {'num_match_history': 40, 'num_champion_winrate': 40}
+2026-04-15 17:12:15,716 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:15,718 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:15,718 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:15,738 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:15,739 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:16,749 - basicLogger - INFO - Returning stats: {'num_match_history': 40, 'num_champion_winrate': 40}
+2026-04-15 17:12:21,120 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:21,123 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:21,125 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:21,138 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:21,146 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:22,149 - basicLogger - INFO - Returning stats: {'num_match_history': 50, 'num_champion_winrate': 40}
+2026-04-15 17:12:25,210 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:25,212 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:25,212 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:25,230 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:25,230 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:26,240 - basicLogger - INFO - Returning stats: {'num_match_history': 50, 'num_champion_winrate': 50}
+2026-04-15 17:12:29,343 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:29,345 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:29,345 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:29,363 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:29,364 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:30,372 - basicLogger - INFO - Returning stats: {'num_match_history': 60, 'num_champion_winrate': 50}
+2026-04-15 17:12:33,009 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:33,010 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:33,011 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:33,024 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:33,029 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:34,363 - basicLogger - INFO - Returning stats: {'num_match_history': 60, 'num_champion_winrate': 60}
+2026-04-15 17:12:36,679 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:36,680 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:36,681 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:36,694 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:36,697 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:39,372 - basicLogger - INFO - Returning stats: {'num_match_history': 70, 'num_champion_winrate': 60}
+2026-04-15 17:12:40,431 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:40,432 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:40,433 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:40,447 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:40,451 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:41,462 - basicLogger - INFO - Returning stats: {'num_match_history': 70, 'num_champion_winrate': 60}
+2026-04-15 17:12:44,327 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:44,329 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:44,329 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:44,346 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:44,348 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:45,361 - basicLogger - INFO - Returning stats: {'num_match_history': 70, 'num_champion_winrate': 70}
+2026-04-15 17:12:48,318 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:48,319 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:48,319 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:48,337 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:48,339 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:49,391 - basicLogger - INFO - Returning stats: {'num_match_history': 80, 'num_champion_winrate': 70}
+2026-04-15 17:12:52,333 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:52,335 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:52,335 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:52,352 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:52,354 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:12:54,401 - basicLogger - INFO - Returning stats: {'num_match_history': 80, 'num_champion_winrate': 80}
+2026-04-15 17:12:56,627 - basicLogger - INFO - Get request for stats
+2026-04-15 17:12:56,628 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:12:56,628 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:12:56,645 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:12:56,649 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:00,158 - basicLogger - INFO - Returning stats: {'num_match_history': 90, 'num_champion_winrate': 80}
+2026-04-15 17:13:01,272 - basicLogger - INFO - Get request for stats
+2026-04-15 17:13:01,274 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:13:01,274 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:13:01,290 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:13:01,293 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:02,309 - basicLogger - INFO - Returning stats: {'num_match_history': 90, 'num_champion_winrate': 80}
+2026-04-15 17:13:05,273 - basicLogger - INFO - Get request for stats
+2026-04-15 17:13:05,275 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:13:05,275 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:13:05,292 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:13:05,296 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:06,311 - basicLogger - INFO - Returning stats: {'num_match_history': 90, 'num_champion_winrate': 90}
+2026-04-15 17:13:09,260 - basicLogger - INFO - Get request for stats
+2026-04-15 17:13:09,263 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:13:09,263 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:13:09,280 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:09,280 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:13:10,298 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 90}
+2026-04-15 17:13:12,993 - basicLogger - INFO - Get request for stats
+2026-04-15 17:13:12,994 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:13:12,995 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:13:13,011 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:13:13,012 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:15,184 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:13:16,660 - basicLogger - INFO - Get request for stats
+2026-04-15 17:13:16,661 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:13:16,662 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:13:16,679 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:13:16,681 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:17,700 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:13:56,481 - basicLogger - INFO - Get request for stats
+2026-04-15 17:13:56,482 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:13:56,484 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:13:56,501 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:13:56,503 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:13:57,521 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:14:56,644 - basicLogger - INFO - Get request for stats
+2026-04-15 17:14:56,646 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:14:56,647 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:14:56,663 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:14:56,666 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:14:57,683 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:15:56,661 - basicLogger - INFO - Get request for stats
+2026-04-15 17:15:56,663 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:15:56,664 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:15:56,681 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:15:56,682 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:15:57,701 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:16:56,706 - basicLogger - INFO - Get request for stats
+2026-04-15 17:16:56,707 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:16:56,709 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:16:56,724 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:16:56,727 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:16:57,746 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:17:56,706 - basicLogger - INFO - Get request for stats
+2026-04-15 17:17:56,707 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:17:56,708 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:17:56,725 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:17:56,728 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:17:57,745 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 17:18:56,767 - basicLogger - INFO - Get request for stats
+2026-04-15 17:18:56,769 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 17:18:56,769 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 17:18:56,784 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 17:18:56,788 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 17:18:57,806 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:46:51,270 - basicLogger - INFO - Get request for stats
+2026-04-15 18:46:51,274 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:46:51,274 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:46:52,289 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 18:46:52,291 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 18:46:52,292 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 18:46:55,114 - basicLogger - INFO - Get request for stats
+2026-04-15 18:46:55,115 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:46:55,115 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:46:56,133 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 18:46:56,134 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 18:46:56,134 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 18:46:56,854 - basicLogger - INFO - Get request for stats
+2026-04-15 18:46:56,856 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:46:56,856 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:46:57,868 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 18:46:57,870 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 18:46:57,871 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 18:46:58,963 - basicLogger - INFO - Get request for stats
+2026-04-15 18:46:58,965 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:46:58,965 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:46:59,978 - basicLogger - INFO - No match_history event at index 0
+2026-04-15 18:46:59,978 - basicLogger - INFO - Returning stats: {'num_match_history': 0, 'num_champion_winrate': 0}
+2026-04-15 18:46:59,979 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 18:47:02,813 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:02,815 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:02,815 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:02,833 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:03,896 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 0}
+2026-04-15 18:47:03,897 - basicLogger - INFO - No champion_winrate event at index 0
+2026-04-15 18:47:06,655 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:06,657 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:06,657 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:06,671 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:07,067 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:08,907 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 10}
+2026-04-15 18:47:10,490 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:10,492 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:10,492 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:10,507 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:10,508 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:11,508 - basicLogger - INFO - Returning stats: {'num_match_history': 10, 'num_champion_winrate': 10}
+2026-04-15 18:47:14,326 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:14,328 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:14,328 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:14,341 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:14,345 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:15,348 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 10}
+2026-04-15 18:47:19,390 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:19,390 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:19,391 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:19,405 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:19,408 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:20,412 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 20}
+2026-04-15 18:47:24,006 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:24,008 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:24,008 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:24,022 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:24,025 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:25,154 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 20}
+2026-04-15 18:47:27,850 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:27,851 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:27,852 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:27,867 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:27,868 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:30,164 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 30}
+2026-04-15 18:47:31,693 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:31,695 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:31,695 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:31,709 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:31,711 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:32,716 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 30}
+2026-04-15 18:47:35,535 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:35,536 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:35,537 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:35,550 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:35,553 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:36,560 - basicLogger - INFO - Returning stats: {'num_match_history': 40, 'num_champion_winrate': 30}
+2026-04-15 18:47:39,377 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:39,379 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:39,379 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:39,393 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:39,394 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:40,403 - basicLogger - INFO - Returning stats: {'num_match_history': 40, 'num_champion_winrate': 40}
+2026-04-15 18:47:43,220 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:43,222 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:43,222 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:43,237 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:43,240 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:45,192 - basicLogger - INFO - Returning stats: {'num_match_history': 50, 'num_champion_winrate': 40}
+2026-04-15 18:47:46,292 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:46,293 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:46,293 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:46,307 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:46,311 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:47,881 - basicLogger - INFO - Returning stats: {'num_match_history': 50, 'num_champion_winrate': 40}
+2026-04-15 18:47:51,371 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:51,373 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:51,373 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:51,388 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:51,391 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:52,401 - basicLogger - INFO - Returning stats: {'num_match_history': 50, 'num_champion_winrate': 50}
+2026-04-15 18:47:55,205 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:55,207 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:55,207 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:55,222 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:55,224 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:56,435 - basicLogger - INFO - Returning stats: {'num_match_history': 60, 'num_champion_winrate': 50}
+2026-04-15 18:47:56,942 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:56,943 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:56,944 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:56,959 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:56,961 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:47:57,972 - basicLogger - INFO - Returning stats: {'num_match_history': 60, 'num_champion_winrate': 50}
+2026-04-15 18:47:59,055 - basicLogger - INFO - Get request for stats
+2026-04-15 18:47:59,056 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:47:59,057 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:47:59,074 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:47:59,077 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:01,443 - basicLogger - INFO - Returning stats: {'num_match_history': 60, 'num_champion_winrate': 60}
+2026-04-15 18:48:02,891 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:02,892 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:02,893 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:02,908 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:02,910 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:03,921 - basicLogger - INFO - Returning stats: {'num_match_history': 60, 'num_champion_winrate': 60}
+2026-04-15 18:48:06,745 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:06,746 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:06,747 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:06,763 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:06,764 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:07,776 - basicLogger - INFO - Returning stats: {'num_match_history': 70, 'num_champion_winrate': 60}
+2026-04-15 18:48:11,356 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:11,358 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:11,358 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:11,374 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:11,376 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:12,389 - basicLogger - INFO - Returning stats: {'num_match_history': 70, 'num_champion_winrate': 70}
+2026-04-15 18:48:15,191 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:15,193 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:15,193 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:15,208 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:15,211 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:16,470 - basicLogger - INFO - Returning stats: {'num_match_history': 80, 'num_champion_winrate': 70}
+2026-04-15 18:48:20,262 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:20,264 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:20,264 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:20,279 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:20,282 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:22,706 - basicLogger - INFO - Returning stats: {'num_match_history': 80, 'num_champion_winrate': 80}
+2026-04-15 18:48:24,111 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:24,113 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:24,114 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:24,129 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:24,134 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:25,147 - basicLogger - INFO - Returning stats: {'num_match_history': 80, 'num_champion_winrate': 80}
+2026-04-15 18:48:27,957 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:27,959 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:27,959 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:27,976 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:27,980 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:28,996 - basicLogger - INFO - Returning stats: {'num_match_history': 90, 'num_champion_winrate': 80}
+2026-04-15 18:48:31,795 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:31,796 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:31,796 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:31,810 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:31,814 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:32,832 - basicLogger - INFO - Returning stats: {'num_match_history': 90, 'num_champion_winrate': 90}
+2026-04-15 18:48:35,633 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:35,635 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:35,635 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:35,650 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:35,652 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:37,733 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 90}
+2026-04-15 18:48:39,465 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:39,467 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:39,467 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:39,483 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:39,484 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:40,502 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 90}
+2026-04-15 18:48:43,306 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:43,308 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:43,308 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:43,323 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:43,327 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:44,344 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:48:47,141 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:47,143 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:47,143 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:47,158 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:47,161 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:48,178 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:48:52,226 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:52,228 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:52,228 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:52,242 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:52,247 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:53,263 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:48:56,070 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:56,072 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:56,073 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:56,088 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:56,092 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:57,030 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:57,030 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:57,043 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:57,045 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:48:57,110 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:48:57,112 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:58,137 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:48:59,925 - basicLogger - INFO - Get request for stats
+2026-04-15 18:48:59,927 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:48:59,927 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:48:59,941 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:48:59,945 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:49:00,965 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:49:03,765 - basicLogger - INFO - Get request for stats
+2026-04-15 18:49:03,767 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:49:03,767 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:49:03,782 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:49:03,785 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:49:04,802 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:49:07,605 - basicLogger - INFO - Get request for stats
+2026-04-15 18:49:07,607 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:49:07,607 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:49:07,621 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:49:07,624 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:49:08,645 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:49:57,132 - basicLogger - INFO - Get request for stats
+2026-04-15 18:49:57,133 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:49:57,135 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:49:57,150 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:49:57,154 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:49:57,157 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:49:57,160 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:49:57,192 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:49:57,193 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:49:58,202 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:49:58,205 - basicLogger - INFO - Get request for stats
+2026-04-15 18:49:59,231 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:50:57,230 - basicLogger - INFO - Get request for stats
+2026-04-15 18:50:57,232 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:50:57,232 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:50:57,247 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:50:57,251 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:50:57,255 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:50:57,256 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:50:57,272 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:50:57,274 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:50:58,282 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:50:58,284 - basicLogger - INFO - Get request for stats
+2026-04-15 18:50:59,309 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:51:42,933 - basicLogger - INFO - Get request for stats
+2026-04-15 18:51:42,935 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:51:42,936 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:51:42,953 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:51:42,955 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:51:43,976 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:51:47,461 - basicLogger - INFO - Get request for stats
+2026-04-15 18:51:47,463 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:51:47,463 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:51:47,477 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:51:47,482 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:51:48,499 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:51:51,290 - basicLogger - INFO - Get request for stats
+2026-04-15 18:51:51,292 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:51:51,292 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:51:51,306 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:51:51,309 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:51:52,329 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:51:55,144 - basicLogger - INFO - Get request for stats
+2026-04-15 18:51:55,146 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:51:55,147 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:51:55,162 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:51:55,165 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:51:56,100 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:51:56,100 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:51:56,111 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:51:56,114 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:51:56,182 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:51:56,184 - basicLogger - INFO - Get request for stats
+2026-04-15 18:51:58,427 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:00,199 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:00,200 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:00,201 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:00,214 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:00,218 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:01,236 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:04,046 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:04,046 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:04,047 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:04,060 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:04,064 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:05,083 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:07,892 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:07,894 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:07,895 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:07,908 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:07,913 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:08,930 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:11,738 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:11,740 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:11,740 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:11,754 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:11,758 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:12,778 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:15,574 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:15,576 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:15,576 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:15,594 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:15,595 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:16,614 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:19,414 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:19,416 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:19,416 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:19,432 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:19,433 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:20,451 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:23,264 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:23,265 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:23,266 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:23,281 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:23,283 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:24,303 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:27,112 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:27,113 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:27,114 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:27,129 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:27,132 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:28,150 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:32,173 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:32,174 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:32,175 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:32,191 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:32,193 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:33,211 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:36,015 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:36,017 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:36,017 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:36,030 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:36,035 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:37,052 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:39,864 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:39,866 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:39,867 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:39,881 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:39,885 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:40,902 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:43,712 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:43,714 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:43,714 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:43,730 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:43,731 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:44,750 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:56,186 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:56,187 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:56,188 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:56,204 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:56,205 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:56,209 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:52:56,209 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:52:56,224 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:52:56,228 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:52:57,235 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:52:57,238 - basicLogger - INFO - Get request for stats
+2026-04-15 18:52:58,262 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:53:56,299 - basicLogger - INFO - Get request for stats
+2026-04-15 18:53:56,301 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:53:56,302 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:53:56,318 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:53:56,321 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:53:56,325 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:53:56,325 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:53:56,342 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:53:56,342 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:53:57,352 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:53:57,355 - basicLogger - INFO - Get request for stats
+2026-04-15 18:53:58,380 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:54:56,374 - basicLogger - INFO - Get request for stats
+2026-04-15 18:54:56,377 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:54:56,377 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:54:56,391 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:54:56,395 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:54:56,400 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:54:56,400 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:54:56,416 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:54:56,417 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:54:57,428 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:54:57,430 - basicLogger - INFO - Get request for stats
+2026-04-15 18:54:58,456 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:55:56,483 - basicLogger - INFO - Get request for stats
+2026-04-15 18:55:56,486 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:55:56,486 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:55:56,500 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:55:56,503 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:55:56,507 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:55:56,508 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:55:56,523 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:55:56,527 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:55:57,536 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:55:57,538 - basicLogger - INFO - Get request for stats
+2026-04-15 18:55:58,565 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:56:56,570 - basicLogger - INFO - Get request for stats
+2026-04-15 18:56:56,572 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:56:56,573 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:56:56,589 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:56:56,593 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:56:56,595 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:56:56,597 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:56:56,610 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:56:56,617 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:56:57,624 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:56:57,626 - basicLogger - INFO - Get request for stats
+2026-04-15 18:56:58,653 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:57:56,680 - basicLogger - INFO - Get request for stats
+2026-04-15 18:57:56,682 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:57:56,683 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:57:56,697 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:57:56,704 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:57:56,704 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:57:56,709 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:57:56,721 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:57:56,726 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:57:57,733 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:57:57,736 - basicLogger - INFO - Get request for stats
+2026-04-15 18:57:58,760 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:58:56,762 - basicLogger - INFO - Get request for stats
+2026-04-15 18:58:56,764 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:58:56,766 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:58:56,782 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:58:56,783 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:58:56,788 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:58:56,788 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:58:56,803 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:58:56,806 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:58:57,814 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:58:57,816 - basicLogger - INFO - Get request for stats
+2026-04-15 18:58:58,841 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:59:56,876 - basicLogger - INFO - Get request for stats
+2026-04-15 18:59:56,879 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:59:56,879 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:59:56,894 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:59:56,898 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:59:56,902 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 18:59:56,903 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 18:59:56,917 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 18:59:56,921 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 18:59:57,930 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 18:59:57,932 - basicLogger - INFO - Get request for stats
+2026-04-15 18:59:58,956 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:00:56,963 - basicLogger - INFO - Get request for stats
+2026-04-15 19:00:56,966 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:00:56,966 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:00:56,981 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:00:56,985 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:00:56,989 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:00:56,990 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:00:57,004 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:00:57,008 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:00:58,016 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:00:58,019 - basicLogger - INFO - Get request for stats
+2026-04-15 19:00:59,044 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:01:57,079 - basicLogger - INFO - Get request for stats
+2026-04-15 19:01:57,080 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:01:57,083 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:01:57,095 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:01:57,102 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:01:57,102 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:01:57,108 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:01:57,120 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:01:57,125 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:01:58,131 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:01:58,134 - basicLogger - INFO - Get request for stats
+2026-04-15 19:01:59,158 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:02:57,158 - basicLogger - INFO - Get request for stats
+2026-04-15 19:02:57,159 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:02:57,160 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:02:57,176 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:02:57,179 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:02:57,183 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:02:57,183 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:02:57,198 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:02:57,201 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:02:58,210 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:02:58,213 - basicLogger - INFO - Get request for stats
+2026-04-15 19:02:59,238 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:03:57,249 - basicLogger - INFO - Get request for stats
+2026-04-15 19:03:57,251 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:03:57,253 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:03:57,268 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:03:57,271 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:03:57,276 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:03:57,276 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:03:57,293 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:03:57,294 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:03:58,302 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:03:58,304 - basicLogger - INFO - Get request for stats
+2026-04-15 19:03:59,329 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:04:56,126 - basicLogger - INFO - Get request for stats
+2026-04-15 19:04:56,129 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:04:56,129 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:04:56,146 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:04:56,147 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:04:56,152 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:04:56,153 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:04:56,171 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:04:56,173 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:04:57,182 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:04:57,184 - basicLogger - INFO - Get request for stats
+2026-04-15 19:04:59,434 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:05:56,222 - basicLogger - INFO - Get request for stats
+2026-04-15 19:05:56,224 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:05:56,226 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:05:56,240 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:05:56,244 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:05:56,246 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:05:56,249 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:05:56,263 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:05:56,267 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:05:57,274 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:05:57,276 - basicLogger - INFO - Get request for stats
+2026-04-15 19:05:58,301 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:06:56,313 - basicLogger - INFO - Get request for stats
+2026-04-15 19:06:56,314 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:06:56,315 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:06:56,330 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:06:56,332 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:06:56,336 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:06:56,336 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:06:56,350 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:06:56,355 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:06:57,362 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:06:57,364 - basicLogger - INFO - Get request for stats
+2026-04-15 19:06:58,389 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:32,493 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:32,495 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:32,495 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:32,511 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:32,514 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:33,533 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:37,192 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:37,194 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:37,194 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:37,210 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:37,211 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:38,229 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:41,032 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:41,034 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:41,034 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:41,049 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:41,054 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:42,070 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:44,881 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:44,882 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:44,883 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:44,897 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:44,901 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:45,918 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:48,714 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:48,716 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:48,716 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:48,731 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:48,735 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:49,752 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:52,563 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:52,564 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:52,565 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:52,581 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:52,582 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:53,600 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:56,403 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:56,405 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:56,405 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:56,419 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:56,423 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:56,427 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:07:56,427 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:07:56,445 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:07:56,446 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:07:57,456 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:07:57,458 - basicLogger - INFO - Get request for stats
+2026-04-15 19:07:58,483 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:00,241 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:00,243 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:00,243 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:00,258 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:00,261 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:01,279 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:04,094 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:04,096 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:04,096 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:04,112 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:04,113 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:05,132 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:09,165 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:09,167 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:09,167 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:09,181 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:09,185 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:10,201 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:13,009 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:13,011 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:13,011 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:13,026 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:13,028 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:14,046 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:16,860 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:16,862 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:16,862 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:16,876 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:16,880 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:17,896 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:20,704 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:20,705 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:20,706 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:20,723 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:20,725 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:21,745 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:24,548 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:24,548 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:24,549 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:24,564 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:24,566 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:25,584 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:28,386 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:28,387 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:28,388 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:28,403 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:28,407 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:29,427 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:32,224 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:32,225 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:32,225 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:32,241 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:32,242 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:33,260 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:56,519 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:56,522 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:56,522 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:56,537 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:56,540 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:56,543 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:08:56,544 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:08:56,561 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:08:56,564 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:08:57,572 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:08:57,574 - basicLogger - INFO - Get request for stats
+2026-04-15 19:08:58,599 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:03,344 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:03,347 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:03,347 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:03,363 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:03,367 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:04,385 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:07,076 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:07,077 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:07,078 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:07,091 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:07,095 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:09,339 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:13,106 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:13,108 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:13,108 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:13,122 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:13,126 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:14,144 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:16,951 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:16,953 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:16,953 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:16,966 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:16,971 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:17,988 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:20,783 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:20,785 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:20,785 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:20,800 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:20,804 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:21,824 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:24,638 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:24,639 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:24,640 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:24,656 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:24,657 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:25,676 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:28,473 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:28,475 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:28,475 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:28,492 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:28,492 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:29,511 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:32,307 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:32,308 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:32,309 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:32,324 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:32,325 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:33,343 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:36,145 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:36,146 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:36,146 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:36,162 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:36,163 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:37,182 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:41,231 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:41,232 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:41,232 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:41,246 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:41,250 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:42,268 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:45,075 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:45,077 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:45,077 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:45,091 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:45,094 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:46,112 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:48,908 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:48,909 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:48,909 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:48,925 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:48,927 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:49,944 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:52,762 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:52,764 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:52,764 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:52,779 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:52,781 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:53,799 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:56,599 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:56,599 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:56,599 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:56,615 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:56,616 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:56,621 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:09:56,622 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:09:56,639 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:09:56,639 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:09:57,648 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:09:57,651 - basicLogger - INFO - Get request for stats
+2026-04-15 19:09:58,677 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:10:00,434 - basicLogger - INFO - Get request for stats
+2026-04-15 19:10:00,436 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:10:00,436 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:10:00,451 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:10:00,456 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:10:01,475 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:10:56,731 - basicLogger - INFO - Get request for stats
+2026-04-15 19:10:56,733 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:10:56,734 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:10:56,748 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:10:56,753 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:10:56,756 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:10:56,758 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:10:56,771 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:10:56,775 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:10:57,781 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:10:57,783 - basicLogger - INFO - Get request for stats
+2026-04-15 19:10:58,808 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:11:56,789 - basicLogger - INFO - Get request for stats
+2026-04-15 19:11:56,791 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:11:56,792 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:11:56,805 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:11:56,809 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:11:56,813 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:11:56,814 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:11:56,829 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:11:56,830 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:11:57,839 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:11:57,842 - basicLogger - INFO - Get request for stats
+2026-04-15 19:11:58,866 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:12:56,959 - basicLogger - INFO - Get request for stats
+2026-04-15 19:12:56,961 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:12:56,961 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:12:56,977 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:12:56,979 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:12:56,982 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:12:56,983 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:12:56,997 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:12:57,000 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:12:58,007 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:12:58,009 - basicLogger - INFO - Get request for stats
+2026-04-15 19:12:59,034 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:35,567 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:35,568 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:35,570 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:35,586 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:35,587 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:36,606 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:39,449 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:39,451 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:39,451 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:39,465 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:39,469 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:40,485 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:43,296 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:43,297 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:43,297 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:43,311 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:43,316 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:44,332 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:45,531 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:45,532 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:45,533 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:45,548 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:45,549 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:46,351 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:46,352 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:46,364 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:46,383 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:46,567 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:46,570 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:47,133 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:47,133 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:47,144 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:47,146 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:47,596 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:47,598 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:48,624 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:52,196 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:52,197 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:52,198 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:52,211 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:52,216 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:53,233 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:13:56,992 - basicLogger - INFO - Get request for stats
+2026-04-15 19:13:56,993 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:13:56,994 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:13:57,009 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:13:57,011 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:13:58,029 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:00,824 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:00,826 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:00,826 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:00,841 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:00,843 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:01,862 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:04,671 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:04,673 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:04,673 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:04,689 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:04,690 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:05,708 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:08,513 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:08,514 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:08,514 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:08,529 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:08,532 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:09,549 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:12,353 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:12,354 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:12,355 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:12,369 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:12,372 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:13,389 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:16,192 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:16,194 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:16,194 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:16,209 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:16,211 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:17,229 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:20,623 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:20,625 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:20,625 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:20,641 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:20,642 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:22,312 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:25,116 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:25,117 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:25,118 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:25,134 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:25,135 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:26,154 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:28,950 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:28,950 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:28,951 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:28,967 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:28,971 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:29,987 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:32,791 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:32,793 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:32,793 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:32,808 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:32,809 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:33,828 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:36,642 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:36,644 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:36,644 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:36,660 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:36,661 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:37,680 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:40,473 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:40,475 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:40,475 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:40,490 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:40,492 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:41,511 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:44,302 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:44,303 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:44,303 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:44,319 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:44,321 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:45,340 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:48,148 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:48,150 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:48,150 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:48,164 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:48,167 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:49,184 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:14:57,095 - basicLogger - INFO - Get request for stats
+2026-04-15 19:14:57,097 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:14:57,097 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:14:57,112 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:14:57,114 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:14:58,134 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:15:53,184 - basicLogger - INFO - Get request for stats
+2026-04-15 19:15:53,187 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:15:53,188 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:15:53,201 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:15:53,205 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:15:55,440 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:15:57,174 - basicLogger - INFO - Get request for stats
+2026-04-15 19:15:57,176 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:15:57,176 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:15:57,192 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:15:57,194 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:15:58,213 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:01,015 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:01,017 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:01,017 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:01,032 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:01,034 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:02,051 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:04,861 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:04,863 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:04,863 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:04,877 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:04,880 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:05,899 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:08,707 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:08,709 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:08,709 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:08,724 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:08,726 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:09,744 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:12,547 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:12,548 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:12,549 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:12,566 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:12,568 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:13,588 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:16,386 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:16,387 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:16,388 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:16,402 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:16,407 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:17,424 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:20,237 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:20,238 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:20,239 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:20,254 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:20,257 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:21,275 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:24,077 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:24,079 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:24,079 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:24,095 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:24,096 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:26,344 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:29,156 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:29,157 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:29,158 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:29,171 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:29,175 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:30,191 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:32,994 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:32,996 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:32,996 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:33,011 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:33,014 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:34,033 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:36,833 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:36,834 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:36,834 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:36,849 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:36,852 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:37,869 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:40,673 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:40,675 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:40,675 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:40,690 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:40,694 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:41,711 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:44,517 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:44,519 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:44,519 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:44,533 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:44,537 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:45,554 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:48,349 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:48,351 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:48,352 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:48,367 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:48,368 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:49,386 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:52,192 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:52,194 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:52,194 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:52,211 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:52,212 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:53,232 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:16:56,023 - basicLogger - INFO - Get request for stats
+2026-04-15 19:16:56,025 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:16:56,025 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:16:56,039 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:16:56,044 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:16:58,306 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:17:56,154 - basicLogger - INFO - Get request for stats
+2026-04-15 19:17:56,156 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:17:56,157 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:17:56,171 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:17:56,175 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:17:57,195 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:18:56,242 - basicLogger - INFO - Get request for stats
+2026-04-15 19:18:56,244 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:18:56,245 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:18:56,262 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:18:56,263 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:18:57,282 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:19:56,353 - basicLogger - INFO - Get request for stats
+2026-04-15 19:19:56,355 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:19:56,356 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:19:56,371 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:19:56,375 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:19:57,392 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:20:56,441 - basicLogger - INFO - Get request for stats
+2026-04-15 19:20:56,442 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:20:56,444 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:20:56,460 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:20:56,461 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:20:57,481 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:21:56,556 - basicLogger - INFO - Get request for stats
+2026-04-15 19:21:56,558 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:21:56,559 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:21:56,576 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:21:56,578 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:21:57,596 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:22:56,637 - basicLogger - INFO - Get request for stats
+2026-04-15 19:22:56,638 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:22:56,639 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:22:56,654 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:22:56,657 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:22:57,675 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:23:56,740 - basicLogger - INFO - Get request for stats
+2026-04-15 19:23:56,742 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:23:56,743 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:23:56,757 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:23:56,762 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:23:57,779 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:24:56,825 - basicLogger - INFO - Get request for stats
+2026-04-15 19:24:56,827 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:24:56,828 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:24:56,842 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:24:56,846 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:24:57,863 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:25:56,930 - basicLogger - INFO - Get request for stats
+2026-04-15 19:25:56,932 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:25:56,933 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:25:56,949 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:25:56,954 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:25:57,968 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:26:57,024 - basicLogger - INFO - Get request for stats
+2026-04-15 19:26:57,026 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:26:57,027 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:26:57,040 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:26:57,044 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:26:58,063 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:27:57,118 - basicLogger - INFO - Get request for stats
+2026-04-15 19:27:57,120 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:27:57,121 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:27:57,140 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:27:57,141 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:27:58,161 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:28:57,224 - basicLogger - INFO - Get request for stats
+2026-04-15 19:28:57,225 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:28:57,233 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:28:57,239 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:28:57,250 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:28:58,264 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:29:56,069 - basicLogger - INFO - Get request for stats
+2026-04-15 19:29:56,071 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:29:56,072 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:29:56,088 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:29:56,090 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:29:57,703 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:30:56,182 - basicLogger - INFO - Get request for stats
+2026-04-15 19:30:56,185 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:30:56,185 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:30:56,202 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:30:56,206 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:30:57,223 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:31:56,273 - basicLogger - INFO - Get request for stats
+2026-04-15 19:31:56,274 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:31:56,275 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:31:56,290 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:31:56,292 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:31:57,310 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:32:56,380 - basicLogger - INFO - Get request for stats
+2026-04-15 19:32:56,383 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:32:56,383 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:32:56,399 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:32:56,402 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:32:57,420 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:33:56,467 - basicLogger - INFO - Get request for stats
+2026-04-15 19:33:56,470 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:33:56,470 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:33:56,488 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:33:56,492 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:33:57,508 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:34:56,577 - basicLogger - INFO - Get request for stats
+2026-04-15 19:34:56,580 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:34:56,580 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:34:56,594 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:34:56,599 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:34:57,616 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:35:56,661 - basicLogger - INFO - Get request for stats
+2026-04-15 19:35:56,664 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:35:56,664 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:35:56,681 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:35:56,683 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:35:57,701 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:36:56,777 - basicLogger - INFO - Get request for stats
+2026-04-15 19:36:56,779 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:36:56,781 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:36:56,795 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:36:56,799 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:36:57,817 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:37:56,863 - basicLogger - INFO - Get request for stats
+2026-04-15 19:37:56,865 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:37:56,866 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:37:56,880 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:37:56,885 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:37:57,904 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:38:56,966 - basicLogger - INFO - Get request for stats
+2026-04-15 19:38:56,968 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:38:56,970 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:38:56,987 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:38:56,990 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:38:58,010 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:39:57,057 - basicLogger - INFO - Get request for stats
+2026-04-15 19:39:57,059 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:39:57,059 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:39:57,076 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:39:57,078 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:39:58,096 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:40:57,159 - basicLogger - INFO - Get request for stats
+2026-04-15 19:40:57,162 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:40:57,162 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:40:57,177 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:40:57,182 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:40:58,201 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:41:57,252 - basicLogger - INFO - Get request for stats
+2026-04-15 19:41:57,254 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:41:57,255 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:41:57,272 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:41:57,273 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:41:58,292 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:42:56,093 - basicLogger - INFO - Get request for stats
+2026-04-15 19:42:56,095 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:42:56,095 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:42:56,113 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:42:56,119 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:42:57,138 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:43:56,212 - basicLogger - INFO - Get request for stats
+2026-04-15 19:43:56,215 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:43:56,215 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:43:56,234 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:43:56,235 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:43:57,253 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:44:56,300 - basicLogger - INFO - Get request for stats
+2026-04-15 19:44:56,302 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:44:56,303 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:44:56,318 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:44:56,319 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:44:57,338 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:45:56,415 - basicLogger - INFO - Get request for stats
+2026-04-15 19:45:56,417 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:45:56,418 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:45:56,432 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:45:56,436 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:45:57,453 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:46:56,490 - basicLogger - INFO - Get request for stats
+2026-04-15 19:46:56,492 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:46:56,493 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:46:56,508 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:46:56,510 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:46:57,529 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:47:56,618 - basicLogger - INFO - Get request for stats
+2026-04-15 19:47:56,621 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:47:56,621 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:47:56,636 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:47:56,640 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:47:57,657 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:48:56,694 - basicLogger - INFO - Get request for stats
+2026-04-15 19:48:56,696 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:48:56,697 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:48:56,712 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:48:56,715 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:48:57,734 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:49:56,811 - basicLogger - INFO - Get request for stats
+2026-04-15 19:49:56,814 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:49:56,815 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:49:56,833 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:49:56,840 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:49:57,856 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:50:56,879 - basicLogger - INFO - Get request for stats
+2026-04-15 19:50:56,881 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:50:56,882 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:50:56,942 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:50:56,946 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:50:57,963 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:51:56,999 - basicLogger - INFO - Get request for stats
+2026-04-15 19:51:57,001 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:51:57,001 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:51:57,018 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:51:57,019 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:51:58,038 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:52:57,077 - basicLogger - INFO - Get request for stats
+2026-04-15 19:52:57,078 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:52:57,080 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:52:57,094 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:52:57,098 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:52:58,115 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:53:57,183 - basicLogger - INFO - Get request for stats
+2026-04-15 19:53:57,184 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:53:57,186 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:53:57,200 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:53:57,204 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:53:58,221 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:54:56,624 - basicLogger - INFO - Get request for stats
+2026-04-15 19:54:56,626 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:54:56,626 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:54:56,642 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:54:56,645 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:54:58,305 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:55:56,113 - basicLogger - INFO - Get request for stats
+2026-04-15 19:55:56,115 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:55:56,116 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:55:56,134 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:55:56,134 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:55:57,152 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:56:56,244 - basicLogger - INFO - Get request for stats
+2026-04-15 19:56:56,247 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:56:56,247 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:56:56,262 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:56:56,267 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:56:57,285 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:57:56,321 - basicLogger - INFO - Get request for stats
+2026-04-15 19:57:56,323 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:57:56,327 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:57:56,345 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:57:56,346 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:57:57,366 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:58:56,432 - basicLogger - INFO - Get request for stats
+2026-04-15 19:58:56,435 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:58:56,435 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:58:56,450 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:58:56,453 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:58:57,471 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 19:59:56,525 - basicLogger - INFO - Get request for stats
+2026-04-15 19:59:56,527 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 19:59:56,528 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 19:59:56,543 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 19:59:56,547 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 19:59:57,564 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:00:56,624 - basicLogger - INFO - Get request for stats
+2026-04-15 20:00:56,626 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:00:56,627 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:00:56,642 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:00:56,644 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:00:57,663 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:01:56,713 - basicLogger - INFO - Get request for stats
+2026-04-15 20:01:56,716 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:01:56,716 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:01:56,732 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:01:56,736 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:01:57,755 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:02:56,815 - basicLogger - INFO - Get request for stats
+2026-04-15 20:02:56,817 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:02:56,817 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:02:56,835 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:02:56,836 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:02:57,855 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:03:56,910 - basicLogger - INFO - Get request for stats
+2026-04-15 20:03:56,912 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:03:56,913 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:03:56,927 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:03:56,931 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:03:57,951 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:04:57,006 - basicLogger - INFO - Get request for stats
+2026-04-15 20:04:57,008 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:04:57,009 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:04:57,025 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:04:57,027 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:04:58,046 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:05:57,105 - basicLogger - INFO - Get request for stats
+2026-04-15 20:05:57,108 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:05:57,107 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:05:57,123 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:05:57,127 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:05:58,143 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:06:57,190 - basicLogger - INFO - Get request for stats
+2026-04-15 20:06:57,192 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:06:57,193 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:06:57,210 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:06:57,215 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:06:58,233 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:07:56,066 - basicLogger - INFO - Get request for stats
+2026-04-15 20:07:56,069 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:07:56,069 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:07:56,083 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:07:56,087 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:07:58,321 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:08:56,157 - basicLogger - INFO - Get request for stats
+2026-04-15 20:08:56,159 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:08:56,160 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:08:56,179 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:08:56,184 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:08:57,203 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:09:56,262 - basicLogger - INFO - Get request for stats
+2026-04-15 20:09:56,265 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:09:56,265 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:09:56,280 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:09:56,284 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:09:57,302 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:10:56,344 - basicLogger - INFO - Get request for stats
+2026-04-15 20:10:56,346 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:10:56,357 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:10:56,357 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:10:56,369 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:10:57,381 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:11:56,460 - basicLogger - INFO - Get request for stats
+2026-04-15 20:11:56,462 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:11:56,464 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:11:56,478 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:11:56,481 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:11:57,499 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:12:56,542 - basicLogger - INFO - Get request for stats
+2026-04-15 20:12:56,544 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:12:56,544 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:12:56,560 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:12:56,564 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:12:57,582 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:13:56,640 - basicLogger - INFO - Get request for stats
+2026-04-15 20:13:56,642 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:13:56,643 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:13:56,659 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:13:56,661 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:13:57,677 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:14:56,750 - basicLogger - INFO - Get request for stats
+2026-04-15 20:14:56,753 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:14:56,753 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:14:56,769 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:14:56,772 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:14:57,788 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:15:56,839 - basicLogger - INFO - Get request for stats
+2026-04-15 20:15:56,841 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:15:56,842 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:15:56,858 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:15:56,859 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:15:57,877 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:16:56,935 - basicLogger - INFO - Get request for stats
+2026-04-15 20:16:56,937 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:16:56,937 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:16:56,953 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:16:56,955 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:16:57,973 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:17:57,029 - basicLogger - INFO - Get request for stats
+2026-04-15 20:17:57,031 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:17:57,032 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:17:57,046 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:17:57,049 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:17:58,066 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:18:57,114 - basicLogger - INFO - Get request for stats
+2026-04-15 20:18:57,114 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:18:57,116 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:18:57,129 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:18:57,133 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:18:58,151 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:19:57,209 - basicLogger - INFO - Get request for stats
+2026-04-15 20:19:57,211 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:19:57,211 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:19:57,226 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:19:57,228 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:19:58,246 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:20:56,092 - basicLogger - INFO - Get request for stats
+2026-04-15 20:20:56,093 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:20:56,095 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:20:56,109 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:20:56,113 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:20:57,703 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:21:56,179 - basicLogger - INFO - Get request for stats
+2026-04-15 20:21:56,180 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:21:56,181 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:21:56,195 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:21:56,199 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:21:57,215 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:22:56,277 - basicLogger - INFO - Get request for stats
+2026-04-15 20:22:56,279 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:22:56,280 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:22:56,294 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:22:56,297 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:22:57,314 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:23:56,355 - basicLogger - INFO - Get request for stats
+2026-04-15 20:23:56,357 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:23:56,357 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:23:56,369 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:23:56,375 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:23:57,391 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:24:56,474 - basicLogger - INFO - Get request for stats
+2026-04-15 20:24:56,476 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:24:56,476 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:24:56,492 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:24:56,493 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:24:57,511 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:25:56,567 - basicLogger - INFO - Get request for stats
+2026-04-15 20:25:56,569 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:25:56,570 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:25:56,586 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:25:56,588 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:25:57,608 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:26:56,664 - basicLogger - INFO - Get request for stats
+2026-04-15 20:26:56,666 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:26:56,667 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:26:56,680 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:26:56,685 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:26:57,703 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:27:56,749 - basicLogger - INFO - Get request for stats
+2026-04-15 20:27:56,751 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:27:56,751 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:27:56,765 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:27:56,769 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:27:57,786 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:28:56,864 - basicLogger - INFO - Get request for stats
+2026-04-15 20:28:56,866 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:28:56,866 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:28:56,879 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:28:56,883 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:28:57,902 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:29:56,928 - basicLogger - INFO - Get request for stats
+2026-04-15 20:29:56,929 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:29:56,931 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:29:56,945 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:29:56,949 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:29:57,966 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:30:57,046 - basicLogger - INFO - Get request for stats
+2026-04-15 20:30:57,048 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:30:57,049 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:30:57,076 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:30:57,077 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:30:58,089 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:31:57,123 - basicLogger - INFO - Get request for stats
+2026-04-15 20:31:57,125 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:31:57,126 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:31:57,141 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:31:57,143 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:31:58,161 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:32:57,212 - basicLogger - INFO - Get request for stats
+2026-04-15 20:32:57,214 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:32:57,215 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:32:57,229 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:32:57,232 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:32:58,249 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:33:56,104 - basicLogger - INFO - Get request for stats
+2026-04-15 20:33:56,105 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:33:56,106 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:33:56,121 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:33:56,123 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:33:57,141 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:34:56,196 - basicLogger - INFO - Get request for stats
+2026-04-15 20:34:56,198 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:34:56,198 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:34:56,214 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:34:56,215 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:34:57,232 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:35:56,279 - basicLogger - INFO - Get request for stats
+2026-04-15 20:35:56,281 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:35:56,282 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:35:56,329 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:35:56,332 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:35:57,352 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:36:56,382 - basicLogger - INFO - Get request for stats
+2026-04-15 20:36:56,384 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:36:56,386 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:36:56,401 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:36:56,404 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:36:57,420 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:37:56,481 - basicLogger - INFO - Get request for stats
+2026-04-15 20:37:56,483 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:37:56,483 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:37:56,498 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:37:56,501 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:37:57,519 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:38:56,556 - basicLogger - INFO - Get request for stats
+2026-04-15 20:38:56,558 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:38:56,558 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:38:56,574 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:38:56,575 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:38:57,593 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:39:56,671 - basicLogger - INFO - Get request for stats
+2026-04-15 20:39:56,673 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:39:56,673 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:39:56,687 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:39:56,691 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:39:57,708 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:40:56,760 - basicLogger - INFO - Get request for stats
+2026-04-15 20:40:56,762 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:40:56,763 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:40:56,777 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:40:56,783 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:40:57,801 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:41:56,850 - basicLogger - INFO - Get request for stats
+2026-04-15 20:41:56,852 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:41:56,853 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:41:56,867 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:41:56,870 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:41:57,887 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:42:56,934 - basicLogger - INFO - Get request for stats
+2026-04-15 20:42:56,935 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:42:56,937 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:42:56,949 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:42:56,955 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:42:57,970 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:43:57,045 - basicLogger - INFO - Get request for stats
+2026-04-15 20:43:57,047 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:43:57,047 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:43:57,062 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:43:57,066 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:43:58,084 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:44:57,128 - basicLogger - INFO - Get request for stats
+2026-04-15 20:44:57,130 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:44:57,132 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:44:57,147 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:44:57,150 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:44:58,169 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:45:57,226 - basicLogger - INFO - Get request for stats
+2026-04-15 20:45:57,228 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:45:57,231 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:45:57,248 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:45:57,252 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:45:58,272 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:46:56,110 - basicLogger - INFO - Get request for stats
+2026-04-15 20:46:56,112 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:46:56,114 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:46:56,131 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:46:56,136 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:46:57,157 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-15 20:47:56,190 - basicLogger - INFO - Get request for stats
+2026-04-15 20:47:56,193 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-15 20:47:56,193 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-15 20:47:56,212 - basicLogger - INFO - Found match_history at index 0
+2026-04-15 20:47:56,217 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-15 20:47:57,241 - basicLogger - INFO - Returning stats: {'num_match_history': 100, 'num_champion_winrate': 100}
+2026-04-16 06:22:38,588 - basicLogger - INFO - Get request for stats
+2026-04-16 06:22:39,603 - basicLogger - INFO - Returning stats: {'num_match_history': 20, 'num_champion_winrate': 20}
+2026-04-16 06:22:50,250 - basicLogger - INFO - Get request for stats
+2026-04-16 06:22:50,784 - basicLogger - INFO - Get request for stats
+2026-04-16 06:22:50,787 - basicLogger - INFO - Get request for match_history at index 0
+2026-04-16 06:22:50,787 - basicLogger - INFO - Get request for champion_winrate at index 0
+2026-04-16 06:22:50,806 - basicLogger - INFO - Found match_history at index 0
+2026-04-16 06:22:50,808 - basicLogger - INFO - Found champion_winrate at index 0
+2026-04-16 06:22:51,264 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 30}
+2026-04-16 06:22:51,814 - basicLogger - INFO - Returning stats: {'num_match_history': 30, 'num_champion_winrate': 30}

@@ -1,0 +1,11 @@
+datastore:
+  user: acit3855
+  password: password
+  hostname: mysql
+  port: 3306
+  database: events
+
+events:
+  hostname: kafka
+  port: 9092
+  topic: events

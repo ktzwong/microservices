@@ -1,0 +1,51 @@
+openapi: 3.0.0
+info:
+  description: This API provides League event statistics
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: twong358@my.bcit.ca
+paths:
+  /stats:
+    get:
+      summary: Gets the latest event stats
+      operationId: app.get_stats
+      description: Returns cumulative stats for match history and champion winrate events
+      responses:
+        '200':
+          description: Successfully returned
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LeagueStats'
+        '404':
+          description: Stats don't exist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    LeagueStats:
+      required:
+        - num_match_readings
+        - max_kills
+        - num_winrate_readings
+        - max_win_rate
+      type: object
+      properties:
+        num_match_readings:
+          type: integer
+          example: 500
+        max_kills:
+          type: integer
+          example: 22
+        num_winrate_readings:
+          type: integer
+          example: 500
+        max_win_rate:
+          type: number
+          example: 0.73

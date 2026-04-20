@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="ACIT3855 statistics application" />
+    <script src="updateStats.js"></script>
+    <title>ACIT3855</title>
+</head>
+
+<body>
+    <main id="main">
+        <div id="header">
+            <img src="logo.png" alt="League of Legends Logo" height="80">
+            <h1>Stat Tracker</h1>
+        </div>
+        <h5 id="last-updated">Last update: <span id="last-updated-value">N/A</span></h5>
+        <div id="messages"></div>
+        <h2>Statistics</h2>
+        <div id="statistics">
+            <div id="processing">
+                <h3>Processing Stats</h3>
+                <code id="processing-stats">Loading...</code>
+            </div>
+            <div id="analyzer-stats-box">
+                <h3>Analyzer Stats</h3>
+                <code id="analyzer-stats">Loading...</code>
+            </div>
+        </div>
+        <h2>Analyzer Events</h2>
+        <div id="analyzer">
+            <div>
+                <h3>Match History Event</h3>
+                <code id="event-match-history">Loading...</code>
+            </div>
+            <div>
+                <h3>Champion Winrate Event</h3>
+                <code id="event-champion-winrate">Loading...</code>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

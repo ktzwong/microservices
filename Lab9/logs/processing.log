@@ -6549,3 +6549,85 @@
 2026-04-10 21:43:46,899 - basicLogger - INFO - Start processing
 2026-04-10 21:43:51,899 - basicLogger - INFO - Start processing
 2026-04-10 21:43:56,899 - basicLogger - INFO - Start processing
+2026-04-15 18:44:28,448 - basicLogger - INFO - Start processing
+2026-04-15 18:44:33,448 - basicLogger - INFO - Start processing
+2026-04-15 18:44:33,475 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:44:33,485 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:44:33,487 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278673}
+2026-04-15 18:44:33,487 - basicLogger - INFO - END periodic processing
+2026-04-15 18:44:38,447 - basicLogger - INFO - Start processing
+2026-04-15 18:44:38,459 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:44:38,469 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:44:38,470 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278678}
+2026-04-15 18:44:38,471 - basicLogger - INFO - END periodic processing
+2026-04-15 18:44:48,448 - basicLogger - INFO - Start processing
+2026-04-15 18:44:48,460 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:44:48,469 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:44:48,471 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278688}
+2026-04-15 18:44:48,471 - basicLogger - INFO - END periodic processing
+2026-04-15 18:44:53,448 - basicLogger - INFO - Start processing
+2026-04-15 18:44:53,466 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:44:53,473 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:44:53,475 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278693}
+2026-04-15 18:44:53,475 - basicLogger - INFO - END periodic processing
+2026-04-15 18:44:56,656 - basicLogger - INFO - Request received for GET /stats
+2026-04-15 18:44:56,662 - basicLogger - DEBUG - Statistics retrieved: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278693}
+2026-04-15 18:44:56,662 - basicLogger - INFO - Request for GET /stats completed
+2026-04-15 18:44:58,448 - basicLogger - INFO - Start processing
+2026-04-15 18:44:58,458 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:44:58,466 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:44:58,468 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278698}
+2026-04-15 18:44:58,468 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:03,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:03,459 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:03,467 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:03,468 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278703}
+2026-04-15 18:45:03,469 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:08,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:08,463 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:08,471 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:08,472 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278708}
+2026-04-15 18:45:08,472 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:18,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:18,459 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:18,466 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:18,468 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278718}
+2026-04-15 18:45:18,469 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:23,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:23,459 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:23,467 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:23,469 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278723}
+2026-04-15 18:45:23,469 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:28,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:28,459 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:28,467 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:28,468 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278728}
+2026-04-15 18:45:28,468 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:33,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:33,459 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:33,468 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:33,470 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278733}
+2026-04-15 18:45:33,470 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:38,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:38,466 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:38,473 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:38,475 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278738}
+2026-04-15 18:45:38,475 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:48,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:48,462 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:48,471 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:48,472 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278748}
+2026-04-15 18:45:48,473 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:53,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:53,460 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:53,468 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:53,470 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278753}
+2026-04-15 18:45:53,470 - basicLogger - INFO - END periodic processing
+2026-04-15 18:45:56,752 - basicLogger - INFO - Request received for GET /stats
+2026-04-15 18:45:56,755 - basicLogger - DEBUG - Statistics retrieved: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278753}
+2026-04-15 18:45:56,755 - basicLogger - INFO - Request for GET /stats completed
+2026-04-15 18:45:58,448 - basicLogger - INFO - Start processing
+2026-04-15 18:45:58,460 - basicLogger - INFO - Received 0 new match history events
+2026-04-15 18:45:58,468 - basicLogger - INFO - Received 0 new champion winrate events
+2026-04-15 18:45:58,470 - basicLogger - DEBUG - Updated statistics: {'num_match_readings': 200, 'max_kills': 20, 'num_winrate_readings': 200, 'max_win_rate': 0.7, 'last_updated': 1776278758}
+2026-04-15 18:45:58,470 - basicLogger - INFO - END periodic processing

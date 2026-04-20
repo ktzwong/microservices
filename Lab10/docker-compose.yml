@@ -5,7 +5,7 @@ services:
     expose:
       - "2181"
     volumes:
-      - zookeeper-data:/data
+      - ./data/zookeeper:/data
 
   kafka:
     image: wurstmeister/kafka
@@ -18,7 +18,7 @@ services:
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
       KAFKA_CREATE_TOPICS: "events:1:1"
     volumes:
-      - kafka-data:/kafka
+      - ./data/kafka:/kafka
     depends_on:
       - zookeeper
 
@@ -96,5 +96,3 @@ services:
 
 volumes:
   mysql_data:
-  kafka-data:
-  zookeeper-data:

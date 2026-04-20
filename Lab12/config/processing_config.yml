@@ -1,0 +1,11 @@
+datastore:
+  filename: /data/data.json
+
+scheduler:
+  interval: 2
+
+eventstores:
+  match_history:
+    url: http://storage:8090/storage/league/match_history
+  champion_winrate:
+    url: http://storage:8090/storage/league/champion_winrate
